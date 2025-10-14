@@ -1,4 +1,4 @@
-<h1 align="center">Preprocesado de varios datasets 🤖 </h1>
+<h1 align="center">Preprocesado de varios datasets ✨ </h1>
 <p align="center">
   <h2 align="left"> ● Antes del preprocesado: </h2>
   <img src="./Imagenes/Captura2.JPG" width="1000"/>
