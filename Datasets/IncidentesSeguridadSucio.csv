@@ -1,0 +1,5006 @@
+ID,FECHA_REPORTE,TIPO_INCIDENTE,GRAVEDAD,AreaRecreativaID
+1,2024/06/13,Robo,Alta,17538
+2,07-16-2024,Cáídá,Baja,16724
+3,2021/03/09,Caída,Crítica,18191
+4,10-15-2023,Accidente,Media,52162
+5,2022/06/25,Accidente,Alta,17397
+6,08/06/2020,Robo,Baja,17260
+7,2023/08/23,Vándálísmó,Crítica,7928031
+8,2022-01-15,Accidente,Crítica,17278
+9,27-08-2024,Vandalismo,Media,16729
+10,04-11-2020,Accídénté,Crítica,17203
+11,11/11/2023,Accidente,Media,18354
+12,12-25-2020,Daño estructural,Media,17446
+13,18-10-2020,Caída,Media,18411
+14,09-25-2024,Caída,Media,18294
+15,11-12-2019,Daño estructural,Media,52102
+16,10-07-2024,Cáídá,Media,18321
+17,07-12-2020,Vándálísmó,Baja,18203
+18,2020/01/30,Daño estructural,Media,17181
+19,07-21-2020,Vandalismo,Alta,17701
+20,2021/08/14,Daño estructural,Baja,52114
+21,2020-10-09,Daño estructural,Baja,17907
+22,2019-11-18,Vandalismo,Media,52105
+23,08-04-2022,Caída,Media,7889423
+24,03-06-2024,Caída,Media,18118
+25,2021/06/03,Robo,Baja,52060
+26,2020/11/16,Vandalismo,Alta,6880820
+27,2019/11/27,Accídénté,Media,17849
+28,2023-09-18,Daño estructural,Crítica,17769
+29,22-10-2023,Accidente,Baja,17091
+30,2020-08-23,Daño estructural,Alta,5219934
+31,06-15-2021,Vandalismo,Alta,17629
+32,2024-04-13,Caída,Crítica,18355
+33,01/06/2020,Cáídá,Baja,17149
+34,2024/07/16,Accidente,Alta,17768
+35,12/01/2024,Vandalismo,Baja,16763
+36,28-07-2024,Cáídá,Media,3568959
+37,13/09/2023,Accidente,Crítica,16928
+38,26/07/2024,Accidente,Alta,17026
+39,2024-03-24,Daño estructural,Crítica,4985928
+40,08-03-2022,Caída,Alta,3573055
+41,27-09-2023,Daño estructural,Crítica,18010
+42,14/04/2023,Accidente,Media,17765
+43,2021-01-12,Daño estructural,Alta,7356671
+44,16/04/2021,Daño estructural,Baja,17256
+45,10-02-2024,Accidente,Media,16731
+46,17-05-2022,Caída,Crítica,18492
+47,11-04-2021,Robo,Media,17123
+48,08-10-2021,Caída,Alta,8799950
+49,2023/11/13,Daño estructural,Media,17311
+50,26/07/2020,Dáñó éstrúctúrál,Media,18430
+51,03/10/2021,Caída,Baja,18519
+52,2024/01/22,Accidente,Alta,52055
+53,04-03-2021,Caída,Crítica,52088
+54,2022/11/28,Daño estructural,Baja,7126517
+55,2022/09/28,Accidente,Alta,17798
+56,30/09/2023,Accidente,Alta,16935
+57,17-12-2022,Cáídá,Media,17997
+58,2022-07-17,Daño estructural,Baja,18481
+59,2023-04-13,Robo,Crítica,52046
+60,2020/08/30,Daño estructural,Alta,5056315
+61,2019-11-03,Robo,Baja,4986445
+62,09-06-2023,Robo,Crítica,3566363
+63,15-05-2022,Vandalismo,Media,18527
+64,2020-09-04,Caída,Media,18548
+65,2023/01/23,Robo,Crítica,16986
+66,2024/01/14,Daño estructural,Baja,16914
+67,12-09-2021,Daño estructural,Media,16830
+68,02-28-2020,Dáñó éstrúctúrál,Media,7862164
+69,04-29-2021,Dáñó éstrúctúrál,Crítica,16669
+70,06/01/2020,Vandalismo,Crítica,7838817
+71,03-18-2022,Daño estructural,Alta,17710
+72,2024/03/18,Daño estructural,Crítica,7107695
+73,01/10/2021,Daño estructural,Alta,18003
+74,05-03-2024,Robo,Alta,17977
+75,2024/10/01,Róbó,Crítica,18524
+76,22/02/2024,Accidente,Media,18468
+77,11-07-2019,Vandalismo,Media,18085
+78,05/09/2024,Daño estructural,Baja,17087
+79,03-05-2022,Robo,Crítica,17304
+80,20/11/2022,Accidente,Media,17905
+81,2022-05-05,Robo,Baja,5246196
+82,29-07-2022,Caída,Crítica,4986142
+83,11-06-2020,Róbó,Crítica,18220
+84,11-01-2019,Robo,Baja,17739
+85,22-06-2020,Robo,Alta,52116
+86,08/09/2022,Daño estructural,Baja,17900
+87,01-04-2021,Accidente,Alta,8909095
+88,17-06-2024,Cáídá,Alta,16780
+89,09-14-2020,Robo,Baja,18363
+90,29-01-2020,Accídénté,Crítica,18292
+91,2021-02-10,Caída,Crítica,7802438
+92,2022/12/21,Daño estructural,Alta,18370
+93,12-10-2022,Vandalismo,Crítica,7247843
+94,15-10-2021,Accidente,Crítica,17872
+95,10-13-2023,Daño estructural,Media,17927
+96,2022-09-19,Accidente,Crítica,17854
+97,17/12/2020,Robo,Crítica,5237131
+98,2022-05-28,Caída,Alta,52073
+99,2022-10-05,Accidente,Crítica,7125612
+100,30/06/2021,Róbó,Media,17909
+101,2020/07/27,Robo,Media,16831
+102,19-07-2020,Caída,Baja,18234
+103,08-23-2024,Caída,Crítica,4988273
+104,01-01-2023,Caída,Alta,9187536
+105,23/08/2024,Robo,Media,17911
+106,2020/03/12,Caída,Media,17686
+107,03-07-2021,Accidente,Baja,52217
+108,2020/03/20,Caída,Alta,5175231
+109,2021/10/24,Accídénté,Baja,17597
+110,2024/09/18,Robo,Baja,18470
+111,16-03-2021,Vandalismo,Baja,52111
+112,04-29-2023,Caída,Crítica,17954
+113,09-14-2021,Vandalismo,Media,18295
+114,2022/07/30,Caída,Crítica,16825
+115,2021-12-23,Caída,Alta,17477
+116,2021-10-21,Robo,Baja,7126577
+117,24/04/2022,Caída,Media,17109
+118,2020/01/18,Vandalismo,Media,17915
+119,01-01-2023,Daño estructural,Crítica,16911
+120,2021-08-19,Caída,Alta,16811
+121,16-09-2021,Accidente,Baja,17413
+122,12-19-2019,Dáñó éstrúctúrál,Media,16853
+123,30-01-2020,Accidente,Media,16718
+124,2024/07/09,Vándálísmó,Media,16822
+125,20-07-2021,Caída,Media,17144
+126,2020-01-01,Cáídá,Alta,52192
+127,2022-09-30,Caída,Baja,17701
+128,2023/06/30,Robo,Baja,16967
+129,06-02-2022,Robo,Media,17847
+130,2019-12-03,Róbó,Crítica,18269
+131,03/07/2022,Robo,Crítica,5213818
+132,2022/12/23,Daño estructural,Media,18007
+133,2022-03-13,Caída,Alta,18036
+134,2022-04-11,Vandalismo,Media,52147
+135,2022-04-06,Cáídá,Media,17919
+136,2022-03-20,Accidente,Alta,17352
+137,2020/09/29,Cáídá,Alta,17937
+138,04-10-2021,Daño estructural,Alta,8799550
+139,08-25-2023,Accídénté,Alta,18566
+140,06-09-2021,Daño estructural,Baja,18267
+141,2022/12/02,Vandalismo,Baja,18096
+142,25-07-2024,Dáñó éstrúctúrál,Alta,17816
+143,2022-08-06,Accidente,Media,17969
+144,2021/04/30,Accidente,Alta,17424
+145,05-11-2021,Cáídá,Baja,18571
+146,26/05/2022,Caída,Media,18222
+147,29/12/2022,Vandalismo,Alta,5246180
+148,28/06/2020,Robo,Baja,17824
+149,01-08-2021,Caída,Baja,16896
+150,2024-01-10,Accidente,Alta,17087
+151,09-12-2021,Vandalismo,Baja,18204
+152,2022/09/13,Daño estructural,Baja,17339
+153,23-06-2023,Vándálísmó,Baja,17029
+154,2024/02/26,Daño estructural,Alta,16672
+155,16/08/2023,Accidente,Crítica,17826
+156,20/06/2021,Caída,Alta,17012
+157,11/11/2022,Vándálísmó,Baja,18630
+158,2020/11/13,Vándálísmó,Media,3573057
+159,2021/01/02,Caída,Alta,5231441
+160,2019-10-29,Robo,Alta,16771
+161,2023/04/24,Daño estructural,Media,18437
+162,2023/01/11,Caída,Crítica,5211393
+163,2024-06-24,Vandalismo,Baja,17112
+164,06-14-2024,Accidente,Media,17583
+165,24/08/2022,Robo,Baja,18315
+166,07-13-2020,Accidente,Media,17344
+167,2020-05-15,Vándálísmó,Crítica,17000
+168,01/07/2022,Dáñó éstrúctúrál,Baja,18433
+169,24-11-2021,Caída,Crítica,18344
+170,15-09-2024,Accidente,Baja,18282
+171,07-01-2023,Robo,Alta,52209
+172,09-13-2021,Vandalismo,Crítica,52177
+173,2024-06-25,Accidente,Alta,5237137
+174,2022-10-26,Robo,Baja,5219919
+175,17-02-2024,Daño estructural,Alta,5010682
+176,10-16-2021,Daño estructural,Alta,18176
+177,2024/09/13,Caída,Alta,17652
+178,2024-06-06,Daño estructural,Alta,451542
+179,10-18-2023,Vandalismo,Baja,451569
+180,26/09/2024,Vandalismo,Crítica,18263
+181,23-02-2023,Robo,Media,18506
+182,2022-08-14,Accídénté,Baja,17159
+183,17-11-2023,Caída,Media,18468
+184,2021-12-25,Robo,Baja,451569
+185,2021/09/28,Caída,Baja,18247
+186,27-08-2024,Accidente,Alta,17265
+187,2024/05/28,Vándálísmó,Crítica,5220259
+188,04-11-2021,Vandalismo,Media,17557
+189,2024/09/23,Caída,Baja,18595
+190,29/10/2022,Caída,Alta,17211
+191,24/08/2020,Daño estructural,Alta,17016
+192,28/12/2020,Dáñó éstrúctúrál,Media,18634
+193,2024/08/12,Accidente,Crítica,16842
+194,28-11-2022,Vándálísmó,Baja,3568300
+195,03/02/2024,Vándálísmó,Crítica,5237118
+196,2021/08/06,Robo,Crítica,17420
+197,03-12-2023,Robo,Baja,17900
+198,2023/05/10,Robo,Baja,16943
+199,30-07-2024,Caída,Alta,16821
+200,29/01/2023,Cáídá,Baja,3573048
+201,05-06-2020,Dáñó éstrúctúrál,Crítica,18351
+202,2021-12-06,Robo,Baja,4984713
+203,2022-02-15,Vandalismo,Crítica,17779
+204,2020/12/16,Robo,Alta,16687
+205,25-07-2022,Caída,Alta,17939
+206,30-12-2021,Robo,Baja,52176
+207,07-27-2023,Robo,Crítica,17036
+208,2022-08-20,Daño estructural,Baja,17844
+209,2024/09/10,Cáídá,Alta,17564
+210,2021-03-22,Vandalismo,Media,17547
+211,19/12/2022,Daño estructural,Media,17286
+212,02-11-2020,Accidente,Media,18073
+213,08-15-2024,Daño estructural,Baja,18378
+214,2024/06/13,Robo,Alta,18307
+215,30/05/2021,Vandalismo,Crítica,18420
+216,04-08-2021,Accidente,Alta,461342
+217,2022/11/01,Daño estructural,Baja,18379
+218,19-10-2020,Daño estructural,Crítica,8785368
+219,17/05/2023,Vándálísmó,Alta,5240288
+220,13/03/2024,Caída,Baja,5175231
+221,04-03-2024,Accídénté,Media,17924
+222,05/01/2021,Vandalismo,Baja,16854
+223,2021/03/06,Accidente,Crítica,18102
+224,12-02-2020,Vandalismo,Media,18339
+225,20-08-2024,Vandalismo,Media,18484
+226,2022-09-15,Robo,Alta,7107699
+227,09/08/2022,Daño estructural,Alta,17219
+228,03-15-2024,Robo,Alta,17722
+229,22/03/2024,Robo,Media,16774
+230,2024/07/20,Dáñó éstrúctúrál,Media,17201
+231,04-09-2022,Caída,Media,18614
+232,09/06/2024,Cáídá,Baja,5653914
+233,11/02/2021,Robo,Baja,3568959
+234,28/04/2024,Daño estructural,Media,8799552
+235,20/11/2020,Daño estructural,Baja,17283
+236,2022/09/09,Accidente,Baja,16896
+237,06-04-2020,Vandalismo,Alta,17599
+238,03/03/2024,Vandalismo,Alta,17409
+239,16-05-2020,Caída,Crítica,17822
+240,07-06-2020,Accídénté,Crítica,17362
+241,21/09/2021,Róbó,Baja,18173
+242,05-08-2024,Vandalismo,Media,9046339
+243,27-07-2024,Vandalismo,Media,16761
+244,05-06-2020,Accidente,Baja,3568711
+245,2023-09-17,Robo,Media,17721
+246,06/04/2024,Róbó,Baja,18618
+247,2022/06/19,Róbó,Crítica,18616
+248,04-17-2024,Accidente,Baja,16820
+249,07-16-2021,Accidente,Crítica,17514
+250,02/03/2021,Vandalismo,Crítica,17093
+251,2020-01-20,Accídénté,Crítica,3531279
+252,28-07-2022,Accidente,Alta,8909088
+253,25/02/2023,Robo,Alta,17947
+254,03-04-2021,Accidente,Alta,18544
+255,25-05-2023,Robo,Alta,16964
+256,01-10-2024,Accídénté,Media,17451
+257,2022-04-19,Daño estructural,Baja,3568168
+258,30-01-2023,Daño estructural,Media,17503
+259,13/08/2020,Accidente,Crítica,17284
+260,12/12/2022,Daño estructural,Crítica,7126585
+261,28-09-2024,Accidente,Crítica,18457
+262,2020-04-28,Vandalismo,Crítica,17386
+263,2023/01/11,Robo,Media,17987
+264,21/01/2024,Accidente,Crítica,18129
+265,2019/11/17,Daño estructural,Baja,17625
+266,13-03-2021,Vandalismo,Baja,16863
+267,02/07/2022,Vandalismo,Alta,17593
+268,04-09-2022,Vandalismo,Alta,3568169
+269,05-11-2023,Caída,Baja,52211
+270,2023-10-25,Accidente,Baja,16872
+271,09-04-2020,Róbó,Crítica,5219934
+272,20-03-2023,Caída,Baja,17576
+273,06-02-2022,Caída,Baja,16762
+274,11-12-2021,Vándálísmó,Baja,17091
+275,2020-02-09,Vandalismo,Alta,18588
+276,2024-09-23,Vandalismo,Alta,16834
+277,30/10/2022,Daño estructural,Media,17997
+278,16/12/2020,Cáídá,Alta,17342
+279,2024-02-13,Robo,Baja,5237112
+280,06-06-2020,Accidente,Alta,5133174
+281,2022-10-09,Robo,Baja,18190
+282,09-27-2022,Accidente,Media,17551
+283,2022/07/14,Caída,Media,18560
+284,05/12/2023,Accidente,Crítica,18159
+285,17-06-2022,Róbó,Baja,8799632
+286,20-02-2021,Caída,Media,5071674
+287,2020-06-28,Dáñó éstrúctúrál,Media,17985
+288,12-03-2022,Robo,Media,18091
+289,09-10-2024,Daño estructural,Crítica,52209
+290,2020-11-18,Cáídá,Baja,52225
+291,2022-11-15,Vandalismo,Baja,17065
+292,05-15-2020,Dáñó éstrúctúrál,Media,17412
+293,2023-11-04,Vandalismo,Media,17022
+294,2024/03/18,Caída,Crítica,17464
+295,05-05-2023,Daño estructural,Alta,17092
+296,2020-04-05,Vandalismo,Alta,52214
+297,2023/04/06,Daño estructural,Crítica,17668
+298,2019/12/30,Robo,Media,18175
+299,07-09-2021,Daño estructural,Crítica,16696
+300,2020-08-04,Daño estructural,Media,17801
+301,2023-08-05,Daño estructural,Crítica,17542
+302,2022/05/03,Vándálísmó,Media,9049653
+303,21-09-2020,Vandalismo,Media,17894
+304,08-09-2024,Daño estructural,Media,3568279
+305,2020/05/20,Vándálísmó,Crítica,18438
+306,07-29-2020,Caída,Media,18057
+307,2023-11-30,Daño estructural,Alta,52116
+308,2022-08-07,Dáñó éstrúctúrál,Baja,9438309
+309,04/05/2020,Robo,Baja,3531279
+310,12/05/2023,Daño estructural,Baja,16907
+311,2020/02/25,Daño estructural,Baja,18323
+312,2020-11-29,Vandalismo,Media,18489
+313,10/02/2020,Accidente,Baja,16855
+314,09-05-2020,Daño estructural,Alta,7835585
+315,2020-05-14,Vandalismo,Baja,3573466
+316,12-11-2019,Accidente,Media,17009
+317,2023/01/03,Róbó,Alta,3990963
+318,03-12-2020,Vandalismo,Baja,52193
+319,08-03-2021,Daño estructural,Crítica,17396
+320,2020/03/19,Robo,Crítica,17699
+321,2021/02/10,Vandalismo,Media,17857
+322,2023/07/29,Daño estructural,Alta,7872643
+323,07-20-2023,Vandalismo,Crítica,7165942
+324,2020/10/05,Daño estructural,Alta,4794560
+325,2023/12/22,Robo,Media,17920
+326,2020-05-18,Daño estructural,Baja,3569191
+327,2020/09/14,Robo,Media,17165
+328,09-11-2024,Vandalismo,Crítica,18156
+329,29/12/2022,Dáñó éstrúctúrál,Baja,17137
+330,2020/12/10,Accidente,Media,3990960
+331,17-10-2019,Caída,Crítica,9049643
+332,20/12/2020,Accidente,Media,17221
+333,02-07-2024,Caída,Media,17759
+334,26/03/2023,Accidente,Media,16920
+335,2024-04-22,Daño estructural,Media,52090
+336,13-02-2022,Caída,Media,18231
+337,23-01-2024,Accídénté,Baja,3531283
+338,05-12-2020,Vandalismo,Crítica,17123
+339,2023/09/27,Caída,Media,52107
+340,17-02-2023,Daño estructural,Media,52144
+341,23-12-2021,Daño estructural,Crítica,16916
+342,2023/08/19,Vandalismo,Crítica,17400
+343,2023/08/18,Caída,Alta,17741
+344,02-22-2020,Vándálísmó,Baja,17723
+345,10-03-2022,Cáídá,Alta,17483
+346,14-12-2023,Vandalismo,Media,17215
+347,08-01-2022,Caída,Crítica,17794
+348,12-06-2020,Robo,Alta,17811
+349,29/05/2021,Cáídá,Crítica,5654051
+350,26/11/2020,Vandalismo,Crítica,18536
+351,2023-07-12,Vandalismo,Crítica,4749897
+352,17/06/2021,Caída,Media,5211393
+353,10-02-2022,Vandalismo,Crítica,4730800
+354,03-11-2023,Accidente,Media,8907324
+355,12-12-2021,Dáñó éstrúctúrál,Media,18418
+356,02-27-2021,Accidente,Alta,16678
+357,2021/08/25,Dáñó éstrúctúrál,Media,18554
+358,2023-11-05,Caída,Media,17383
+359,03-11-2021,Róbó,Media,18323
+360,04/12/2022,Daño estructural,Media,18239
+361,2020-02-20,Robo,Alta,4792795
+362,2023/11/30,Caída,Crítica,8799941
+363,03/07/2021,Dáñó éstrúctúrál,Crítica,16812
+364,17/07/2022,Accidente,Baja,16730
+365,06-10-2021,Accidente,Alta,17051
+366,04-25-2024,Robo,Alta,17134
+367,2020/02/23,Vandalismo,Baja,17208
+368,2022/07/15,Accidente,Alta,18198
+369,2020-11-29,Accidente,Media,18152
+370,06-29-2024,Caída,Baja,18135
+371,22-03-2021,Accidente,Crítica,17292
+372,19/08/2020,Daño estructural,Alta,17859
+373,2023/12/25,Robo,Crítica,18176
+374,2021/05/05,Robo,Crítica,18098
+375,25/02/2024,Robo,Media,7247916
+376,07-05-2023,Vandalismo,Media,17004
+377,31-01-2023,Accidente,Alta,18205
+378,2022/04/02,Vandalismo,Crítica,17416
+379,08-30-2022,Daño estructural,Crítica,5653914
+380,2023-02-06,Vandalismo,Baja,18268
+381,2022-09-01,Accidente,Baja,17644
+382,01/06/2020,Accidente,Baja,4745667
+383,2023-10-01,Robo,Media,16898
+384,25-06-2020,Robo,Crítica,18099
+385,2021/07/15,Caída,Alta,17570
+386,2024-03-06,Caída,Media,52091
+387,2024-01-06,Daño estructural,Media,18598
+388,2024-06-16,Caída,Alta,17091
+389,2020-04-08,Cáídá,Crítica,8785368
+390,2020-08-22,Vandalismo,Crítica,17073
+391,2022-08-18,Caída,Baja,16975
+392,07-19-2020,Robo,Crítica,5071591
+393,08-29-2020,Róbó,Baja,16832
+394,2022/08/22,Daño estructural,Alta,5653899
+395,2024-10-01,Daño estructural,Alta,52156
+396,2024/02/24,Caída,Media,18243
+397,10/07/2021,Daño estructural,Baja,5237139
+398,20/11/2019,Daño estructural,Baja,7144128
+399,07-06-2020,Accídénté,Crítica,17724
+400,2023-08-06,Vándálísmó,Media,5653877
+401,06-03-2024,Robo,Crítica,17500
+402,2020-01-02,Accidente,Baja,17848
+403,25-03-2024,Accidente,Alta,17000
+404,24-02-2022,Vandalismo,Alta,17051
+405,07-10-2021,Cáídá,Crítica,52183
+406,2019/11/02,Róbó,Media,9424150
+407,05/08/2024,Dáñó éstrúctúrál,Alta,17013
+408,2020-04-06,Robo,Alta,17614
+409,19/02/2022,Vandalismo,Alta,17922
+410,2022/09/18,Cáídá,Alta,18282
+411,02-21-2021,Vándálísmó,Baja,17925
+412,07-15-2021,Accidente,Media,5237133
+413,10-11-2021,Dáñó éstrúctúrál,Crítica,7802438
+414,2020-06-23,Accídénté,Crítica,16813
+415,2022/03/27,Accidente,Media,17952
+416,26/05/2023,Daño estructural,Baja,17974
+417,2024-03-29,Vándálísmó,Crítica,17856
+418,2021-06-11,Daño estructural,Baja,17037
+419,07-19-2024,Dáñó éstrúctúrál,Crítica,17948
+420,09/11/2019,Róbó,Crítica,18443
+421,2021/09/22,Daño estructural,Baja,18599
+422,05-08-2023,Caída,Crítica,17650
+423,04/04/2021,Daño estructural,Alta,17414
+424,2023/07/07,Caída,Crítica,18462
+425,04-02-2024,Robo,Crítica,16730
+426,2020/08/13,Caída,Media,18232
+427,2024/09/01,Robo,Alta,18218
+428,26/02/2022,Robo,Baja,17209
+429,2021/03/14,Vandalismo,Crítica,17468
+430,2019/10/21,Caída,Crítica,17111
+431,09-12-2023,Robo,Crítica,18564
+432,2022-09-08,Vándálísmó,Baja,17050
+433,2021-06-10,Daño estructural,Media,17564
+434,02/03/2024,Cáídá,Alta,17690
+435,04-19-2024,Caída,Alta,17470
+436,2020-06-09,Accídénté,Crítica,17340
+437,15-06-2021,Accidente,Media,17272
+438,02-03-2024,Caída,Crítica,18417
+439,11-05-2024,Accidente,Alta,16711
+440,2020/11/19,Caída,Crítica,16832
+441,09-02-2021,Daño estructural,Baja,17933
+442,09-13-2020,Vandalismo,Alta,17014
+443,12-05-2022,Robo,Baja,18043
+444,2020-11-16,Accidente,Alta,52197
+445,2022/05/27,Robo,Baja,17678
+446,22/06/2024,Vandalismo,Baja,6819621
+447,2020-10-15,Accidente,Media,5237123
+448,2021/01/12,Robo,Alta,16677
+449,15-08-2024,Daño estructural,Media,3960567
+450,22-09-2022,Daño estructural,Media,17946
+451,01-22-2022,Accidente,Baja,17100
+452,25/08/2022,Accidente,Baja,3991194
+453,03/07/2024,Daño estructural,Crítica,17113
+454,08-12-2022,Vandalismo,Crítica,16870
+455,01-05-2024,Caída,Alta,18062
+456,2024/03/13,Daño estructural,Media,451321
+457,12-26-2020,Caída,Media,4737941
+458,10-05-2022,Caída,Baja,18291
+459,16/02/2022,Caída,Baja,18009
+460,24/01/2021,Cáídá,Crítica,17421
+461,2023/09/01,Vandalismo,Crítica,17258
+462,01-08-2021,Vandalismo,Alta,17674
+463,10-15-2022,Daño estructural,Media,5240286
+464,08-21-2021,Cáídá,Alta,18325
+465,2022-07-12,Daño estructural,Alta,17193
+466,01-02-2024,Robo,Baja,4987160
+467,13-05-2023,Vandalismo,Baja,17589
+468,2022/11/09,Caída,Baja,17997
+469,2021-02-27,Cáídá,Media,18203
+470,31/05/2023,Daño estructural,Crítica,17561
+471,12-25-2020,Caída,Baja,17949
+472,31-08-2020,Daño estructural,Alta,8799553
+473,2022/03/07,Caída,Baja,16998
+474,2023/09/10,Robo,Alta,18598
+475,07-29-2020,Daño estructural,Crítica,17977
+476,2022/03/30,Caída,Baja,5166868
+477,25-02-2020,Caída,Baja,17141
+478,2021/09/27,Robo,Alta,17688
+479,10-28-2023,Vandalismo,Crítica,17491
+480,2024/02/08,Caída,Media,17007
+481,2021-02-02,Vandalismo,Crítica,18557
+482,2022/01/31,Cáídá,Media,52123
+483,2022-12-14,Caída,Baja,8941726
+484,20/07/2022,Caída,Media,18527
+485,2020-07-27,Robo,Media,17037
+486,2020/07/04,Accidente,Alta,18168
+487,2020/06/30,Robo,Baja,4737820
+488,08-29-2021,Caída,Alta,5241176
+489,2020/04/14,Caída,Crítica,5653960
+490,2022/09/16,Daño estructural,Crítica,16998
+491,21-09-2024,Accidente,Alta,18056
+492,28-04-2024,Daño estructural,Baja,461343
+493,16/08/2021,Caída,Media,17444
+494,2022/03/13,Caída,Media,17218
+495,30/09/2023,Robo,Crítica,7177654
+496,08-07-2023,Accidente,Alta,18631
+497,2022-11-13,Accidente,Crítica,17667
+498,18-02-2021,Caída,Media,16859
+499,10/04/2020,Dáñó éstrúctúrál,Baja,17257
+500,05-05-2022,Vandalismo,Baja,18184
+501,09-04-2020,Daño estructural,Media,5219935
+502,2020-07-21,Vandalismo,Baja,5220259
+503,12-09-2023,Accidente,Crítica,5240310
+504,2022-11-13,Cáídá,Media,18305
+505,2024/05/14,Cáídá,Media,17099
+506,2021-08-17,Robo,Crítica,16747
+507,04-06-2020,Daño estructural,Baja,16731
+508,2020-09-26,Daño estructural,Media,17916
+509,14/04/2022,Robo,Media,3573055
+510,27-10-2021,Vándálísmó,Alta,17916
+511,10-10-2020,Accidente,Crítica,18051
+512,2021/08/22,Vandalismo,Media,17991
+513,2021-01-26,Vandalismo,Media,17501
+514,12/03/2024,Daño estructural,Crítica,18133
+515,12-01-2020,Robo,Media,17421
+516,10-02-2021,Róbó,Media,52048
+517,2020/07/13,Robo,Baja,5218564
+518,02-26-2024,Caída,Media,17849
+519,22/09/2023,Róbó,Baja,18376
+520,07/04/2023,Daño estructural,Alta,18141
+521,29-03-2024,Daño estructural,Crítica,16727
+522,05-17-2021,Caída,Baja,17768
+523,2019/11/11,Accídénté,Media,5653890
+524,14/06/2024,Accidente,Media,18217
+525,10/08/2020,Róbó,Media,5211393
+526,2023/09/08,Robo,Media,52093
+527,06-08-2022,Daño estructural,Baja,17361
+528,11/05/2023,Accidente,Crítica,16695
+529,15/12/2021,Vandalismo,Alta,18451
+530,11-10-2022,Vandalismo,Alta,3573058
+531,16/01/2023,Robo,Media,5892353
+532,2021/03/07,Robo,Media,5211511
+533,03-20-2020,Caída,Baja,18391
+534,2020-02-25,Vandalismo,Media,3573330
+535,02-13-2021,Dáñó éstrúctúrál,Alta,17412
+536,03-11-2024,Daño estructural,Baja,16741
+537,30-07-2021,Daño estructural,Media,16723
+538,01-02-2020,Vandalismo,Alta,17075
+539,04/11/2022,Daño estructural,Media,17299
+540,07-17-2024,Caída,Baja,17993
+541,29/02/2020,Robo,Baja,17044
+542,2021-07-18,Robo,Media,18138
+543,2020/02/13,Daño estructural,Crítica,18207
+544,2023/05/25,Robo,Crítica,52179
+545,2024/10/06,Vandalismo,Crítica,17334
+546,01-24-2022,Daño estructural,Media,18294
+547,20-04-2024,Vandalismo,Crítica,9397076
+548,2021/08/12,Accídénté,Media,17607
+549,01-09-2021,Accidente,Crítica,18316
+550,27/03/2021,Caída,Media,17990
+551,09-08-2020,Robo,Baja,17310
+552,2020/02/04,Accidente,Crítica,5219922
+553,2023/11/17,Vandalismo,Alta,18582
+554,2024-07-15,Caída,Baja,18438
+555,08-09-2020,Caída,Media,5237125
+556,2021/08/20,Caída,Baja,16679
+557,2022/01/29,Robo,Media,18133
+558,2021-06-02,Accidente,Alta,18072
+559,06-02-2024,Vandalismo,Media,17075
+560,11-08-2022,Caída,Crítica,17057
+561,03/10/2020,Vándálísmó,Media,17548
+562,2023-01-30,Caída,Media,17254
+563,07-08-2023,Cáídá,Baja,18456
+564,08-16-2020,Daño estructural,Alta,5241168
+565,10-10-2022,Accidente,Media,8914015
+566,13/09/2023,Vandalismo,Baja,5213822
+567,2023-02-15,Accidente,Alta,17660
+568,12-02-2022,Vandalismo,Crítica,16851
+569,2023/10/01,Robo,Media,18411
+570,2024-03-30,Robo,Crítica,18107
+571,29-12-2021,Daño estructural,Crítica,52186
+572,14-04-2021,Dáñó éstrúctúrál,Media,6819625
+573,2023/08/19,Robo,Crítica,17999
+574,2023-08-14,Róbó,Baja,16997
+575,03/01/2022,Accidente,Baja,5109124
+576,2020-02-06,Robo,Baja,17611
+577,15-07-2023,Accidente,Media,17487
+578,15-06-2024,Vándálísmó,Media,17923
+579,2022-08-24,Vandalismo,Media,18526
+580,2020-01-14,Caída,Media,17842
+581,12-07-2021,Cáídá,Media,3991213
+582,2020/12/24,Dáñó éstrúctúrál,Alta,18056
+583,20/07/2022,Daño estructural,Baja,18209
+584,2022/05/17,Caída,Media,52044
+585,21/11/2023,Accídénté,Media,52102
+586,14-05-2024,Daño estructural,Crítica,17723
+587,2024/10/13,Vandalismo,Crítica,18004
+588,08/12/2020,Caída,Baja,17348
+589,24-11-2020,Robo,Baja,8799550
+590,2020/03/03,Accidente,Media,16674
+591,20-08-2022,Caída,Baja,3568300
+592,10/12/2022,Dáñó éstrúctúrál,Media,5213822
+593,13/10/2022,Vandalismo,Baja,17800
+594,2023-09-21,Robo,Alta,17272
+595,26/07/2022,Daño estructural,Alta,52070
+596,02-09-2022,Caída,Alta,17805
+597,2023/10/31,Caída,Media,17354
+598,05-17-2024,Accidente,Baja,17965
+599,2020-03-10,Vandalismo,Alta,7861611
+600,05-05-2023,Daño estructural,Crítica,17376
+601,2023-03-06,Róbó,Baja,18424
+602,09-03-2020,Daño estructural,Media,16945
+603,17-01-2020,Vandalismo,Alta,52216
+604,07-06-2023,Robo,Crítica,7902152
+605,13-11-2020,Robo,Alta,4983958
+606,2022-01-13,Accidente,Alta,18386
+607,01-09-2020,Daño estructural,Media,5654018
+608,2024/01/25,Caída,Media,18609
+609,2020-12-29,Vandalismo,Baja,5240110
+610,2023/04/09,Vándálísmó,Baja,18091
+611,01-07-2024,Accídénté,Alta,5237111
+612,2020/03/21,Accidente,Alta,5174681
+613,28/06/2021,Vándálísmó,Media,17400
+614,26/09/2022,Accidente,Alta,17016
+615,2022-10-05,Daño estructural,Baja,18414
+616,2024/08/10,Robo,Baja,17676
+617,13/11/2023,Robo,Alta,16848
+618,09-13-2020,Robo,Alta,16923
+619,30-04-2021,Accidente,Media,18332
+620,01-06-2024,Accidente,Alta,18057
+621,11-18-2020,Accidente,Crítica,5240282
+622,07-22-2024,Caída,Baja,17077
+623,2020/06/10,Caída,Crítica,18496
+624,2022-09-06,Robo,Media,18597
+625,22/11/2021,Robo,Crítica,6819613
+626,2024/09/12,Daño estructural,Crítica,17339
+627,10-02-2022,Vandalismo,Media,17767
+628,06-10-2023,Vandalismo,Crítica,17461
+629,2021/07/21,Daño estructural,Baja,17499
+630,07/07/2023,Accidente,Alta,18430
+631,16/01/2021,Robo,Crítica,18026
+632,2021/06/19,Daño estructural,Media,16778
+633,2021-08-08,Cáídá,Alta,17947
+634,09-27-2024,Róbó,Alta,5241186
+635,08-03-2021,Dáñó éstrúctúrál,Baja,6819614
+636,08-26-2023,Robo,Media,17825
+637,2022/03/04,Caída,Media,17667
+638,2020/09/06,Vándálísmó,Media,18380
+639,20-02-2022,Accidente,Baja,18257
+640,2023/02/20,Caída,Media,52135
+641,14-09-2022,Caída,Alta,17091
+642,16-09-2024,Vandalismo,Alta,17839
+643,2022/10/07,Dáñó éstrúctúrál,Media,4704499
+644,27/01/2024,Robo,Crítica,52148
+645,05-12-2024,Caída,Crítica,17515
+646,10-23-2021,Robo,Crítica,17826
+647,09-03-2022,Vándálísmó,Baja,18072
+648,2024/04/27,Caída,Media,17144
+649,15/03/2024,Vandalismo,Baja,5653950
+650,08-06-2022,Robo,Crítica,5201907
+651,2021-06-12,Vandalismo,Baja,17277
+652,10-17-2021,Dáñó éstrúctúrál,Alta,5237131
+653,01-12-2020,Robo,Media,18115
+654,07/05/2024,Vandalismo,Alta,8914011
+655,2023/05/28,Robo,Alta,18177
+656,07-22-2023,Accidente,Baja,17873
+657,2022-10-02,Caída,Alta,5158970
+658,2020-04-29,Daño estructural,Baja,17511
+659,2019-12-26,Accidente,Crítica,52217
+660,06-11-2020,Vándálísmó,Media,18132
+661,2022-01-19,Vandalismo,Media,9503906
+662,02-25-2023,Caída,Media,18006
+663,2022/08/16,Daño estructural,Crítica,16718
+664,08-31-2024,Robo,Baja,17536
+665,07-15-2023,Accidente,Crítica,17289
+666,02-29-2024,Robo,Baja,7074605
+667,2024/03/18,Caída,Baja,16943
+668,2024/03/04,Cáídá,Baja,18187
+669,08-09-2021,Vándálísmó,Baja,8799942
+670,19-05-2022,Robo,Media,16900
+671,12-25-2022,Robo,Baja,16885
+672,2024-02-17,Accídénté,Media,17801
+673,14/10/2020,Accidente,Media,17669
+674,2023-07-12,Daño estructural,Baja,52180
+675,2024-01-08,Dáñó éstrúctúrál,Baja,52190
+676,14-08-2022,Róbó,Alta,18375
+677,2024-10-03,Accidente,Baja,16930
+678,03-04-2021,Vandalismo,Alta,17445
+679,02/11/2023,Caída,Media,16815
+680,21-10-2020,Robo,Baja,52152
+681,12-27-2023,Róbó,Media,16852
+682,06-25-2024,Vandalismo,Alta,17751
+683,22/09/2021,Daño estructural,Baja,18559
+684,30/05/2023,Caída,Crítica,52223
+685,18/08/2020,Accídénté,Baja,5068873
+686,05-03-2024,Caída,Baja,18328
+687,25-02-2023,Robo,Crítica,18447
+688,02-06-2024,Accidente,Alta,7908048
+689,2022-09-11,Accidente,Media,5237139
+690,14-11-2019,Accidente,Media,8799638
+691,2024/06/14,Cáídá,Media,16827
+692,02/05/2020,Vandalismo,Media,7840405
+693,08-03-2021,Accidente,Baja,18012
+694,16-06-2024,Accidente,Baja,52138
+695,2023/02/06,Daño estructural,Baja,18441
+696,2019-12-01,Accidente,Baja,3576117
+697,09-12-2024,Daño estructural,Alta,17062
+698,2021-05-06,Robo,Media,17365
+699,2020/12/22,Daño estructural,Crítica,18295
+700,30/04/2022,Vandalismo,Crítica,17106
+701,09-05-2022,Robo,Media,17638
+702,18-04-2024,Caída,Crítica,52170
+703,2021/05/16,Caída,Alta,17015
+704,2020-11-30,Accidente,Crítica,18207
+705,11-09-2019,Caída,Alta,18582
+706,20/12/2022,Cáídá,Media,17435
+707,2022/03/03,Accidente,Crítica,17387
+708,04-22-2021,Cáídá,Baja,17907
+709,05/04/2020,Accídénté,Crítica,18376
+710,2021/08/22,Daño estructural,Alta,16930
+711,2023-08-05,Daño estructural,Alta,52111
+712,15/08/2024,Dáñó éstrúctúrál,Alta,5241182
+713,2023/09/07,Robo,Crítica,7059771
+714,12-28-2020,Accidente,Baja,18448
+715,2023/12/10,Caída,Crítica,17894
+716,08/01/2020,Vándálísmó,Alta,5653960
+717,23/09/2022,Robo,Crítica,18318
+718,2021/03/16,Accidente,Baja,4792795
+719,07/04/2023,Robo,Alta,17555
+720,2023-12-22,Vandalismo,Baja,7127772
+721,08-08-2024,Vandalismo,Media,18320
+722,2022/01/01,Accidente,Alta,18008
+723,2020-04-25,Accidente,Baja,3991019
+724,04-26-2023,Accidente,Alta,18263
+725,2024/01/21,Accídénté,Alta,17964
+726,30-04-2020,Vandalismo,Media,4792806
+727,09/01/2024,Daño estructural,Baja,17659
+728,2021-05-28,Vandalismo,Media,5241184
+729,2021/07/24,Róbó,Baja,17854
+730,12-10-2022,Robo,Media,52189
+731,09-15-2021,Accidente,Alta,18191
+732,2021/03/13,Accidente,Crítica,7908048
+733,2020/01/29,Vandalismo,Media,52106
+734,2023-10-03,Robo,Alta,18477
+735,13-05-2021,Vandalismo,Crítica,17697
+736,2021/06/10,Vandalismo,Media,17293
+737,04-14-2022,Robo,Alta,16749
+738,2024-09-22,Accídénté,Baja,17498
+739,2019/11/21,Vandalismo,Baja,17031
+740,10/04/2023,Dáñó éstrúctúrál,Baja,5654057
+741,13-03-2023,Daño estructural,Media,17384
+742,2023/06/09,Accidente,Baja,16717
+743,04/09/2022,Robo,Media,3568168
+744,08/01/2020,Róbó,Media,16741
+745,29/03/2021,Accídénté,Baja,52208
+746,07-27-2023,Róbó,Media,17955
+747,2023/12/19,Róbó,Crítica,18399
+748,08-26-2024,Robo,Alta,18168
+749,11-02-2020,Robo,Media,18574
+750,2022-06-06,Daño estructural,Crítica,7129038
+751,2020/05/27,Caída,Alta,16911
+752,2021-08-20,Cáídá,Alta,17781
+753,06-08-2023,Róbó,Media,18229
+754,2022/01/31,Róbó,Alta,6819617
+755,07-26-2023,Vandalismo,Crítica,18245
+756,2023-09-02,Daño estructural,Alta,18003
+757,2023-03-12,Accidente,Media,4749886
+758,10-31-2019,Vandalismo,Alta,17484
+759,2022-07-01,Robo,Baja,7126585
+760,14-10-2021,Caída,Media,4737855
+761,01/04/2022,Robo,Baja,52106
+762,2024/06/07,Daño estructural,Crítica,17800
+763,2022/03/21,Róbó,Baja,18133
+764,10-02-2024,Caída,Crítica,17429
+765,2023-01-22,Robo,Media,17608
+766,11-16-2020,Caída,Alta,17918
+767,07-04-2024,Robo,Alta,5240285
+768,30/11/2022,Dáñó éstrúctúrál,Baja,18570
+769,06-21-2021,Róbó,Alta,17278
+770,03/04/2020,Caída,Media,18172
+771,22/11/2022,Caída,Alta,17415
+772,07-05-2020,Caída,Baja,18627
+773,10-30-2020,Róbó,Crítica,18445
+774,02-15-2021,Robo,Alta,17378
+775,2022-12-20,Robo,Crítica,17983
+776,2023-08-13,Accidente,Media,5653881
+777,2022-05-22,Robo,Media,3994618
+778,01/09/2020,Caída,Baja,52040
+779,2021-09-10,Caída,Media,6819623
+780,2020/04/27,Accidente,Alta,18012
+781,2023/04/08,Robo,Media,17100
+782,01-18-2024,Vandalismo,Alta,18622
+783,2020/03/16,Robo,Crítica,4749899
+784,06-29-2024,Dáñó éstrúctúrál,Baja,17488
+785,2021/07/16,Accidente,Alta,3569421
+786,2022/01/06,Robo,Alta,4749888
+787,23-02-2021,Accidente,Alta,18114
+788,31/01/2022,Caída,Baja,18283
+789,13/03/2020,Robo,Crítica,17960
+790,03/09/2024,Robo,Baja,17042
+791,01/04/2022,Róbó,Media,18627
+792,15-08-2022,Robo,Crítica,17159
+793,12-25-2023,Daño estructural,Crítica,18324
+794,14-04-2022,Cáídá,Media,17774
+795,2020/03/18,Róbó,Media,18439
+796,2019-11-14,Robo,Baja,18248
+797,24-09-2024,Vandalismo,Baja,52228
+798,05-29-2021,Daño estructural,Media,4988302
+799,24-10-2019,Accídénté,Media,7127772
+800,02-13-2024,Daño estructural,Crítica,52124
+801,2020/10/30,Cáídá,Baja,52089
+802,12-12-2022,Cáídá,Media,18425
+803,2023/01/30,Accídénté,Alta,16938
+804,2023-12-28,Dáñó éstrúctúrál,Baja,5653924
+805,2021-08-19,Caída,Crítica,17083
+806,06/08/2022,Daño estructural,Media,52166
+807,06-29-2021,Caída,Baja,17931
+808,10-18-2021,Accídénté,Crítica,17705
+809,26/09/2022,Daño estructural,Alta,52107
+810,23-01-2023,Daño estructural,Alta,16701
+811,2022-07-11,Robo,Baja,17559
+812,29/11/2020,Vándálísmó,Crítica,17739
+813,04-06-2023,Cáídá,Media,5237114
+814,2024-08-30,Caída,Alta,5211511
+815,05-10-2022,Cáídá,Baja,16849
+816,05-17-2021,Robo,Media,17710
+817,2022/05/05,Vandalismo,Crítica,17884
+818,2021-02-17,Róbó,Baja,17769
+819,14-09-2022,Róbó,Media,17514
+820,06-07-2024,Accidente,Media,18524
+821,23-03-2020,Vándálísmó,Crítica,18597
+822,23-12-2023,Accidente,Baja,17811
+823,05-11-2019,Caída,Crítica,17374
+824,12/12/2023,Caída,Baja,18183
+825,2020/04/20,Cáídá,Baja,17577
+826,2022-02-03,Caída,Media,52154
+827,08/11/2022,Cáídá,Media,4749900
+828,07-04-2020,Daño estructural,Crítica,17413
+829,17-01-2023,Daño estructural,Baja,18222
+830,02-26-2024,Daño estructural,Alta,52214
+831,07-13-2023,Robo,Alta,7928019
+832,03-02-2021,Robo,Media,17511
+833,2023/10/31,Robo,Baja,18401
+834,2023-12-16,Robo,Baja,18378
+835,2020/01/16,Cáídá,Baja,17093
+836,07-01-2020,Accídénté,Media,3568173
+837,06-24-2020,Dáñó éstrúctúrál,Media,17388
+838,2022/12/03,Daño estructural,Baja,17193
+839,20/02/2020,Robo,Alta,52222
+840,25/07/2020,Vandalismo,Crítica,16848
+841,13-07-2023,Caída,Crítica,17867
+842,22/04/2024,Vandalismo,Alta,18184
+843,2020/08/08,Robo,Alta,17146
+844,18-07-2023,Vandalismo,Alta,17737
+845,02-22-2022,Accidente,Baja,17924
+846,24/01/2023,Accídénté,Alta,9046352
+847,18-06-2020,Accidente,Media,18141
+848,16-02-2021,Vandalismo,Alta,16778
+849,06-08-2022,Daño estructural,Media,5246189
+850,2021-11-12,Vandalismo,Media,18174
+851,17-04-2020,Daño estructural,Baja,17604
+852,2021-05-25,Accidente,Baja,17787
+853,26-07-2023,Robo,Alta,52101
+854,11-09-2022,Dáñó éstrúctúrál,Crítica,4792806
+855,2020/11/25,Daño estructural,Baja,18019
+856,04-07-2022,Caída,Baja,17258
+857,03-26-2023,Accidente,Alta,16832
+858,05/02/2023,Caída,Baja,18263
+859,04/07/2020,Daño estructural,Alta,3573055
+860,2020-02-13,Vandalismo,Baja,18030
+861,31/07/2020,Robo,Crítica,17376
+862,2020/03/14,Caída,Media,18177
+863,30-04-2024,Vandalismo,Crítica,18315
+864,2022/04/11,Vandalismo,Baja,16805
+865,2022-08-22,Caída,Baja,17675
+866,2024/09/08,Daño estructural,Baja,17080
+867,2022/11/12,Vandalismo,Alta,7840614
+868,05-18-2020,Cáídá,Alta,17327
+869,16/03/2021,Caída,Alta,17076
+870,2022/03/06,Accidente,Media,7182466
+871,2021-06-19,Robo,Alta,17965
+872,25/04/2021,Róbó,Crítica,17676
+873,2022-06-06,Daño estructural,Crítica,17641
+874,2019/11/23,Accidente,Alta,16989
+875,05-10-2024,Accidente,Media,18047
+876,2024-02-03,Caída,Crítica,17005
+877,2023-11-28,Vandalismo,Baja,17413
+878,10/07/2024,Vandalismo,Alta,17777
+879,2020/04/22,Caída,Alta,17933
+880,2024/09/09,Caída,Crítica,17466
+881,03-19-2023,Vandalismo,Alta,18042
+882,2023/12/26,Accidente,Media,5654016
+883,2024-01-27,Accidente,Alta,5240283
+884,16-11-2020,Caída,Alta,16902
+885,10-11-2020,Daño estructural,Alta,17845
+886,08-04-2020,Accidente,Alta,17847
+887,17-08-2020,Vandalismo,Alta,17526
+888,17/02/2021,Daño estructural,Crítica,16930
+889,2021-12-27,Cáídá,Alta,17901
+890,17/12/2019,Vandalismo,Media,5237124
+891,2023-07-20,Accidente,Alta,18607
+892,2021-11-30,Robo,Crítica,18302
+893,21/02/2024,Caída,Crítica,8776081
+894,2024/06/16,Accidente,Media,18322
+895,15/03/2022,Robo,Alta,17698
+896,03-10-2024,Dáñó éstrúctúrál,Crítica,7177654
+897,04-07-2021,Vandalismo,Media,17989
+898,01-10-2022,Vandalismo,Baja,8799601
+899,17-12-2022,Daño estructural,Crítica,7126585
+900,04-15-2023,Robo,Media,17245
+901,10-21-2022,Robo,Media,16855
+902,08/10/2020,Daño estructural,Alta,18595
+903,31-07-2022,Caída,Media,52194
+904,2023/05/05,Daño estructural,Crítica,5240105
+905,20-04-2021,Accidente,Baja,17163
+906,2024/04/23,Accídénté,Baja,17617
+907,26/03/2022,Vándálísmó,Media,18584
+908,26-01-2023,Cáídá,Crítica,4730886
+909,27-12-2023,Robo,Baja,5174650
+910,10/02/2021,Caída,Crítica,17460
+911,2020-09-01,Accidente,Crítica,16766
+912,2021-06-22,Róbó,Crítica,451321
+913,09-16-2024,Vandalismo,Alta,17472
+914,2022-02-01,Róbó,Baja,17936
+915,08-05-2024,Accídénté,Media,18115
+916,2022-01-02,Accídénté,Alta,17161
+917,12/04/2022,Dáñó éstrúctúrál,Crítica,5240310
+918,06-14-2020,Róbó,Alta,17705
+919,07-12-2021,Robo,Alta,16854
+920,12-21-2020,Robo,Crítica,5175231
+921,2021-12-14,Vándálísmó,Media,52193
+922,08-22-2020,Robo,Baja,17670
+923,10-07-2020,Vandalismo,Media,17299
+924,05-10-2020,Accídénté,Media,16662
+925,06/05/2021,Accidente,Crítica,8799638
+926,17-05-2023,Róbó,Baja,18240
+927,03-03-2024,Dáñó éstrúctúrál,Media,17561
+928,2021-04-21,Robo,Baja,17338
+929,2022-03-26,Robo,Alta,17593
+930,15-06-2021,Cáídá,Media,5241179
+931,2024-05-11,Vandalismo,Media,18424
+932,21/04/2024,Caída,Alta,17584
+933,2022/11/06,Vandalismo,Baja,17831
+934,2021-04-18,Accidente,Crítica,52120
+935,07-29-2020,Vandalismo,Media,7882665
+936,01-10-2023,Robo,Media,17549
+937,2020-06-13,Accidente,Baja,17091
+938,2020/11/22,Caída,Media,17028
+939,08-03-2022,Vandalismo,Crítica,18252
+940,2021-06-25,Daño estructural,Media,18544
+941,10-05-2024,Caída,Crítica,3531286
+942,2021/08/14,Accidente,Alta,16822
+943,03-03-2022,Accidente,Media,4737855
+944,2023/10/09,Dáñó éstrúctúrál,Media,18394
+945,01/08/2024,Róbó,Alta,17610
+946,2020-01-30,Robo,Baja,17634
+947,04-26-2023,Daño estructural,Crítica,9438374
+948,2024-05-30,Robo,Crítica,17309
+949,2021/01/06,Accidente,Baja,17748
+950,17/09/2022,Daño estructural,Media,17282
+951,26-12-2022,Robo,Baja,9403201
+952,05-03-2023,Daño estructural,Baja,16690
+953,2021/02/14,Accidente,Baja,18122
+954,13/01/2020,Vandalismo,Media,17853
+955,25/07/2021,Caída,Alta,17627
+956,05-05-2020,Vandalismo,Media,4730819
+957,2022/11/05,Accidente,Baja,17004
+958,2024-03-13,Vandalismo,Alta,52109
+959,2021-10-28,Vandalismo,Media,52199
+960,19/10/2022,Vándálísmó,Crítica,7140941
+961,2023-03-17,Vándálísmó,Crítica,17352
+962,2021-04-09,Accidente,Baja,5209117
+963,04/07/2021,Accidente,Alta,18153
+964,2019/12/01,Robo,Baja,5071674
+965,24-08-2022,Vandalismo,Media,17088
+966,09-11-2022,Caída,Baja,17549
+967,05-03-2022,Caída,Baja,5246185
+968,04-19-2022,Daño estructural,Baja,9272789
+969,25/04/2020,Vandalismo,Media,16686
+970,10-20-2022,Accidente,Crítica,16671
+971,2023/10/26,Robo,Media,52131
+972,14/01/2022,Caída,Crítica,18199
+973,12/08/2022,Caída,Media,4737942
+974,03/01/2022,Vándálísmó,Baja,16692
+975,10-03-2022,Vandalismo,Baja,17343
+976,2020/04/27,Daño estructural,Crítica,18501
+977,22/05/2020,Robo,Baja,18104
+978,12-04-2022,Caída,Media,16738
+979,2023-09-06,Cáídá,Baja,17796
+980,2023-03-13,Vandalismo,Media,18355
+981,07-18-2020,Accidente,Baja,52222
+982,2022/02/26,Daño estructural,Alta,7933003
+983,17/03/2022,Vandalismo,Baja,17298
+984,08-14-2022,Vándálísmó,Crítica,17163
+985,23-09-2024,Vándálísmó,Alta,8799532
+986,25/01/2020,Accidente,Alta,17015
+987,09-06-2023,Daño estructural,Crítica,52108
+988,28/10/2023,Accidente,Alta,18541
+989,2022-03-01,Daño estructural,Baja,18074
+990,2022-10-13,Caída,Alta,17775
+991,01/01/2021,Robo,Crítica,18041
+992,20-05-2024,Robo,Media,5219930
+993,08-21-2020,Dáñó éstrúctúrál,Alta,52218
+994,15-11-2019,Caída,Media,17168
+995,03/12/2021,Caída,Crítica,8799552
+996,2023-03-11,Caída,Baja,16837
+997,2024/08/29,Accídénté,Alta,17194
+998,01/10/2020,Vandalismo,Alta,18617
+999,02-08-2023,Robo,Alta,52212
+1000,16-10-2021,Vandalismo,Media,16885
+1001,09-07-2020,Vandalismo,Alta,5241171
+1002,08-19-2022,Accidente,Baja,5654014
+1003,2020-02-26,Dáñó éstrúctúrál,Crítica,16731
+1004,12-05-2021,Daño estructural,Alta,18552
+1005,25/07/2021,Vandalismo,Baja,17896
+1006,10-18-2023,Vandalismo,Alta,18221
+1007,2024/08/14,Robo,Crítica,17746
+1008,05-23-2024,Róbó,Media,17644
+1009,10-07-2024,Daño estructural,Crítica,8799942
+1010,13/12/2022,Vandalismo,Baja,18084
+1011,11-19-2021,Accidente,Media,18120
+1012,26-09-2021,Vandalismo,Media,8799549
+1013,25-12-2022,Robo,Media,18259
+1014,18/09/2022,Vándálísmó,Crítica,17288
+1015,2020-07-20,Accidente,Baja,17290
+1016,2023-09-19,Róbó,Alta,16868
+1017,01/10/2020,Accidente,Media,52056
+1018,2020-05-10,Accidente,Baja,18477
+1019,07/01/2022,Daño estructural,Baja,52189
+1020,2023/08/18,Accídénté,Crítica,16751
+1021,08-07-2024,Caída,Baja,17209
+1022,03-23-2020,Daño estructural,Baja,52153
+1023,2023/11/11,Accídénté,Crítica,5241173
+1024,2022-09-02,Daño estructural,Media,52212
+1025,27-11-2023,Daño estructural,Media,16943
+1026,05/09/2022,Robo,Media,16732
+1027,11-14-2023,Accídénté,Media,16888
+1028,2021/06/04,Accidente,Baja,451351
+1029,16-03-2021,Robo,Alta,18234
+1030,30/05/2023,Accídénté,Crítica,4986445
+1031,2021/05/09,Daño estructural,Alta,52135
+1032,2020-10-18,Róbó,Alta,16896
+1033,2020-01-31,Vandalismo,Alta,18300
+1034,06-06-2021,Róbó,Baja,17720
+1035,10/03/2024,Caída,Baja,5219931
+1036,2021-07-25,Dáñó éstrúctúrál,Alta,18057
+1037,2021/08/03,Vandalismo,Alta,18488
+1038,13-02-2022,Daño estructural,Crítica,17433
+1039,03/01/2020,Accídénté,Crítica,18530
+1040,12-25-2021,Caída,Alta,7130041
+1041,06/12/2022,Vandalismo,Baja,16757
+1042,2020/01/06,Caída,Baja,4796512
+1043,02-18-2022,Vandalismo,Alta,17632
+1044,11-12-2020,Robo,Alta,17886
+1045,16-11-2022,Caída,Baja,16766
+1046,22/05/2020,Cáídá,Crítica,7908163
+1047,13/03/2020,Vandalismo,Alta,17200
+1048,2023-08-30,Robo,Baja,5071591
+1049,13-04-2021,Caída,Media,18395
+1050,11-08-2024,Accidente,Alta,18558
+1051,2021-09-16,Vandalismo,Alta,17753
+1052,2021-12-20,Vandalismo,Baja,16918
+1053,15-04-2023,Vándálísmó,Alta,16867
+1054,24-10-2022,Caída,Crítica,17544
+1055,03-08-2020,Robo,Media,3991087
+1056,2021-11-01,Caída,Crítica,8218587
+1057,05/02/2023,Robo,Baja,18330
+1058,10-21-2021,Vandalismo,Alta,17678
+1059,01-04-2022,Cáídá,Crítica,3991213
+1060,06-07-2024,Cáídá,Alta,17089
+1061,2024-06-30,Daño estructural,Crítica,16668
+1062,27/11/2022,Caída,Alta,52106
+1063,2021/10/09,Daño estructural,Media,16935
+1064,2020-06-03,Robo,Alta,17932
+1065,12-03-2023,Accidente,Alta,17267
+1066,2021/05/17,Caída,Crítica,3566346
+1067,2022/01/17,Vandalismo,Crítica,16847
+1068,01-12-2020,Robo,Baja,18272
+1069,07/09/2020,Robo,Crítica,16997
+1070,2023-08-08,Daño estructural,Media,17015
+1071,28/07/2020,Accidente,Media,17887
+1072,08-10-2023,Robo,Baja,16928
+1073,17/09/2022,Vándálísmó,Baja,5653899
+1074,2021-05-01,Robo,Crítica,18592
+1075,2021/06/17,Róbó,Media,8775337
+1076,2023-10-16,Dáñó éstrúctúrál,Alta,5075332
+1077,03-08-2024,Cáídá,Alta,3566363
+1078,2024-08-10,Accidente,Crítica,16822
+1079,06-16-2022,Vandalismo,Baja,18250
+1080,2021/04/13,Accidente,Media,16724
+1081,21/05/2023,Robo,Alta,17212
+1082,2021/05/18,Caída,Alta,17630
+1083,2020-03-13,Caída,Crítica,17395
+1084,04-06-2024,Daño estructural,Media,18292
+1085,2021-01-28,Caída,Crítica,17796
+1086,2021/02/11,Accidente,Alta,18287
+1087,2023-08-25,Robo,Baja,17440
+1088,2023/10/25,Cáídá,Crítica,3960567
+1089,2022-01-15,Robo,Crítica,17009
+1090,2022-10-28,Daño estructural,Media,17180
+1091,22/04/2022,Accidente,Crítica,17435
+1092,09-15-2024,Róbó,Media,7761231
+1093,2019/12/05,Vandalismo,Alta,451521
+1094,2024/03/26,Caída,Alta,17754
+1095,16-02-2021,Robo,Baja,18060
+1096,05/04/2024,Vandalismo,Crítica,17600
+1097,19/05/2024,Accidente,Media,18276
+1098,28/09/2020,Caída,Baja,17654
+1099,2022-03-21,Accídénté,Baja,16678
+1100,06-06-2023,Daño estructural,Media,4749894
+1101,2024/02/20,Caída,Baja,5240286
+1102,2024/08/14,Cáídá,Crítica,17162
+1103,12-07-2020,Accidente,Alta,17503
+1104,09/10/2020,Robo,Crítica,16896
+1105,2020-10-14,Caída,Alta,52230
+1106,2024-06-21,Robo,Media,17301
+1107,20-10-2019,Caída,Crítica,18054
+1108,2021/10/17,Daño estructural,Alta,7247845
+1109,2023/08/04,Accidente,Alta,17068
+1110,2024-02-19,Daño estructural,Baja,18272
+1111,2020/10/14,Caída,Crítica,17725
+1112,2021-02-08,Vandalismo,Crítica,3568306
+1113,2023-04-14,Accídénté,Media,17270
+1114,07-15-2020,Robo,Alta,17076
+1115,12-07-2024,Daño estructural,Baja,5220743
+1116,15-04-2023,Accídénté,Alta,17953
+1117,13/08/2023,Robo,Alta,17651
+1118,2020/12/22,Robo,Baja,18436
+1119,02-27-2023,Vandalismo,Crítica,17058
+1120,2024-03-03,Vandalismo,Alta,4795654
+1121,2019/11/30,Robo,Alta,17768
+1122,29-09-2020,Accídénté,Media,52086
+1123,02-10-2024,Dáñó éstrúctúrál,Media,17123
+1124,20/08/2021,Accidente,Baja,16925
+1125,2019/12/23,Caída,Alta,17927
+1126,02-29-2024,Vandalismo,Media,17516
+1127,2021/01/06,Daño estructural,Baja,18185
+1128,23/09/2020,Daño estructural,Alta,17757
+1129,07-16-2022,Vándálísmó,Baja,17694
+1130,25/03/2021,Daño estructural,Crítica,17330
+1131,11-05-2019,Daño estructural,Baja,16663
+1132,2024-01-01,Accidente,Baja,17688
+1133,2023/08/09,Vandalismo,Crítica,7896504
+1134,10-12-2021,Vandalismo,Baja,17338
+1135,2024-01-28,Caída,Media,18056
+1136,17/08/2020,Caída,Media,5071674
+1137,2023/01/23,Vandalismo,Crítica,17122
+1138,2022-05-27,Vandalismo,Crítica,18311
+1139,01-05-2020,Robo,Crítica,17638
+1140,19-04-2021,Róbó,Crítica,5246182
+1141,2023-01-20,Caída,Crítica,52170
+1142,25-07-2022,Daño estructural,Media,8780154
+1143,16/09/2024,Róbó,Crítica,17891
+1144,2022/12/22,Robo,Media,17837
+1145,05/02/2020,Accidente,Baja,18637
+1146,2023-09-19,Daño estructural,Crítica,17522
+1147,16/04/2023,Accidente,Alta,16774
+1148,06-16-2021,Daño estructural,Alta,18286
+1149,2022-07-27,Vandalismo,Crítica,7761231
+1150,06-01-2022,Caída,Media,18151
+1151,06-09-2022,Caída,Alta,17842
+1152,04-10-2023,Accídénté,Alta,5174681
+1153,23/12/2022,Vandalismo,Alta,18337
+1154,2022/07/21,Daño estructural,Baja,17315
+1155,08-18-2023,Robo,Baja,16940
+1156,2022-01-06,Vandalismo,Alta,16880
+1157,2021-06-22,Daño estructural,Crítica,17632
+1158,09-14-2023,Robo,Alta,16889
+1159,13/12/2022,Róbó,Baja,17194
+1160,2022/10/13,Daño estructural,Media,7107699
+1161,2023-09-26,Caída,Alta,5237120
+1162,19-02-2021,Robo,Baja,17284
+1163,24-06-2024,Accidente,Media,18387
+1164,16/07/2022,Robo,Crítica,16953
+1165,01-26-2020,Vandalismo,Baja,17832
+1166,2023-09-28,Caída,Baja,18327
+1167,03/09/2023,Accidente,Alta,16813
+1168,2021-08-16,Daño estructural,Media,5246194
+1169,04-06-2023,Daño estructural,Alta,17768
+1170,05-14-2022,Caída,Alta,5237133
+1171,07/01/2023,Accidente,Crítica,17072
+1172,2021/09/24,Accídénté,Crítica,17858
+1173,2021/03/31,Róbó,Media,18172
+1174,2024/01/19,Vandalismo,Alta,52185
+1175,2023-05-20,Daño estructural,Baja,8799601
+1176,2024/10/08,Accidente,Baja,18029
+1177,05/02/2020,Caída,Baja,18106
+1178,26-04-2020,Caída,Alta,5174650
+1179,17-05-2022,Vandalismo,Alta,17064
+1180,2021-11-30,Robo,Baja,4737941
+1181,11-04-2020,Róbó,Baja,17822
+1182,2023-07-11,Cáídá,Alta,18489
+1183,2020-05-23,Accidente,Crítica,18024
+1184,2020/01/02,Caída,Alta,17486
+1185,2021-04-27,Accidente,Crítica,52175
+1186,29/05/2021,Robo,Baja,8799540
+1187,2021-04-09,Daño estructural,Baja,52122
+1188,12-26-2023,Accidente,Baja,17287
+1189,2024/08/04,Vándálísmó,Media,18498
+1190,08-10-2024,Róbó,Media,7248141
+1191,26/08/2024,Robo,Media,17529
+1192,2022-08-24,Robo,Crítica,17601
+1193,03-01-2021,Daño estructural,Alta,18265
+1194,2022/12/26,Robo,Media,16920
+1195,2024/02/10,Róbó,Baja,17018
+1196,2024/06/22,Accidente,Media,5075483
+1197,03-20-2021,Accidente,Baja,7107704
+1198,30-08-2023,Caída,Alta,18611
+1199,2022/08/18,Vandalismo,Media,5246197
+1200,08-21-2023,Accidente,Crítica,17528
+1201,03-08-2024,Accidente,Crítica,17671
+1202,10-09-2024,Caída,Crítica,17209
+1203,11-07-2023,Daño estructural,Crítica,18302
+1204,2021-02-14,Daño estructural,Crítica,5213821
+1205,2021/10/14,Daño estructural,Media,17333
+1206,2022/08/13,Robo,Alta,18344
+1207,2021-03-06,Accidente,Alta,18472
+1208,17-09-2024,Daño estructural,Baja,16763
+1209,29-10-2022,Accidente,Baja,5195385
+1210,20-03-2024,Robo,Crítica,16683
+1211,2023/08/25,Caída,Alta,16721
+1212,10-27-2019,Robo,Media,5237108
+1213,03-18-2020,Daño estructural,Baja,16865
+1214,12-06-2021,Robo,Crítica,16992
+1215,29/10/2020,Daño estructural,Media,17335
+1216,2019-12-25,Accidente,Alta,18245
+1217,2021-02-07,Vandalismo,Baja,18382
+1218,2023/08/28,Dáñó éstrúctúrál,Alta,9492997
+1219,2023/05/01,Dáñó éstrúctúrál,Crítica,16933
+1220,2021/05/13,Accidente,Alta,16843
+1221,07-17-2023,Accidente,Crítica,17093
+1222,01-15-2022,Daño estructural,Baja,461181
+1223,03-07-2022,Cáídá,Baja,17076
+1224,15/05/2020,Caída,Alta,18346
+1225,2021-11-30,Caída,Media,18503
+1226,16-02-2021,Accídénté,Alta,9046339
+1227,10-16-2020,Robo,Media,18200
+1228,05-30-2023,Caída,Alta,5241169
+1229,2024-10-01,Daño estructural,Media,52125
+1230,2022-07-04,Accidente,Baja,18144
+1231,03-26-2023,Vándálísmó,Baja,17489
+1232,2019/12/24,Daño estructural,Alta,16724
+1233,2024-07-15,Robo,Crítica,7248199
+1234,09/04/2023,Accidente,Crítica,9237483
+1235,11-16-2022,Róbó,Alta,18450
+1236,13-10-2020,Daño estructural,Crítica,18252
+1237,22/06/2020,Cáídá,Alta,17359
+1238,2021/02/13,Accidente,Crítica,18409
+1239,03-26-2023,Róbó,Baja,52153
+1240,16/02/2023,Caída,Media,18555
+1241,05-30-2020,Vándálísmó,Alta,52224
+1242,01/09/2021,Caída,Crítica,17615
+1243,09-09-2021,Robo,Crítica,18233
+1244,2022/02/01,Caída,Media,17853
+1245,2020/10/19,Daño estructural,Crítica,16835
+1246,2023/10/25,Robo,Crítica,17091
+1247,2022-06-10,Accidente,Baja,17874
+1248,2024/06/14,Accidente,Alta,16853
+1249,2021-08-22,Robo,Alta,18221
+1250,2022/12/07,Robo,Alta,18554
+1251,2023-06-08,Vandalismo,Crítica,16922
+1252,2022/06/07,Caída,Alta,18371
+1253,29/10/2021,Vandalismo,Baja,3962084
+1254,2023/04/14,Robo,Crítica,8909085
+1255,24-01-2023,Daño estructural,Crítica,16983
+1256,2020/01/30,Daño estructural,Alta,4985928
+1257,10/09/2020,Daño estructural,Alta,18598
+1258,05-20-2024,Cáídá,Alta,17140
+1259,19/06/2022,Daño estructural,Alta,17377
+1260,28/09/2023,Caída,Baja,17372
+1261,2022/10/06,Dáñó éstrúctúrál,Media,451351
+1262,23/03/2020,Caída,Crítica,18614
+1263,18-12-2020,Daño estructural,Crítica,18273
+1264,19-08-2021,Vandalismo,Alta,3960567
+1265,01-12-2020,Robo,Baja,17388
+1266,02-24-2021,Accidente,Crítica,18273
+1267,2023-11-28,Robo,Crítica,18188
+1268,01-17-2023,Vandalismo,Media,17915
+1269,2020-04-20,Vandalismo,Alta,9187084
+1270,2020-06-21,Daño estructural,Crítica,16874
+1271,2022-12-13,Daño estructural,Baja,8799543
+1272,02-10-2022,Daño estructural,Media,5240297
+1273,02-05-2021,Accidente,Baja,17472
+1274,15/11/2022,Accidente,Baja,17330
+1275,2023/02/12,Caída,Media,5174766
+1276,01-01-2023,Vándálísmó,Crítica,18113
+1277,30-12-2022,Accidente,Alta,16723
+1278,02/02/2021,Caída,Crítica,18282
+1279,2021-11-14,Accidente,Alta,18609
+1280,2023/04/15,Vandalismo,Crítica,5653903
+1281,06-10-2020,Vandalismo,Crítica,17653
+1282,2022-01-05,Daño estructural,Media,16751
+1283,2021/02/08,Caída,Alta,5237122
+1284,05-09-2020,Accidente,Media,17379
+1285,01-04-2024,Daño estructural,Baja,18336
+1286,21-04-2022,Daño estructural,Media,17732
+1287,2022/02/12,Robo,Baja,18044
+1288,2021-01-07,Accidente,Baja,18615
+1289,11-28-2019,Accidente,Crítica,16747
+1290,2023-10-06,Accidente,Baja,17355
+1291,07-12-2019,Robo,Alta,17438
+1292,2024/05/25,Dáñó éstrúctúrál,Baja,18214
+1293,2022/04/05,Robo,Alta,17254
+1294,10/01/2022,Dáñó éstrúctúrál,Alta,52231
+1295,29-07-2024,Daño estructural,Media,5653924
+1296,2021-03-05,Vandalismo,Media,17074
+1297,2020-03-03,Caída,Media,17402
+1298,2020/01/24,Daño estructural,Baja,17370
+1299,09-19-2023,Robo,Crítica,18319
+1300,19/04/2021,Daño estructural,Alta,8799942
+1301,2020/06/22,Accidente,Media,16987
+1302,2021-07-16,Daño estructural,Crítica,3961443
+1303,2021-09-30,Accidente,Media,9391954
+1304,09/04/2023,Róbó,Alta,17275
+1305,2024/07/29,Accidente,Crítica,5241178
+1306,09-30-2024,Vandalismo,Alta,52135
+1307,30/08/2020,Vandalismo,Media,7024214
+1308,2023-06-27,Caída,Baja,3573208
+1309,2020/03/25,Robo,Crítica,18117
+1310,06-04-2021,Daño estructural,Crítica,17405
+1311,2022-05-20,Caída,Crítica,18187
+1312,26/11/2022,Robo,Media,17459
+1313,18-05-2023,Accidente,Alta,17158
+1314,2020-12-06,Daño estructural,Media,17459
+1315,2020-12-21,Caída,Baja,18197
+1316,04-28-2022,Accidente,Baja,16677
+1317,2020-05-26,Accidente,Media,17746
+1318,31/01/2023,Vandalismo,Baja,18398
+1319,28-12-2019,Caída,Crítica,18629
+1320,2022/09/07,Daño estructural,Crítica,7903107
+1321,2023/12/31,Accidente,Baja,17931
+1322,10-04-2024,Accidente,Media,18598
+1323,12-07-2022,Robo,Alta,17921
+1324,27-10-2020,Vandalismo,Crítica,17263
+1325,16-05-2022,Accidente,Alta,3573058
+1326,2021/06/04,Vandalismo,Crítica,17718
+1327,22-08-2021,Caída,Crítica,16867
+1328,2020/06/05,Robo,Baja,16702
+1329,01-26-2022,Accidente,Crítica,16737
+1330,2021-12-31,Accidente,Baja,17402
+1331,09-02-2024,Daño estructural,Baja,17980
+1332,12-22-2023,Vandalismo,Baja,7126494
+1333,2021-02-28,Dáñó éstrúctúrál,Alta,17551
+1334,18/10/2023,Robo,Crítica,5241167
+1335,2022/10/15,Dáñó éstrúctúrál,Alta,7764194
+1336,06-06-2021,Accidente,Media,18119
+1337,29-12-2020,Caída,Media,17945
+1338,10-03-2020,Daño estructural,Media,3566376
+1339,11-09-2020,Accidente,Media,52210
+1340,2021/02/19,Vandalismo,Baja,18397
+1341,2019-12-01,Cáídá,Media,18036
+1342,02-27-2020,Accidente,Media,5237124
+1343,2020-05-04,Vandalismo,Baja,16859
+1344,22/10/2019,Accidente,Alta,17400
+1345,04-11-2024,Robo,Baja,17284
+1346,2023/03/24,Vandalismo,Alta,18418
+1347,04-27-2021,Róbó,Alta,17834
+1348,2022/02/10,Robo,Crítica,18368
+1349,2021/05/30,Vandalismo,Media,17993
+1350,05-05-2024,Caída,Media,16731
+1351,06/01/2024,Daño estructural,Media,3991132
+1352,16/12/2019,Robo,Media,17910
+1353,2024-06-13,Vandalismo,Crítica,52198
+1354,27/05/2020,Accidente,Media,16822
+1355,2024/08/29,Accidente,Crítica,17719
+1356,2023-08-08,Daño estructural,Crítica,17550
+1357,2024/01/11,Caída,Baja,18135
+1358,2024-03-30,Caída,Crítica,17066
+1359,08-12-2024,Daño estructural,Alta,5025103
+1360,04/11/2021,Dáñó éstrúctúrál,Baja,9396658
+1361,06-30-2021,Accidente,Crítica,18163
+1362,26/11/2023,Caída,Baja,18204
+1363,05-09-2023,Accídénté,Baja,17669
+1364,2024/08/07,Daño estructural,Baja,17772
+1365,13-08-2021,Accidente,Media,18349
+1366,2020-03-15,Accídénté,Alta,5653905
+1367,01/01/2023,Vandalismo,Alta,18570
+1368,13-02-2024,Cáídá,Media,17881
+1369,2023/10/30,Robo,Baja,18377
+1370,2024-08-20,Vandalismo,Crítica,16970
+1371,2024-01-19,Daño estructural,Crítica,18029
+1372,12-28-2019,Robo,Crítica,18338
+1373,2023/07/17,Caída,Alta,17517
+1374,03-03-2024,Dáñó éstrúctúrál,Alta,17727
+1375,2022-01-28,Robo,Baja,5654025
+1376,2021-03-31,Vandalismo,Crítica,7838758
+1377,01-31-2020,Caída,Media,17879
+1378,2021/06/23,Daño estructural,Crítica,3962084
+1379,2022-08-03,Vandalismo,Alta,17594
+1380,2021-12-12,Accidente,Alta,18106
+1381,30-07-2023,Dáñó éstrúctúrál,Media,16714
+1382,2024-01-05,Vandalismo,Media,18063
+1383,2022/08/29,Robo,Crítica,18225
+1384,2020-03-12,Caída,Baja,3991326
+1385,13/02/2020,Accídénté,Media,17941
+1386,27-11-2023,Accidente,Crítica,17242
+1387,2024-03-15,Daño estructural,Media,18498
+1388,31-10-2023,Daño estructural,Crítica,7182696
+1389,2024-04-30,Caída,Crítica,16751
+1390,2021/06/19,Accidente,Crítica,3991299
+1391,2022/05/12,Accidente,Media,8799543
+1392,07-02-2020,Daño estructural,Baja,16816
+1393,10/05/2021,Robo,Media,17561
+1394,2023-05-26,Robo,Crítica,18238
+1395,16-10-2020,Vandalismo,Alta,5237121
+1396,06-06-2021,Caída,Crítica,52086
+1397,29/09/2020,Daño estructural,Alta,16677
+1398,14-07-2020,Vandalismo,Media,17353
+1399,12-22-2020,Vandalismo,Alta,52056
+1400,23-12-2023,Robo,Baja,18561
+1401,2021-08-27,Vandalismo,Alta,3573049
+1402,04-09-2020,Robo,Media,52210
+1403,2020/06/27,Daño estructural,Media,7074605
+1404,24-04-2023,Accidente,Crítica,17870
+1405,2023/09/23,Caída,Media,18232
+1406,10/11/2021,Caída,Crítica,7144369
+1407,27/01/2023,Daño estructural,Media,6819623
+1408,28/09/2020,Robo,Media,18477
+1409,02-02-2024,Robo,Alta,18304
+1410,08-02-2021,Accidente,Crítica,4731656
+1411,2024/08/01,Daño estructural,Alta,18457
+1412,2021/07/26,Cáídá,Alta,16885
+1413,28/12/2023,Robo,Crítica,17528
+1414,12-22-2023,Robo,Crítica,52218
+1415,02-12-2020,Daño estructural,Alta,17758
+1416,2024/01/19,Caída,Media,17518
+1417,2022/05/14,Caída,Alta,17624
+1418,07-12-2023,Róbó,Media,9049643
+1419,2023/06/30,Robo,Crítica,16937
+1420,04-01-2020,Robo,Alta,17369
+1421,03/11/2022,Vandalismo,Media,52056
+1422,2019/12/10,Robo,Media,5071645
+1423,29/10/2020,Accidente,Crítica,17037
+1424,13-08-2022,Vandalismo,Crítica,18046
+1425,2022-07-02,Robo,Baja,16904
+1426,2021/02/01,Vandalismo,Media,5246189
+1427,30/06/2023,Daño estructural,Baja,18220
+1428,14-08-2022,Daño estructural,Baja,5218564
+1429,20-08-2021,Dáñó éstrúctúrál,Alta,16708
+1430,11-13-2022,Cáídá,Baja,17474
+1431,09-11-2020,Daño estructural,Media,17356
+1432,07-10-2022,Caída,Crítica,5246186
+1433,16/01/2022,Caída,Alta,17948
+1434,14/06/2023,Daño estructural,Baja,7129053
+1435,11-25-2022,Róbó,Baja,16959
+1436,2022/09/06,Daño estructural,Media,16699
+1437,06-22-2020,Daño estructural,Media,17203
+1438,11/03/2024,Caída,Crítica,18540
+1439,01-18-2020,Vandalismo,Alta,18099
+1440,27/12/2022,Vandalismo,Media,18117
+1441,03-13-2023,Robo,Media,18216
+1442,30-06-2022,Accidente,Baja,3573056
+1443,2020/06/12,Caída,Baja,18362
+1444,2019/10/31,Vandalismo,Media,3568168
+1445,2022/08/20,Robo,Baja,18366
+1446,27/07/2021,Caída,Alta,18168
+1447,2024-01-27,Daño estructural,Alta,3960567
+1448,22-05-2020,Caída,Alta,18425
+1449,2020-06-11,Daño estructural,Media,18067
+1450,03-03-2021,Daño estructural,Media,17684
+1451,25/04/2020,Vandalismo,Crítica,18086
+1452,23/01/2022,Róbó,Baja,17174
+1453,2021-12-10,Accídénté,Alta,17484
+1454,04-20-2021,Dáñó éstrúctúrál,Crítica,7126590
+1455,09-26-2020,Daño estructural,Alta,17160
+1456,2020/10/15,Accidente,Crítica,16740
+1457,23/05/2020,Daño estructural,Media,17992
+1458,03-08-2020,Vandalismo,Alta,17279
+1459,05-08-2023,Robo,Crítica,8799552
+1460,2022-09-26,Dáñó éstrúctúrál,Baja,17491
+1461,2023-08-29,Vandalismo,Crítica,5241183
+1462,2024/08/31,Cáídá,Alta,18163
+1463,2022-08-12,Dáñó éstrúctúrál,Alta,18190
+1464,17/11/2020,Vandalismo,Alta,17245
+1465,29-11-2022,Daño estructural,Baja,18182
+1466,2019/11/22,Vandalismo,Alta,18148
+1467,02/03/2023,Daño estructural,Baja,17265
+1468,08-21-2023,Cáídá,Baja,18115
+1469,12/01/2021,Vandalismo,Crítica,18117
+1470,23/08/2024,Vandalismo,Media,17180
+1471,25/10/2021,Dáñó éstrúctúrál,Baja,18609
+1472,2023/07/12,Vandalismo,Baja,18045
+1473,2024/03/16,Vandalismo,Baja,17374
+1474,2021/10/18,Daño estructural,Baja,52209
+1475,08-18-2023,Caída,Media,18098
+1476,09-09-2021,Dáñó éstrúctúrál,Alta,17827
+1477,12-01-2020,Robo,Alta,17869
+1478,2019-10-29,Vandalismo,Crítica,18225
+1479,2020-10-25,Accidente,Crítica,18398
+1480,12-09-2022,Accidente,Alta,18498
+1481,01/07/2023,Daño estructural,Crítica,52127
+1482,02-11-2022,Vandalismo,Media,17771
+1483,22-04-2021,Accidente,Crítica,16881
+1484,24-05-2021,Róbó,Crítica,5241173
+1485,23-05-2022,Accidente,Alta,3568711
+1486,13-05-2024,Vandalismo,Baja,17214
+1487,09-09-2022,Accídénté,Baja,17665
+1488,2020/06/21,Accídénté,Crítica,17526
+1489,22/12/2021,Caída,Media,17094
+1490,2022/01/19,Dáñó éstrúctúrál,Alta,17760
+1491,2024-10-11,Vandalismo,Crítica,5654016
+1492,21/01/2022,Vándálísmó,Crítica,18300
+1493,13-01-2023,Accidente,Crítica,17756
+1494,22-06-2020,Caída,Crítica,3990960
+1495,2023/12/16,Róbó,Baja,17198
+1496,2022/06/15,Accidente,Baja,3573052
+1497,06/06/2021,Robo,Media,18301
+1498,21-01-2022,Daño estructural,Media,5010682
+1499,2021-01-03,Accidente,Media,18016
+1500,09/03/2021,Cáídá,Media,18301
+1501,2022/05/09,Accidente,Crítica,18244
+1502,08-21-2021,Daño estructural,Crítica,7903107
+1503,09-15-2020,Cáídá,Crítica,16698
+1504,03-14-2023,Robo,Crítica,17678
+1505,2021-08-28,Daño estructural,Crítica,17606
+1506,22-09-2023,Caída,Media,18510
+1507,06-28-2022,Accídénté,Crítica,5246193
+1508,2022/05/06,Róbó,Media,18166
+1509,08-06-2024,Vándálísmó,Alta,18458
+1510,2021-05-20,Vandalismo,Baja,17665
+1511,2020/07/17,Vandalismo,Baja,18625
+1512,10/08/2024,Robo,Crítica,7107707
+1513,2020-06-01,Vándálísmó,Media,17618
+1514,01-31-2021,Accidente,Media,18317
+1515,2022/08/30,Daño estructural,Crítica,18005
+1516,09-03-2024,Accidente,Media,16747
+1517,13-01-2024,Robo,Baja,5241176
+1518,2020/03/08,Vandalismo,Baja,7248141
+1519,2023/12/19,Accidente,Media,16839
+1520,07/11/2019,Róbó,Media,17827
+1521,2022-02-09,Robo,Crítica,18541
+1522,2020-07-08,Vandalismo,Alta,451569
+1523,2023/07/19,Accidente,Baja,3569222
+1524,20-05-2024,Robo,Crítica,17944
+1525,2024/03/05,Daño estructural,Crítica,17644
+1526,2024-08-27,Caída,Alta,16773
+1527,06-21-2022,Dáñó éstrúctúrál,Media,17207
+1528,09-29-2020,Robo,Crítica,18244
+1529,29-01-2022,Cáídá,Crítica,17507
+1530,26-03-2024,Accidente,Baja,52194
+1531,22/08/2023,Robo,Baja,16764
+1532,19-11-2021,Caída,Media,17476
+1533,02-01-2021,Robo,Media,17720
+1534,17/10/2019,Robo,Crítica,18410
+1535,11-30-2020,Caída,Alta,52223
+1536,2022/01/22,Accidente,Crítica,7165658
+1537,2020-09-19,Vandalismo,Alta,17778
+1538,08/05/2022,Vandalismo,Media,5025103
+1539,03-24-2021,Daño estructural,Baja,18019
+1540,14/12/2022,Accidente,Media,18377
+1541,03-13-2022,Vandalismo,Media,4731210
+1542,06-01-2021,Vándálísmó,Alta,16735
+1543,17/08/2020,Caída,Crítica,17006
+1544,2021-07-03,Vándálísmó,Crítica,17891
+1545,03-14-2023,Daño estructural,Crítica,52101
+1546,10-22-2022,Accídénté,Crítica,18371
+1547,09-09-2023,Cáídá,Baja,18300
+1548,2023-02-03,Accidente,Alta,17739
+1549,2021/06/29,Caída,Crítica,7928425
+1550,03-25-2021,Accidente,Baja,17040
+1551,03-17-2023,Cáídá,Baja,18380
+1552,01-26-2021,Daño estructural,Alta,3568306
+1553,01-23-2021,Vandalismo,Crítica,17058
+1554,08/12/2021,Vandalismo,Baja,3573049
+1555,12-10-2021,Daño estructural,Alta,7107693
+1556,2020/07/10,Caída,Baja,7927322
+1557,25-05-2023,Daño estructural,Crítica,17487
+1558,2021-01-25,Accidente,Alta,17522
+1559,2022-08-23,Dáñó éstrúctúrál,Media,18348
+1560,04-04-2020,Accídénté,Crítica,18477
+1561,2024-01-05,Accídénté,Crítica,52119
+1562,30/03/2020,Dáñó éstrúctúrál,Baja,17115
+1563,26-02-2020,Daño estructural,Media,17402
+1564,03-10-2022,Vándálísmó,Media,17462
+1565,04-08-2020,Daño estructural,Alta,17577
+1566,09-30-2023,Vandalismo,Media,17103
+1567,2020/04/15,Accidente,Baja,18596
+1568,28/08/2020,Accidente,Alta,17040
+1569,06-30-2023,Robo,Media,4749898
+1570,08-27-2020,Dáñó éstrúctúrál,Media,52185
+1571,2022/04/23,Daño estructural,Crítica,17805
+1572,05-05-2023,Caída,Crítica,18236
+1573,03-03-2022,Caída,Crítica,18338
+1574,08-03-2024,Accidente,Media,18480
+1575,03/07/2021,Vandalismo,Alta,17670
+1576,03/04/2023,Caída,Alta,4989404
+1577,2020/03/19,Accídénté,Media,17374
+1578,02-09-2020,Daño estructural,Media,9046350
+1579,09-19-2023,Caída,Alta,5237108
+1580,02-02-2020,Caída,Alta,16976
+1581,2023-09-09,Róbó,Alta,52176
+1582,17/05/2021,Vándálísmó,Alta,18007
+1583,2021-03-18,Accídénté,Crítica,18260
+1584,2023-03-13,Daño estructural,Crítica,16943
+1585,21/05/2024,Robo,Alta,17123
+1586,04-17-2020,Caída,Alta,52218
+1587,21-10-2021,Daño estructural,Media,8800261
+1588,29/10/2021,Accidente,Alta,5802272
+1589,01-06-2024,Accidente,Alta,17154
+1590,15-08-2020,Caída,Baja,17503
+1591,2024/02/28,Caída,Crítica,18587
+1592,2020-02-08,Vandalismo,Baja,18294
+1593,01-31-2020,Accidente,Alta,9049643
+1594,2021-09-10,Vandalismo,Media,18207
+1595,10-29-2022,Vandalismo,Media,17258
+1596,2020/09/20,Accídénté,Baja,18590
+1597,05-07-2020,Robo,Crítica,17715
+1598,11-08-2023,Daño estructural,Crítica,17688
+1599,29-01-2022,Caída,Alta,7882667
+1600,28-07-2024,Cáídá,Crítica,18443
+1601,04-09-2022,Vandalismo,Baja,4796689
+1602,06-18-2023,Caída,Crítica,17650
+1603,08-16-2020,Accidente,Media,17910
+1604,14/06/2024,Accidente,Crítica,4730856
+1605,07-01-2020,Vándálísmó,Media,52057
+1606,2024/09/24,Vandalismo,Crítica,17243
+1607,29-06-2023,Accidente,Baja,5241179
+1608,2023-02-03,Accidente,Alta,17572
+1609,03/08/2022,Caída,Media,4986431
+1610,24-05-2024,Daño estructural,Crítica,18538
+1611,30/04/2024,Caída,Alta,17433
+1612,2021-11-11,Caída,Media,8775336
+1613,2022/08/26,Daño estructural,Baja,17775
+1614,2023-03-03,Vandalismo,Alta,18494
+1615,04/12/2020,Vandalismo,Baja,18005
+1616,05-08-2023,Robo,Baja,17960
+1617,15-06-2023,Robo,Crítica,17797
+1618,21-07-2022,Daño estructural,Media,18048
+1619,17/06/2020,Vandalismo,Alta,5220720
+1620,13-09-2021,Accidente,Media,16739
+1621,11-08-2021,Accidente,Crítica,17563
+1622,03/06/2021,Vándálísmó,Alta,8799540
+1623,12-02-2022,Accídénté,Crítica,18549
+1624,26-07-2024,Daño estructural,Alta,17715
+1625,2024/04/25,Caída,Media,17487
+1626,2022/10/11,Robo,Baja,16916
+1627,04-16-2022,Robo,Baja,5219920
+1628,10/02/2020,Vándálísmó,Baja,7903120
+1629,16-01-2023,Róbó,Baja,17759
+1630,2020/06/11,Caída,Crítica,52143
+1631,01-24-2020,Vandalismo,Alta,18513
+1632,20-04-2023,Caída,Alta,17614
+1633,01-31-2022,Caída,Alta,18086
+1634,11-05-2020,Robo,Alta,17372
+1635,06-27-2022,Accidente,Alta,18103
+1636,06-06-2020,Daño estructural,Baja,17533
+1637,2020/08/20,Daño estructural,Baja,18140
+1638,11-02-2020,Vándálísmó,Crítica,52122
+1639,10-31-2019,Accídénté,Media,5178801
+1640,2020-11-26,Vandalismo,Baja,17821
+1641,11-01-2022,Dáñó éstrúctúrál,Media,18008
+1642,2024/08/22,Vandalismo,Alta,6909670
+1643,02-29-2024,Accidente,Baja,5272342
+1644,01-31-2023,Daño estructural,Media,17405
+1645,10-23-2021,Accidente,Crítica,18301
+1646,01-07-2024,Robo,Crítica,17437
+1647,06/04/2022,Daño estructural,Baja,9181989
+1648,2024-03-07,Accidente,Media,16997
+1649,09-06-2021,Vandalismo,Crítica,16682
+1650,2023/07/29,Accidente,Baja,17379
+1651,2020-12-30,Daño estructural,Alta,3962563
+1652,2019/11/26,Caída,Media,17907
+1653,04/06/2023,Robo,Crítica,18570
+1654,19/05/2024,Robo,Crítica,7021646
+1655,26-03-2021,Daño estructural,Alta,8799638
+1656,2023/09/09,Accidente,Crítica,52191
+1657,2023/12/21,Accidente,Media,18005
+1658,2022/05/04,Cáídá,Media,17559
+1659,2022-07-16,Róbó,Crítica,3573466
+1660,05-02-2024,Accidente,Crítica,5056315
+1661,2022/09/20,Vandalismo,Crítica,17309
+1662,13-09-2022,Vandalismo,Crítica,18307
+1663,2023/12/15,Dáñó éstrúctúrál,Baja,18121
+1664,13/07/2022,Robo,Media,17198
+1665,2024/09/21,Accidente,Media,17521
+1666,06-08-2023,Accidente,Crítica,18587
+1667,2021/06/21,Caída,Alta,17813
+1668,2020-08-04,Cáídá,Crítica,18486
+1669,2019-12-30,Robo,Crítica,16990
+1670,2022/05/05,Dáñó éstrúctúrál,Media,17132
+1671,27/03/2020,Robo,Alta,18613
+1672,2020/04/03,Daño estructural,Crítica,18299
+1673,10-29-2019,Daño estructural,Alta,17901
+1674,26/09/2020,Dáñó éstrúctúrál,Crítica,17465
+1675,01-26-2020,Cáídá,Crítica,16913
+1676,25-04-2022,Dáñó éstrúctúrál,Alta,17514
+1677,01-07-2021,Daño estructural,Alta,18491
+1678,2021/10/06,Accidente,Baja,17390
+1679,03/07/2021,Accidente,Alta,18410
+1680,09-06-2020,Vandalismo,Media,52204
+1681,06-28-2024,Robo,Media,52054
+1682,26/04/2022,Vandalismo,Alta,7927322
+1683,12-11-2019,Vandalismo,Crítica,17318
+1684,11-10-2022,Cáídá,Baja,17486
+1685,07-05-2024,Róbó,Alta,18200
+1686,30-10-2023,Robo,Alta,17944
+1687,12-10-2021,Accidente,Baja,16670
+1688,2020-11-18,Cáídá,Crítica,7897950
+1689,09/12/2023,Robo,Baja,5071674
+1690,05-10-2021,Caída,Crítica,18478
+1691,2021-07-08,Robo,Alta,18471
+1692,2019/11/19,Accidente,Baja,16840
+1693,2022/10/19,Caída,Baja,17282
+1694,16-07-2021,Robo,Crítica,16959
+1695,2023/08/03,Robo,Media,17895
+1696,17-09-2024,Robo,Alta,5246194
+1697,01/04/2022,Daño estructural,Media,18584
+1698,2021/10/27,Vandalismo,Alta,9492997
+1699,2020/10/05,Accídénté,Crítica,17649
+1700,2023/07/17,Vandalismo,Alta,18459
+1701,05-31-2021,Daño estructural,Baja,5241169
+1702,12-06-2022,Accídénté,Crítica,16695
+1703,27/01/2021,Daño estructural,Alta,17760
+1704,19/02/2020,Robo,Baja,16976
+1705,01-26-2023,Caída,Baja,18272
+1706,20-07-2021,Accidente,Media,52146
+1707,06-28-2020,Accídénté,Baja,16670
+1708,06-10-2020,Dáñó éstrúctúrál,Alta,8914012
+1709,26-01-2023,Caída,Crítica,7127773
+1710,07/09/2022,Accidente,Crítica,7928031
+1711,14/05/2023,Robo,Baja,7906811
+1712,2021/07/06,Accidente,Alta,7603212
+1713,18/11/2021,Vandalismo,Alta,52110
+1714,2020-06-21,Caída,Baja,18029
+1715,31/10/2019,Accidente,Alta,16670
+1716,02-08-2022,Dáñó éstrúctúrál,Baja,17064
+1717,2020-05-31,Vandalismo,Media,5237120
+1718,2020/12/12,Vandalismo,Crítica,16684
+1719,16-05-2024,Vandalismo,Media,17131
+1720,2024/09/10,Vandalismo,Media,18240
+1721,14/12/2022,Accidente,Crítica,18169
+1722,28-01-2020,Accidente,Media,18126
+1723,2023/12/18,Accidente,Media,5240283
+1724,2020/04/29,Vandalismo,Media,16867
+1725,30-10-2021,Caída,Baja,18566
+1726,09-04-2024,Caída,Baja,17431
+1727,2022/02/12,Caída,Alta,18386
+1728,2023-07-20,Accídénté,Baja,5241188
+1729,2020-09-05,Caída,Crítica,18315
+1730,2022/02/14,Vandalismo,Media,17840
+1731,10-05-2022,Daño estructural,Baja,52161
+1732,15-09-2021,Caída,Baja,18223
+1733,17/11/2021,Daño estructural,Alta,4749887
+1734,03-07-2023,Daño estructural,Baja,16891
+1735,2021/01/07,Vandalismo,Alta,52158
+1736,10-10-2023,Vandalismo,Baja,17736
+1737,31-01-2023,Caída,Media,3568300
+1738,23/04/2022,Accidente,Alta,5237127
+1739,08-27-2021,Daño estructural,Crítica,18060
+1740,11-12-2020,Vándálísmó,Crítica,16984
+1741,2024-05-09,Dáñó éstrúctúrál,Crítica,52179
+1742,2023/01/27,Caída,Media,4986142
+1743,2020/12/04,Vándálísmó,Media,17105
+1744,06/08/2021,Accidente,Alta,18484
+1745,04-30-2023,Dáñó éstrúctúrál,Media,18334
+1746,26-06-2022,Robo,Alta,18235
+1747,2023/10/10,Róbó,Baja,6819621
+1748,24-01-2023,Daño estructural,Baja,18229
+1749,14/08/2023,Accidente,Media,17563
+1750,06/07/2021,Accidente,Alta,18555
+1751,2020/06/24,Robo,Crítica,18323
+1752,10-17-2021,Róbó,Baja,17861
+1753,24/10/2022,Caída,Baja,17952
+1754,05-05-2020,Accidente,Baja,3568177
+1755,2022/05/16,Accidente,Alta,18280
+1756,28-10-2021,Accídénté,Crítica,52128
+1757,07-11-2022,Accidente,Media,17891
+1758,11-06-2024,Vandalismo,Baja,17857
+1759,2023/01/05,Caída,Media,17523
+1760,2021-04-14,Caída,Baja,17683
+1761,08-12-2020,Dáñó éstrúctúrál,Baja,9391954
+1762,2022/03/06,Caída,Alta,17175
+1763,2023/08/10,Robo,Media,17299
+1764,2021/09/04,Dáñó éstrúctúrál,Baja,18061
+1765,2021-09-03,Accidente,Media,18604
+1766,07-20-2023,Daño estructural,Media,18507
+1767,11-29-2019,Accidente,Alta,3566373
+1768,07-28-2022,Cáídá,Baja,17584
+1769,05-26-2021,Dáñó éstrúctúrál,Media,17661
+1770,2020/11/03,Vandalismo,Crítica,16766
+1771,26/09/2024,Vandalismo,Alta,17464
+1772,2020-09-22,Robo,Baja,17388
+1773,23/02/2024,Robo,Baja,3531283
+1774,02/12/2021,Vandalismo,Baja,16702
+1775,2021-01-20,Vandalismo,Baja,18094
+1776,2020-02-08,Accidente,Baja,7602250
+1777,2021/12/09,Robo,Crítica,17498
+1778,2021/08/23,Accidente,Baja,16901
+1779,17-12-2023,Vandalismo,Alta,17938
+1780,25/07/2023,Vandalismo,Baja,18020
+1781,2019/10/29,Daño estructural,Media,17178
+1782,09-05-2020,Daño estructural,Crítica,17316
+1783,2020/06/19,Vandalismo,Crítica,16942
+1784,2020-04-13,Vandalismo,Media,5237110
+1785,05-12-2020,Accidente,Crítica,18585
+1786,16/02/2022,Vandalismo,Media,17477
+1787,2020/11/01,Caída,Crítica,17862
+1788,2020-12-08,Accídénté,Media,16844
+1789,28/09/2022,Accidente,Alta,18593
+1790,01-04-2020,Daño estructural,Media,8776034
+1791,12-13-2020,Daño estructural,Media,17804
+1792,06-07-2023,Vandalismo,Crítica,18148
+1793,2022/04/26,Daño estructural,Crítica,17348
+1794,07-02-2024,Vándálísmó,Media,17393
+1795,2021-04-23,Cáídá,Alta,18618
+1796,08-03-2021,Daño estructural,Crítica,18310
+1797,24-08-2024,Vandalismo,Media,18080
+1798,2022/08/01,Robo,Media,18031
+1799,09-08-2021,Daño estructural,Media,16764
+1800,2020/04/04,Accidente,Baja,18038
+1801,2020-08-03,Dáñó éstrúctúrál,Media,17969
+1802,2019/12/29,Robo,Crítica,18129
+1803,10-29-2020,Robo,Media,17068
+1804,2022/08/15,Robo,Media,16923
+1805,12-07-2021,Róbó,Alta,17825
+1806,30/03/2021,Robo,Alta,5654006
+1807,2021-07-28,Daño estructural,Baja,18065
+1808,12-06-2021,Accidente,Alta,5219515
+1809,2021/09/15,Accidente,Baja,52047
+1810,2021/01/04,Caída,Baja,16830
+1811,2021/11/01,Róbó,Baja,3740686
+1812,2022/02/27,Robo,Baja,3573350
+1813,2020-11-09,Robo,Alta,7107707
+1814,07/03/2020,Robo,Crítica,5071591
+1815,11-26-2020,Robo,Alta,9049658
+1816,10/09/2023,Vandalismo,Alta,18038
+1817,2022-04-16,Robo,Baja,52079
+1818,07-13-2021,Robo,Media,16847
+1819,05-28-2023,Robo,Crítica,5653942
+1820,2024-03-13,Vandalismo,Crítica,16657
+1821,02-02-2023,Vandalismo,Media,52183
+1822,2023/03/21,Daño estructural,Media,9292077
+1823,20-11-2023,Cáídá,Baja,5220720
+1824,10-07-2021,Vandalismo,Baja,18634
+1825,06-27-2021,Daño estructural,Crítica,17799
+1826,19/02/2022,Accidente,Baja,18321
+1827,08-18-2024,Accidente,Alta,18611
+1828,08/09/2024,Caída,Baja,17989
+1829,2021-05-28,Cáídá,Media,17084
+1830,23-12-2019,Robo,Crítica,17772
+1831,07-13-2023,Accidente,Baja,18585
+1832,11-30-2019,Caída,Crítica,3568279
+1833,15/02/2024,Robo,Baja,52170
+1834,06-10-2023,Accidente,Alta,17686
+1835,03/04/2020,Accidente,Media,17398
+1836,12-30-2019,Robo,Alta,17669
+1837,12-21-2023,Caída,Crítica,18093
+1838,19-01-2021,Robo,Alta,17176
+1839,05-08-2024,Robo,Baja,17134
+1840,09/04/2023,Robo,Baja,18177
+1841,2024/08/05,Vándálísmó,Media,17866
+1842,2023-11-04,Róbó,Media,5237110
+1843,03-11-2022,Daño estructural,Crítica,17170
+1844,2020-04-25,Dáñó éstrúctúrál,Alta,5237117
+1845,2020/01/19,Robo,Alta,16661
+1846,10-21-2021,Caída,Media,16709
+1847,18-11-2020,Accidente,Crítica,17608
+1848,2023-06-27,Caída,Media,17307
+1849,17-10-2019,Vandalismo,Alta,17384
+1850,2022-11-22,Dáñó éstrúctúrál,Baja,16926
+1851,2024-08-25,Caída,Alta,17738
+1852,2022/09/12,Daño estructural,Baja,17732
+1853,26/10/2022,Robo,Media,9187084
+1854,2022-09-19,Robo,Alta,5237109
+1855,18-06-2023,Daño estructural,Crítica,3573058
+1856,2021/03/05,Robo,Media,4990656
+1857,08-23-2022,Caída,Alta,18263
+1858,19-10-2023,Robo,Alta,16736
+1859,04/11/2021,Cáídá,Media,7903120
+1860,2023/09/22,Caída,Alta,17530
+1861,2023/04/16,Daño estructural,Crítica,18299
+1862,2024/06/05,Accidente,Baja,16989
+1863,2022-05-23,Accídénté,Baja,7074478
+1864,26/08/2022,Dáñó éstrúctúrál,Crítica,18240
+1865,28/04/2021,Vandalismo,Crítica,16884
+1866,24/11/2023,Accidente,Crítica,8914014
+1867,29-08-2020,Vandalismo,Media,18033
+1868,10-29-2020,Daño estructural,Media,16966
+1869,07-03-2022,Daño estructural,Media,5195676
+1870,08-07-2022,Vandalismo,Baja,18192
+1871,05/06/2021,Accídénté,Baja,16880
+1872,11-08-2020,Cáídá,Media,17007
+1873,2024/05/18,Caída,Baja,17876
+1874,05-15-2020,Vandalismo,Media,17272
+1875,07-19-2020,Robo,Media,16855
+1876,2020-07-04,Daño estructural,Baja,17886
+1877,2021-07-06,Accidente,Baja,17736
+1878,04-08-2022,Daño estructural,Media,17922
+1879,01-13-2024,Daño estructural,Baja,9235167
+1880,03-11-2020,Robo,Crítica,17712
+1881,16/10/2021,Accídénté,Media,17062
+1882,2023/02/25,Vandalismo,Alta,52088
+1883,2024-01-26,Robo,Media,16884
+1884,12-11-2023,Caída,Media,3568279
+1885,10-23-2021,Daño estructural,Alta,7125670
+1886,2022-12-10,Vandalismo,Baja,18128
+1887,2023/07/06,Vándálísmó,Alta,18275
+1888,2023/05/29,Vándálísmó,Crítica,4731656
+1889,03-10-2022,Daño estructural,Crítica,17764
+1890,25-07-2022,Caída,Baja,7943778
+1891,2022-06-24,Robo,Alta,3991299
+1892,2024-06-29,Robo,Media,5246185
+1893,30/06/2024,Vándálísmó,Media,5240112
+1894,2022/07/09,Caída,Baja,5653737
+1895,13/06/2023,Accidente,Crítica,17343
+1896,01-22-2023,Robo,Media,17048
+1897,06-10-2022,Cáídá,Alta,4986431
+1898,2023/03/26,Robo,Baja,16698
+1899,01-19-2023,Daño estructural,Crítica,17093
+1900,2023/03/29,Vándálísmó,Crítica,17874
+1901,02/05/2020,Robo,Alta,18197
+1902,11-17-2019,Robo,Media,17805
+1903,2023/08/05,Robo,Media,3573208
+1904,12/12/2020,Vandalismo,Crítica,52214
+1905,01-09-2021,Róbó,Media,18384
+1906,28-04-2021,Daño estructural,Crítica,18535
+1907,2020/12/19,Vandalismo,Media,3568169
+1908,09-11-2023,Accidente,Crítica,18009
+1909,30-06-2024,Róbó,Crítica,18206
+1910,2022/05/11,Accidente,Alta,17163
+1911,2021/02/09,Daño estructural,Crítica,6819622
+1912,22-01-2020,Caída,Crítica,18374
+1913,28-09-2020,Daño estructural,Alta,3569235
+1914,03-04-2021,Robo,Alta,52195
+1915,15/12/2020,Vándálísmó,Alta,18298
+1916,01-12-2023,Vandalismo,Crítica,17947
+1917,2022-02-21,Caída,Crítica,7943778
+1918,31-12-2020,Robo,Alta,3991019
+1919,05-10-2022,Daño estructural,Alta,16838
+1920,2020-03-25,Caída,Alta,5219920
+1921,2022-06-13,Dáñó éstrúctúrál,Media,3569235
+1922,2023-04-06,Vandalismo,Crítica,4737820
+1923,08/09/2023,Cáídá,Media,17197
+1924,30/12/2022,Cáídá,Baja,18187
+1925,2019/11/16,Accidente,Baja,8799554
+1926,13-04-2021,Robo,Media,16746
+1927,2022/11/02,Accídénté,Media,17027
+1928,02-08-2020,Robo,Baja,18453
+1929,11/09/2023,Daño estructural,Baja,52048
+1930,20/10/2021,Caída,Alta,8800259
+1931,22-07-2021,Robo,Media,7126517
+1932,06-04-2023,Daño estructural,Crítica,52068
+1933,2021/03/05,Daño estructural,Baja,52149
+1934,07/09/2024,Vándálísmó,Alta,17305
+1935,05-19-2020,Daño estructural,Crítica,17430
+1936,2023/08/20,Accidente,Baja,18473
+1937,22/12/2019,Caída,Media,18317
+1938,17-06-2023,Accidente,Media,8776080
+1939,2021-07-23,Daño estructural,Crítica,17348
+1940,2024/01/16,Dáñó éstrúctúrál,Media,4792788
+1941,2020/06/22,Robo,Media,3568279
+1942,2022-12-12,Caída,Baja,18571
+1943,07-23-2022,Daño estructural,Baja,18532
+1944,2024-03-08,Daño estructural,Crítica,4985689
+1945,13-10-2024,Vandalismo,Baja,17668
+1946,2022-07-31,Vándálísmó,Media,17911
+1947,2022-09-03,Daño estructural,Media,16891
+1948,2020/12/06,Daño estructural,Crítica,17786
+1949,11-07-2022,Daño estructural,Media,5653984
+1950,04-29-2024,Cáídá,Crítica,17714
+1951,02-06-2021,Róbó,Baja,18202
+1952,06-17-2024,Robo,Alta,18471
+1953,03/02/2023,Daño estructural,Media,18595
+1954,2024/03/03,Caída,Media,17257
+1955,29/08/2020,Accidente,Alta,7177654
+1956,12-29-2023,Cáídá,Media,52088
+1957,2020/02/19,Caída,Baja,18355
+1958,04-10-2021,Daño estructural,Alta,18268
+1959,29/03/2022,Dáñó éstrúctúrál,Alta,52074
+1960,01/03/2021,Vandalismo,Media,17684
+1961,2022/08/04,Daño estructural,Alta,7840405
+1962,2024-03-30,Daño estructural,Baja,6819612
+1963,2024-09-26,Caída,Alta,17292
+1964,2024/07/05,Cáídá,Media,18532
+1965,22-02-2020,Accidente,Baja,9294501
+1966,2023-04-28,Vandalismo,Alta,18590
+1967,31-12-2020,Daño estructural,Baja,17519
+1968,2021/07/30,Vandalismo,Media,5653967
+1969,26-11-2021,Caída,Alta,5240285
+1970,12-14-2022,Róbó,Alta,3531284
+1971,30-05-2022,Caída,Crítica,8941726
+1972,06-23-2023,Accidente,Baja,18596
+1973,02/08/2021,Daño estructural,Media,16722
+1974,2020/02/25,Caída,Alta,17481
+1975,2020/08/25,Cáídá,Crítica,52124
+1976,29-07-2021,Robo,Media,8907322
+1977,2022-12-03,Robo,Alta,17566
+1978,01-24-2024,Cáídá,Crítica,18593
+1979,07/09/2024,Accidente,Alta,18026
+1980,2020/12/01,Caída,Media,6819616
+1981,2020/08/05,Caída,Media,18475
+1982,24/08/2024,Vandalismo,Media,17088
+1983,03/01/2022,Caída,Baja,17652
+1984,31/05/2020,Caída,Crítica,4749886
+1985,12-06-2020,Robo,Crítica,52115
+1986,2023/03/27,Daño estructural,Alta,5240281
+1987,02/08/2020,Vándálísmó,Baja,17172
+1988,09-01-2021,Accidente,Crítica,18533
+1989,02-17-2020,Daño estructural,Baja,3573331
+1990,2024/08/07,Róbó,Alta,5174720
+1991,2022/06/13,Accidente,Media,18563
+1992,27-04-2021,Robo,Baja,52902
+1993,31/05/2024,Robo,Alta,17937
+1994,02/10/2022,Dáñó éstrúctúrál,Media,18012
+1995,27/10/2022,Accidente,Media,17702
+1996,2021/06/02,Robo,Baja,16881
+1997,2023/12/18,Vandalismo,Media,52213
+1998,10-25-2021,Caída,Alta,18248
+1999,30-06-2020,Cáídá,Baja,17326
+2000,2020/10/09,Robo,Crítica,16836
+2001,27-07-2023,Robo,Media,52116
+2002,13/11/2020,Róbó,Crítica,17371
+2003,05-10-2024,Vandalismo,Alta,17822
+2004,28-05-2022,Daño estructural,Baja,52165
+2005,08-17-2022,Accidente,Crítica,6819620
+2006,2023/06/06,Daño estructural,Crítica,18079
+2007,14-01-2020,Vándálísmó,Alta,7125612
+2008,18/02/2023,Robo,Alta,5246184
+2009,01/05/2022,Caída,Media,18020
+2010,2023-08-17,Daño estructural,Baja,5195385
+2011,04-17-2022,Accidente,Baja,16707
+2012,12-20-2019,Caída,Crítica,16674
+2013,2022-07-23,Caída,Alta,52188
+2014,2020-07-18,Caída,Alta,16728
+2015,2024/05/04,Robo,Alta,18027
+2016,2022-05-05,Vandalismo,Media,17075
+2017,09-19-2023,Vandalismo,Media,17504
+2018,2019-11-18,Robo,Media,17554
+2019,19-11-2020,Daño estructural,Baja,17393
+2020,2020-03-20,Vándálísmó,Crítica,8799638
+2021,04-12-2022,Vándálísmó,Crítica,17319
+2022,10-11-2021,Vandalismo,Alta,17146
+2023,21/03/2021,Accidente,Baja,8914013
+2024,17/12/2021,Caída,Media,18420
+2025,2022-10-26,Accidente,Baja,18103
+2026,01-05-2024,Accidente,Crítica,17634
+2027,2024-02-23,Daño estructural,Baja,18052
+2028,03-05-2023,Accidente,Crítica,18014
+2029,11-07-2022,Vándálísmó,Baja,8799600
+2030,11/02/2023,Daño estructural,Crítica,7129038
+2031,20/11/2019,Daño estructural,Crítica,16685
+2032,2024-06-22,Robo,Baja,18595
+2033,10-09-2022,Vándálísmó,Baja,16865
+2034,2021/09/04,Cáídá,Baja,17378
+2035,05-22-2021,Caída,Baja,17585
+2036,2024/08/03,Accidente,Baja,17110
+2037,2022-10-24,Daño estructural,Alta,18166
+2038,2021/06/27,Robo,Media,17647
+2039,2022/03/27,Vándálísmó,Baja,52169
+2040,08/09/2024,Accídénté,Alta,7024214
+2041,05-05-2023,Accidente,Baja,18131
+2042,2022-05-06,Caída,Baja,18361
+2043,2021-08-28,Accídénté,Crítica,16907
+2044,02-05-2023,Vandalismo,Alta,3569421
+2045,2019/12/14,Vandalismo,Baja,17630
+2046,28/07/2020,Vandalismo,Media,18257
+2047,06-08-2020,Caída,Baja,16682
+2048,01/01/2021,Robo,Crítica,18253
+2049,16-09-2023,Cáídá,Media,17958
+2050,09-19-2021,Accidente,Media,9180738
+2051,2021-10-30,Vándálísmó,Baja,18057
+2052,2024-07-29,Vandalismo,Alta,52148
+2053,26/12/2021,Robo,Baja,18391
+2054,2022-01-23,Daño estructural,Media,7841427
+2055,2022-02-15,Accídénté,Crítica,52114
+2056,07-11-2020,Róbó,Baja,17894
+2057,2022/11/22,Daño estructural,Baja,9492866
+2058,03-17-2021,Caída,Baja,18417
+2059,2023-08-19,Robo,Media,18600
+2060,22/10/2023,Robo,Baja,17740
+2061,13-01-2023,Robo,Alta,16924
+2062,23-04-2023,Vandalismo,Media,17215
+2063,07-12-2023,Caída,Alta,17393
+2064,2020/04/05,Daño estructural,Media,17461
+2065,2021-10-17,Vandalismo,Crítica,17493
+2066,23-12-2020,Daño estructural,Crítica,16913
+2067,24/08/2021,Daño estructural,Baja,18403
+2068,11-23-2022,Robo,Baja,5224222
+2069,27/07/2022,Robo,Alta,16766
+2070,07-01-2024,Robo,Baja,17082
+2071,2022/04/30,Caída,Alta,17646
+2072,2020-04-25,Daño estructural,Media,18376
+2073,2024/08/23,Daño estructural,Media,18107
+2074,2022/08/26,Caída,Crítica,17846
+2075,2024/06/05,Accídénté,Crítica,5071674
+2076,2020/03/02,Caída,Alta,17186
+2077,07-18-2021,Robo,Crítica,52127
+2078,2022-09-03,Caída,Baja,18408
+2079,03-29-2020,Dáñó éstrúctúrál,Media,17529
+2080,05-31-2022,Daño estructural,Alta,18487
+2081,06-05-2024,Robo,Crítica,17283
+2082,03-03-2021,Cáídá,Crítica,17852
+2083,01-09-2023,Vándálísmó,Baja,3573018
+2084,09-02-2022,Robo,Baja,17524
+2085,06/04/2023,Daño estructural,Baja,16762
+2086,2023/06/27,Dáñó éstrúctúrál,Crítica,5174650
+2087,21-05-2024,Caída,Alta,18169
+2088,2023-12-02,Caída,Baja,5056315
+2089,13/06/2021,Robo,Baja,17345
+2090,2022-01-11,Vandalismo,Crítica,5178865
+2091,2023/08/03,Róbó,Baja,17006
+2092,2020/06/24,Caída,Baja,18464
+2093,12-02-2021,Caída,Crítica,18554
+2094,20-04-2022,Accidente,Crítica,18062
+2095,2023-03-22,Daño estructural,Alta,17034
+2096,05-17-2024,Accidente,Baja,18615
+2097,2024/04/25,Caída,Alta,17881
+2098,2022-02-27,Vandalismo,Crítica,16805
+2099,2024-07-15,Róbó,Baja,5246187
+2100,2020/11/13,Accidente,Media,17266
+2101,26/06/2020,Vandalismo,Alta,18340
+2102,2024-05-05,Caída,Media,17625
+2103,2023/01/21,Vándálísmó,Crítica,8786012
+2104,07-29-2021,Vándálísmó,Media,5799343
+2105,2022/09/22,Vandalismo,Crítica,18209
+2106,2020-06-11,Robo,Alta,18461
+2107,2021/01/28,Robo,Alta,17442
+2108,2023/04/08,Vándálísmó,Media,52135
+2109,2023-04-30,Daño estructural,Media,17959
+2110,11/07/2020,Daño estructural,Crítica,18335
+2111,2020-08-09,Accidente,Crítica,5237124
+2112,2023-09-30,Vándálísmó,Crítica,17543
+2113,2023-08-31,Caída,Crítica,16986
+2114,02-07-2023,Robo,Crítica,18575
+2115,2024/09/18,Robo,Crítica,17275
+2116,2022-12-18,Caída,Crítica,16967
+2117,2022/01/04,Dáñó éstrúctúrál,Alta,18027
+2118,15/07/2020,Vandalismo,Baja,17806
+2119,2020/10/25,Daño estructural,Baja,18345
+2120,2023-07-23,Daño estructural,Crítica,18352
+2121,2021/02/02,Caída,Baja,7602249
+2122,09-28-2024,Daño estructural,Alta,17103
+2123,2022-06-10,Caída,Crítica,17327
+2124,2024/10/11,Vandalismo,Media,18494
+2125,2021-03-07,Vandalismo,Baja,18541
+2126,2023/05/23,Vándálísmó,Media,16846
+2127,09-01-2023,Robo,Crítica,17964
+2128,2019-12-25,Daño estructural,Alta,6819623
+2129,2019/11/04,Daño estructural,Crítica,17180
+2130,24/12/2020,Róbó,Alta,17034
+2131,06-10-2023,Róbó,Alta,17088
+2132,2021/11/17,Daño estructural,Alta,17989
+2133,03-03-2024,Accidente,Media,17766
+2134,2021-08-30,Accidente,Media,17763
+2135,2021/11/02,Caída,Baja,17163
+2136,16-09-2024,Caída,Crítica,5237113
+2137,17-11-2019,Daño estructural,Crítica,8775337
+2138,08-06-2024,Daño estructural,Media,17866
+2139,07-02-2022,Accidente,Crítica,16772
+2140,14-01-2020,Vandalismo,Alta,17147
+2141,18/03/2022,Caída,Baja,18104
+2142,2020/10/27,Daño estructural,Alta,17426
+2143,2023-07-12,Daño estructural,Alta,17677
+2144,21-11-2022,Caída,Alta,3566376
+2145,30/11/2022,Daño estructural,Baja,17336
+2146,2022/02/04,Accidente,Baja,7356676
+2147,15-11-2021,Vándálísmó,Alta,4792806
+2148,14-09-2024,Cáídá,Crítica,16989
+2149,19/03/2022,Accidente,Crítica,18259
+2150,21/07/2021,Accídénté,Baja,17622
+2151,24-06-2020,Robo,Baja,16780
+2152,2022/01/12,Vándálísmó,Baja,8799532
+2153,2021/12/12,Caída,Crítica,7602249
+2154,11/04/2021,Vandalismo,Media,5241172
+2155,2024/07/15,Caída,Baja,17636
+2156,06-28-2020,Dáñó éstrúctúrál,Media,18464
+2157,2023/07/15,Accidente,Crítica,17792
+2158,29/05/2020,Accidente,Alta,17027
+2159,2020/06/30,Robo,Crítica,18299
+2160,2023-08-24,Caída,Baja,17447
+2161,2023/05/22,Robo,Baja,18635
+2162,2024/05/07,Daño estructural,Baja,18460
+2163,2020-08-01,Accidente,Media,7902706
+2164,2023/06/02,Vandalismo,Media,17930
+2165,24-05-2021,Dáñó éstrúctúrál,Media,7861574
+2166,2020/03/20,Daño estructural,Crítica,7127773
+2167,05-13-2021,Accídénté,Baja,17906
+2168,27/09/2024,Caída,Baja,17176
+2169,02-24-2020,Daño estructural,Crítica,52181
+2170,11-09-2022,Róbó,Crítica,18101
+2171,07-11-2019,Accidente,Crítica,18568
+2172,2024-03-12,Vandalismo,Crítica,17990
+2173,10-18-2021,Vandalismo,Baja,18579
+2174,03-31-2020,Accidente,Baja,17421
+2175,03/08/2021,Vandalismo,Alta,52094
+2176,29-08-2022,Caída,Media,7840614
+2177,2020-06-25,Robo,Media,17886
+2178,2021-11-23,Caída,Crítica,18607
+2179,2020/04/22,Accídénté,Alta,17030
+2180,2021/06/11,Robo,Crítica,18299
+2181,2023/07/22,Accidente,Crítica,16747
+2182,2022/09/23,Dáñó éstrúctúrál,Alta,17542
+2183,27-07-2020,Cáídá,Crítica,52088
+2184,08-08-2022,Accidente,Baja,7280401
+2185,04-10-2023,Caída,Media,17317
+2186,02-12-2023,Vandalismo,Crítica,9438309
+2187,19-11-2020,Caída,Alta,8218587
+2188,05-02-2022,Vandalismo,Alta,17358
+2189,04-05-2021,Robo,Baja,17644
+2190,10-25-2023,Daño estructural,Baja,18449
+2191,2019/11/18,Vandalismo,Alta,5213823
+2192,2023/11/08,Caída,Crítica,17321
+2193,29-01-2020,Daño estructural,Crítica,18409
+2194,21-10-2023,Cáídá,Alta,17438
+2195,2021/05/21,Caída,Alta,7861574
+2196,2022-12-22,Caída,Crítica,9294501
+2197,20-12-2021,Robo,Baja,17899
+2198,2021-11-09,Caída,Media,18564
+2199,2022/06/09,Caída,Baja,18371
+2200,21-06-2023,Robo,Baja,52203
+2201,01-30-2024,Daño estructural,Media,18313
+2202,2024-03-12,Daño estructural,Media,52213
+2203,2024/03/12,Accidente,Crítica,7021749
+2204,2022/06/08,Caída,Media,17530
+2205,2023-02-11,Vándálísmó,Baja,17993
+2206,03-11-2020,Daño estructural,Baja,18268
+2207,25/11/2023,Accidente,Media,17977
+2208,09-18-2021,Caída,Crítica,17864
+2209,12-13-2021,Dáñó éstrúctúrál,Crítica,5195385
+2210,2024/06/14,Accidente,Media,7886698
+2211,05-26-2024,Daño estructural,Crítica,16921
+2212,04-10-2022,Accidente,Crítica,18094
+2213,07/01/2021,Accidente,Media,52190
+2214,2020-06-28,Vándálísmó,Media,18107
+2215,04/08/2023,Accidente,Media,5241169
+2216,12-16-2021,Daño estructural,Baja,17940
+2217,2023/01/07,Vandalismo,Crítica,17961
+2218,2024-07-25,Daño estructural,Media,17775
+2219,12-28-2020,Daño estructural,Baja,17033
+2220,14-09-2022,Daño estructural,Baja,17200
+2221,04-27-2022,Daño estructural,Media,17646
+2222,01/04/2024,Daño estructural,Baja,16815
+2223,2020/08/02,Robo,Media,18048
+2224,2020/04/07,Cáídá,Alta,16790
+2225,2021/11/07,Vandalismo,Crítica,451442
+2226,2023-12-05,Caída,Baja,17030
+2227,02/04/2022,Caída,Media,9269361
+2228,13/05/2024,Caída,Baja,16873
+2229,2022-10-18,Robo,Media,18221
+2230,05/01/2020,Caída,Baja,17995
+2231,09/01/2023,Caída,Baja,3568169
+2232,2020/10/06,Accidente,Media,18427
+2233,07-01-2022,Robo,Baja,16883
+2234,09-11-2023,Vandalismo,Crítica,17186
+2235,2020/08/20,Vandalismo,Alta,52102
+2236,2023/03/27,Dáñó éstrúctúrál,Media,6905562
+2237,05-01-2023,Vandalismo,Baja,18380
+2238,25-10-2022,Daño estructural,Crítica,17879
+2239,09/02/2021,Robo,Baja,16908
+2240,2023-10-11,Vandalismo,Baja,7838836
+2241,27/05/2023,Accídénté,Alta,5240280
+2242,16/07/2022,Accidente,Alta,16906
+2243,2020-08-25,Accidente,Baja,18067
+2244,2024-07-29,Caída,Alta,52221
+2245,2022/08/22,Robo,Crítica,18323
+2246,05/12/2023,Accidente,Media,16865
+2247,08-22-2024,Robo,Alta,17955
+2248,31-07-2022,Accidente,Media,8799543
+2249,31-10-2019,Robo,Alta,17173
+2250,2024/02/24,Accidente,Media,18393
+2251,2020/12/16,Róbó,Baja,17127
+2252,09-03-2021,Vandalismo,Alta,16756
+2253,08-14-2023,Caída,Baja,18540
+2254,2022/06/09,Caída,Alta,17064
+2255,05/06/2023,Vandalismo,Alta,451321
+2256,2020-02-07,Dáñó éstrúctúrál,Baja,17533
+2257,2021/07/22,Accidente,Baja,5240105
+2258,09/06/2021,Daño estructural,Alta,7130041
+2259,11-06-2022,Daño estructural,Crítica,16678
+2260,2021-04-19,Caída,Crítica,17351
+2261,05-21-2020,Vandalismo,Baja,52157
+2262,03-16-2021,Robo,Alta,52087
+2263,10-03-2020,Accídénté,Alta,7126531
+2264,2024-09-25,Daño estructural,Crítica,18497
+2265,25-12-2021,Cáídá,Baja,18394
+2266,02-15-2021,Vándálísmó,Alta,3740788
+2267,09-01-2022,Robo,Crítica,17103
+2268,2023/08/31,Robo,Media,17880
+2269,07-15-2023,Vandalismo,Alta,8891609
+2270,2022-01-18,Daño estructural,Crítica,7908163
+2271,12/09/2020,Daño estructural,Alta,18544
+2272,12-17-2020,Cáídá,Media,18556
+2273,14-07-2020,Vandalismo,Baja,18066
+2274,2023-07-31,Dáñó éstrúctúrál,Media,5653903
+2275,05-09-2020,Dáñó éstrúctúrál,Media,17368
+2276,15-02-2020,Cáídá,Baja,17657
+2277,25/08/2021,Caída,Media,17148
+2278,2021/12/14,Accídénté,Baja,16768
+2279,09-12-2021,Daño estructural,Baja,18249
+2280,2023/03/14,Accidente,Media,52192
+2281,2023/04/24,Vandalismo,Media,17307
+2282,14-12-2020,Robo,Baja,5209024
+2283,05-08-2022,Accidente,Crítica,17492
+2284,2022/03/02,Accidente,Alta,18022
+2285,26/01/2024,Accidente,Alta,18390
+2286,2020-12-13,Daño estructural,Media,52191
+2287,16-01-2021,Vandalismo,Media,52181
+2288,2024/02/17,Vandalismo,Alta,52181
+2289,2019-12-30,Caída,Crítica,17807
+2290,31/03/2023,Daño estructural,Baja,17350
+2291,2020/01/06,Róbó,Media,18091
+2292,02-02-2024,Caída,Baja,17119
+2293,2020-03-03,Cáídá,Media,52232
+2294,18-07-2020,Vándálísmó,Baja,17219
+2295,09-16-2020,Caída,Crítica,8776081
+2296,11-04-2022,Robo,Crítica,7903107
+2297,02/11/2023,Vandalismo,Baja,16764
+2298,15/07/2021,Robo,Crítica,7142118
+2299,13-12-2022,Caída,Crítica,16910
+2300,05-05-2020,Dáñó éstrúctúrál,Baja,18577
+2301,2021/05/21,Caída,Alta,18266
+2302,2021-02-14,Accidente,Media,5075483
+2303,2020/10/21,Accidente,Crítica,17495
+2304,01/12/2022,Robo,Alta,17214
+2305,2021/05/05,Robo,Crítica,18412
+2306,12-31-2022,Robo,Crítica,17882
+2307,05-23-2023,Accidente,Alta,17522
+2308,19-12-2019,Accídénté,Alta,7168553
+2309,09-03-2022,Accídénté,Media,16683
+2310,14-12-2019,Accidente,Alta,52227
+2311,16-09-2023,Caída,Alta,17747
+2312,06-29-2024,Robo,Crítica,17801
+2313,29-01-2024,Dáñó éstrúctúrál,Crítica,52070
+2314,2021-06-29,Robo,Crítica,18402
+2315,02/04/2022,Daño estructural,Baja,4737942
+2316,11-04-2019,Accidente,Media,17809
+2317,2021/10/25,Vandalismo,Baja,9179375
+2318,24/10/2020,Vandalismo,Crítica,17120
+2319,14-09-2022,Accidente,Crítica,17284
+2320,09-11-2022,Vándálísmó,Baja,7861574
+2321,26-06-2023,Accidente,Crítica,17430
+2322,05/01/2022,Accidente,Alta,18148
+2323,2021/08/09,Robo,Crítica,16763
+2324,2022-08-26,Robo,Crítica,52199
+2325,11-29-2019,Robo,Crítica,8914010
+2326,20/04/2023,Accidente,Crítica,17577
+2327,14/12/2022,Daño estructural,Media,18461
+2328,2020/01/04,Cáídá,Baja,17344
+2329,2021/05/13,Daño estructural,Alta,7280401
+2330,16-05-2022,Vandalismo,Media,16718
+2331,24-06-2024,Vandalismo,Alta,5209092
+2332,24/04/2024,Daño estructural,Baja,17842
+2333,2023-05-09,Vandalismo,Media,5174681
+2334,04-09-2023,Vandalismo,Baja,18191
+2335,29-11-2020,Vandalismo,Crítica,5213824
+2336,05-06-2022,Vandalismo,Media,18266
+2337,04-13-2024,Accidente,Crítica,17939
+2338,12-26-2021,Robo,Alta,17064
+2339,20/02/2023,Vandalismo,Media,17773
+2340,22/03/2020,Caída,Alta,18403
+2341,2020-06-05,Robo,Crítica,17011
+2342,30-05-2023,Caída,Baja,17654
+2343,2022/04/06,Accidente,Crítica,17991
+2344,24/07/2020,Accidente,Baja,5219929
+2345,2023-11-03,Caída,Baja,17673
+2346,2022-09-06,Caída,Alta,18265
+2347,09/02/2022,Accidente,Media,5240325
+2348,2024-07-06,Daño estructural,Media,5132777
+2349,2022/09/08,Daño estructural,Crítica,17952
+2350,20/08/2021,Robo,Media,16685
+2351,2023-01-07,Accidente,Alta,4730856
+2352,2020/09/18,Vandalismo,Crítica,18410
+2353,26-02-2024,Accidente,Crítica,7591499
+2354,06/08/2024,Daño estructural,Media,5246185
+2355,2022-11-20,Accidente,Alta,16744
+2356,03/11/2022,Robo,Alta,17283
+2357,2021-03-11,Robo,Crítica,17360
+2358,2023-09-23,Vandalismo,Alta,52057
+2359,06-02-2020,Caída,Alta,18381
+2360,11-04-2021,Daño estructural,Alta,5195695
+2361,2022-04-16,Vándálísmó,Baja,18245
+2362,11-03-2020,Daño estructural,Crítica,4987160
+2363,08-12-2021,Vandalismo,Alta,5653965
+2364,2020-05-29,Caída,Baja,4749886
+2365,2021/05/14,Robo,Baja,4987144
+2366,11-18-2020,Róbó,Crítica,9237483
+2367,10-13-2023,Accidente,Media,8799633
+2368,28-11-2019,Daño estructural,Baja,18331
+2369,13/10/2022,Vándálísmó,Baja,18597
+2370,02/09/2021,Daño estructural,Media,18140
+2371,26/11/2019,Accidente,Baja,18326
+2372,08-06-2022,Róbó,Media,17279
+2373,2019-12-04,Robo,Media,8914014
+2374,2023-02-27,Cáídá,Media,16972
+2375,01-19-2023,Accidente,Baja,18539
+2376,2024/06/05,Vandalismo,Alta,4704508
+2377,08-16-2022,Daño estructural,Baja,17491
+2378,24-04-2021,Robo,Media,18186
+2379,09/06/2023,Caída,Baja,5213824
+2380,31/01/2021,Robo,Alta,16693
+2381,12-27-2023,Daño estructural,Crítica,17557
+2382,2022-03-02,Robo,Media,16887
+2383,2024-06-13,Vandalismo,Alta,17478
+2384,2023/03/05,Cáídá,Media,17288
+2385,23-02-2021,Daño estructural,Media,17324
+2386,11-30-2023,Vandalismo,Baja,18211
+2387,2021-12-28,Vandalismo,Media,52197
+2388,24/10/2020,Robo,Baja,17698
+2389,2022-11-19,Robo,Baja,18565
+2390,2021-08-02,Róbó,Media,18574
+2391,17/08/2023,Vándálísmó,Media,7928105
+2392,2024/08/08,Daño estructural,Crítica,4749887
+2393,21-04-2021,Vandalismo,Crítica,17849
+2394,25-11-2019,Caída,Baja,5653881
+2395,2022/03/26,Robo,Alta,17902
+2396,2020/10/31,Robo,Media,52174
+2397,02-09-2020,Robo,Baja,17887
+2398,2021/12/05,Dáñó éstrúctúrál,Crítica,17491
+2399,11-19-2023,Accidente,Alta,5654053
+2400,12-20-2023,Caída,Baja,17070
+2401,08-11-2021,Dáñó éstrúctúrál,Baja,17175
+2402,17-10-2021,Accidente,Media,3573005
+2403,22/12/2021,Vandalismo,Alta,5246182
+2404,21-01-2020,Cáídá,Alta,7943778
+2405,2022/03/28,Vandalismo,Alta,16783
+2406,2023-03-29,Robo,Alta,8775331
+2407,27/03/2024,Accidente,Crítica,5195695
+2408,29/10/2021,Accidente,Media,5653903
+2409,2024/03/20,Accidente,Crítica,17815
+2410,2020-02-23,Caída,Media,18393
+2411,07-15-2024,Accídénté,Baja,3990963
+2412,01-04-2021,Vandalismo,Crítica,16783
+2413,09/07/2022,Vandalismo,Baja,7248182
+2414,05/04/2023,Robo,Alta,6819622
+2415,06/04/2022,Vandalismo,Alta,18474
+2416,09-09-2023,Robo,Crítica,18321
+2417,03-31-2023,Accidente,Crítica,16922
+2418,02-04-2020,Accídénté,Crítica,17159
+2419,07-23-2024,Accidente,Alta,18621
+2420,12-07-2020,Robo,Crítica,3991326
+2421,22-12-2021,Caída,Media,18036
+2422,08-08-2021,Daño estructural,Alta,17191
+2423,2022/10/04,Caída,Media,17836
+2424,16/01/2023,Caída,Baja,17422
+2425,2020-12-04,Caída,Crítica,17698
+2426,2023/11/22,Vandalismo,Media,6819617
+2427,2021/01/21,Accidente,Crítica,17833
+2428,20-12-2019,Robo,Crítica,52122
+2429,22-09-2022,Cáídá,Media,17207
+2430,31-07-2022,Róbó,Alta,18272
+2431,2024/03/14,Vandalismo,Crítica,17837
+2432,02-08-2023,Daño estructural,Media,18066
+2433,2024-07-20,Robo,Alta,5241173
+2434,2022-08-17,Daño estructural,Alta,18229
+2435,2021-08-08,Cáídá,Alta,18066
+2436,2023/01/15,Robo,Baja,18486
+2437,08-01-2020,Daño estructural,Alta,18238
+2438,31-12-2021,Cáídá,Media,52161
+2439,2024-06-09,Caída,Crítica,17466
+2440,01/10/2024,Caída,Baja,5237118
+2441,09-10-2024,Vandalismo,Baja,4996971
+2442,2022-11-15,Daño estructural,Crítica,5237111
+2443,19/11/2020,Accidente,Media,18530
+2444,2024-10-13,Dáñó éstrúctúrál,Alta,18506
+2445,13/04/2021,Daño estructural,Baja,17655
+2446,2021/09/27,Accidente,Media,17161
+2447,2021-09-28,Accidente,Alta,18338
+2448,16-03-2021,Daño estructural,Alta,18046
+2449,2024-02-06,Cáídá,Media,17280
+2450,2023-12-04,Daño estructural,Media,18084
+2451,09/04/2024,Robo,Media,16678
+2452,02-22-2021,Accidente,Baja,5654018
+2453,02-03-2021,Daño estructural,Baja,18260
+2454,05-04-2024,Vandalismo,Media,18548
+2455,08-04-2021,Daño estructural,Alta,52079
+2456,08/10/2023,Robo,Baja,17698
+2457,04-27-2021,Accidente,Crítica,52215
+2458,06-28-2024,Robo,Baja,5237129
+2459,2020-11-28,Accidente,Crítica,5204992
+2460,2020-08-01,Accidente,Alta,16827
+2461,2021/05/08,Daño estructural,Media,461181
+2462,2023-08-31,Caída,Media,5158912
+2463,09-08-2021,Accidente,Media,17382
+2464,11-28-2021,Vandalismo,Baja,18620
+2465,2020-01-28,Vandalismo,Crítica,18282
+2466,2022/07/30,Daño estructural,Crítica,17065
+2467,24-02-2022,Robo,Baja,17103
+2468,2023/11/15,Róbó,Alta,18500
+2469,2024-09-18,Accidente,Crítica,3566353
+2470,2020/05/15,Robo,Media,18316
+2471,21-09-2021,Cáídá,Alta,16872
+2472,11/08/2020,Robo,Media,8927341
+2473,2023-02-07,Accídénté,Baja,461341
+2474,07-27-2021,Daño estructural,Media,18147
+2475,2020/07/03,Vandalismo,Crítica,16735
+2476,20/04/2021,Caída,Crítica,52067
+2477,2024-01-17,Accidente,Alta,17405
+2478,09-24-2024,Robo,Media,17611
+2479,17/05/2020,Caída,Alta,4987160
+2480,07-17-2021,Accídénté,Baja,18609
+2481,05-20-2023,Caída,Alta,16725
+2482,24/06/2024,Accídénté,Baja,9271963
+2483,2024-06-30,Caída,Alta,17986
+2484,2023/06/04,Vandalismo,Baja,17354
+2485,2022/12/12,Accidente,Media,18490
+2486,21-06-2023,Vándálísmó,Alta,8799600
+2487,06-09-2020,Vandalismo,Media,18364
+2488,02-12-2020,Robo,Alta,16855
+2489,2021/05/24,Vándálísmó,Baja,17287
+2490,08-12-2022,Caída,Baja,3566373
+2491,2022/02/25,Accidente,Baja,16898
+2492,16-10-2019,Caída,Baja,18640
+2493,10-11-2023,Vándálísmó,Alta,8799606
+2494,06-09-2023,Caída,Baja,5219932
+2495,16-06-2021,Robo,Media,18075
+2496,2022/09/19,Accidente,Media,17087
+2497,01-02-2022,Caída,Baja,17849
+2498,07-03-2020,Dáñó éstrúctúrál,Baja,52181
+2499,08-09-2020,Vandalismo,Alta,3531284
+2500,09-08-2023,Accidente,Baja,18057
+2501,10-07-2020,Robo,Crítica,17720
+2502,11-10-2020,Dáñó éstrúctúrál,Baja,17050
+2503,01-12-2022,Robo,Alta,18483
+2504,24/03/2020,Dáñó éstrúctúrál,Media,4749896
+2505,31-08-2022,Accidente,Crítica,18524
+2506,2023/09/10,Robo,Media,16923
+2507,11-01-2021,Accídénté,Crítica,17430
+2508,2020-08-22,Caída,Alta,52161
+2509,2020/07/29,Vandalismo,Alta,5068873
+2510,12-08-2020,Vándálísmó,Media,17554
+2511,01-04-2021,Caída,Baja,18478
+2512,24-08-2021,Caída,Alta,7764194
+2513,04-01-2020,Vandalismo,Alta,17113
+2514,2020-12-28,Caída,Crítica,7764194
+2515,2021/05/31,Accidente,Media,9503906
+2516,20/03/2023,Caída,Alta,18338
+2517,08-08-2024,Robo,Crítica,7591618
+2518,05-13-2024,Robo,Media,3960929
+2519,2020/02/21,Róbó,Crítica,461183
+2520,2020-08-30,Accidente,Media,18134
+2521,12-22-2022,Accidente,Media,17142
+2522,04-07-2023,Róbó,Media,17730
+2523,10-08-2023,Accidente,Alta,3990761
+2524,05-24-2022,Daño estructural,Media,17760
+2525,2021/02/20,Robo,Alta,18616
+2526,05-07-2021,Daño estructural,Alta,5219934
+2527,04/09/2021,Robo,Crítica,17515
+2528,2022/09/18,Robo,Crítica,17260
+2529,2022/06/20,Dáñó éstrúctúrál,Alta,7126531
+2530,2021/10/10,Caída,Alta,8799648
+2531,05/01/2022,Robo,Baja,4730856
+2532,27/04/2022,Róbó,Crítica,52122
+2533,2022/03/31,Vandalismo,Baja,16693
+2534,2023-07-18,Caída,Media,17433
+2535,2022/04/24,Daño estructural,Baja,5272342
+2536,2023/03/30,Vándálísmó,Crítica,52152
+2537,23/10/2020,Cáídá,Alta,16913
+2538,02/04/2021,Daño estructural,Crítica,4986142
+2539,07/02/2021,Caída,Baja,5237128
+2540,2022-03-05,Accidente,Media,17333
+2541,2023-12-22,Vándálísmó,Alta,17418
+2542,01/01/2023,Vandalismo,Crítica,8907322
+2543,2023-07-26,Robo,Alta,18278
+2544,2022-06-02,Vandalismo,Crítica,17553
+2545,2020/05/17,Vandalismo,Baja,5654059
+2546,12-25-2023,Daño estructural,Crítica,3531286
+2547,2022-02-19,Caída,Crítica,17894
+2548,04-06-2020,Vandalismo,Alta,8799547
+2549,2023/08/26,Caída,Baja,17746
+2550,07-10-2020,Daño estructural,Media,17122
+2551,06-08-2022,Robo,Crítica,18307
+2552,30/09/2020,Vandalismo,Media,5654018
+2553,08-16-2022,Vandalismo,Baja,17430
+2554,23-10-2019,Vandalismo,Alta,17112
+2555,2022/07/29,Robo,Media,5241178
+2556,2022/10/24,Caída,Crítica,18492
+2557,02-15-2021,Robo,Media,18516
+2558,2022-02-09,Robo,Baja,17275
+2559,24/09/2020,Caída,Crítica,18265
+2560,11/11/2021,Caída,Alta,9243145
+2561,18-05-2021,Róbó,Media,18606
+2562,07/10/2022,Daño estructural,Baja,17915
+2563,29/06/2023,Caída,Media,17126
+2564,30/06/2023,Robo,Crítica,17446
+2565,18-12-2022,Róbó,Media,4737835
+2566,2021/05/28,Robo,Alta,17624
+2567,31/03/2022,Caída,Crítica,16724
+2568,07-18-2022,Robo,Alta,17179
+2569,2021-07-26,Dáñó éstrúctúrál,Crítica,52204
+2570,09-09-2020,Robo,Alta,17125
+2571,08/07/2021,Accidente,Crítica,17562
+2572,12/09/2020,Daño estructural,Media,17284
+2573,2019/11/09,Vandalismo,Crítica,5213822
+2574,2022-09-03,Accidente,Media,18259
+2575,12/05/2020,Dáñó éstrúctúrál,Media,18539
+2576,11-29-2022,Accidente,Crítica,16658
+2577,01-23-2020,Caída,Baja,16984
+2578,2024/08/02,Caída,Crítica,18585
+2579,26-12-2022,Dáñó éstrúctúrál,Baja,8799632
+2580,10-02-2022,Vandalismo,Crítica,17284
+2581,2020-03-24,Robo,Baja,3568959
+2582,2022-11-29,Vandalismo,Baja,18151
+2583,10-25-2023,Vandalismo,Baja,16738
+2584,15-05-2024,Accidente,Alta,16844
+2585,2023/12/02,Robo,Alta,17473
+2586,15/12/2019,Accidente,Media,17345
+2587,2023-01-29,Accidente,Alta,7902175
+2588,06/05/2020,Daño estructural,Alta,18557
+2589,2023-01-24,Vandalismo,Baja,18414
+2590,29-05-2023,Vandalismo,Alta,8799551
+2591,12-01-2024,Daño estructural,Alta,17801
+2592,2021/07/17,Vandalismo,Media,17658
+2593,12/08/2020,Daño estructural,Media,17736
+2594,13-03-2023,Accidente,Media,16938
+2595,13/07/2021,Daño estructural,Baja,7927289
+2596,23-12-2023,Vandalismo,Crítica,5219934
+2597,12-04-2019,Dáñó éstrúctúrál,Baja,18111
+2598,03-02-2023,Daño estructural,Baja,6819623
+2599,2023/03/17,Accidente,Media,17903
+2600,2024/10/04,Caída,Baja,17691
+2601,2019/12/28,Cáídá,Crítica,16849
+2602,05-15-2020,Daño estructural,Crítica,17595
+2603,11-13-2020,Vandalismo,Media,5195676
+2604,03/05/2022,Caída,Baja,7403980
+2605,08-09-2022,Accidente,Alta,18030
+2606,2023-03-10,Róbó,Media,17524
+2607,22-08-2020,Daño estructural,Baja,5241174
+2608,26-06-2023,Caída,Alta,17099
+2609,2021/02/26,Róbó,Crítica,3573333
+2610,23/04/2024,Robo,Crítica,16768
+2611,13/10/2024,Daño estructural,Baja,17095
+2612,2023-05-10,Cáídá,Crítica,5219929
+2613,2024-08-22,Daño estructural,Alta,4985689
+2614,2023/01/06,Robo,Media,18288
+2615,07-08-2024,Cáídá,Baja,17959
+2616,26/12/2021,Robo,Crítica,17087
+2617,2023-12-20,Vandalismo,Baja,16954
+2618,24-05-2024,Daño estructural,Baja,52211
+2619,19-08-2021,Vandalismo,Alta,3569191
+2620,2021-08-10,Caída,Media,7126508
+2621,2020-04-05,Vandalismo,Alta,52102
+2622,09/05/2021,Accídénté,Crítica,17485
+2623,2021-06-17,Robo,Media,16953
+2624,21/10/2021,Robo,Alta,17304
+2625,04-23-2023,Robo,Alta,17317
+2626,16-01-2024,Daño estructural,Crítica,3971913
+2627,15/12/2020,Accidente,Alta,5653716
+2628,25-01-2023,Vandalismo,Crítica,17845
+2629,2021-09-18,Caída,Media,5237108
+2630,2024-03-23,Accidente,Alta,17613
+2631,11-15-2019,Cáídá,Baja,3568959
+2632,2021/01/23,Caída,Baja,18576
+2633,31-01-2024,Daño estructural,Alta,5219515
+2634,30-05-2020,Accidente,Baja,7862164
+2635,28/08/2021,Caída,Crítica,17731
+2636,2024-05-18,Daño estructural,Media,18153
+2637,2024/05/21,Caída,Baja,17019
+2638,24-08-2020,Daño estructural,Crítica,17449
+2639,06-10-2021,Daño estructural,Alta,5653967
+2640,16/08/2022,Accidente,Alta,16744
+2641,13/03/2023,Accidente,Media,18277
+2642,03-14-2024,Robo,Baja,18627
+2643,16-05-2023,Daño estructural,Crítica,16867
+2644,2020-01-10,Robo,Media,5219929
+2645,03/11/2023,Dáñó éstrúctúrál,Media,8775334
+2646,31-05-2023,Accidente,Media,17626
+2647,2021-11-04,Vandalismo,Crítica,18327
+2648,08-08-2021,Daño estructural,Alta,17176
+2649,18/03/2023,Vandalismo,Alta,17626
+2650,2024-08-02,Accidente,Alta,52180
+2651,11/10/2021,Vandalismo,Baja,17358
+2652,25/05/2021,Caída,Alta,17517
+2653,2023/03/18,Robo,Alta,17967
+2654,11/04/2022,Dáñó éstrúctúrál,Media,18360
+2655,2024/02/14,Robo,Alta,17795
+2656,2024/07/06,Robo,Baja,16690
+2657,24-05-2020,Accidente,Media,8941726
+2658,2021-10-20,Accídénté,Media,17395
+2659,2021/06/30,Vandalismo,Media,17083
+2660,09-11-2019,Accidente,Baja,52902
+2661,2022/12/25,Daño estructural,Media,17965
+2662,14/09/2023,Caída,Media,18225
+2663,2023/09/02,Robo,Alta,52078
+2664,21/02/2023,Daño estructural,Alta,18640
+2665,2023-10-31,Accidente,Media,17313
+2666,20/04/2024,Robo,Baja,17106
+2667,2022/08/04,Daño estructural,Alta,17499
+2668,12-07-2023,Vandalismo,Alta,18029
+2669,05-18-2023,Robo,Alta,18311
+2670,2023-02-19,Accidente,Crítica,17899
+2671,2022/08/04,Robo,Alta,18248
+2672,2020-07-16,Róbó,Media,17578
+2673,21/05/2021,Accidente,Crítica,18369
+2674,01-11-2023,Robo,Media,18053
+2675,2024-01-09,Accidente,Alta,18219
+2676,17/03/2022,Caída,Alta,16721
+2677,2020-02-22,Daño estructural,Baja,5241186
+2678,2019/12/13,Daño estructural,Media,17475
+2679,01/08/2021,Daño estructural,Media,18248
+2680,07-09-2023,Robo,Media,17534
+2681,2023-04-12,Daño estructural,Baja,7126156
+2682,2023-02-01,Vandalismo,Baja,17847
+2683,2022/08/10,Vándálísmó,Media,52153
+2684,11-02-2024,Róbó,Baja,7168553
+2685,2019-10-29,Accidente,Crítica,18291
+2686,12-13-2021,Daño estructural,Alta,5653899
+2687,2023/07/13,Robo,Media,17939
+2688,2024-09-06,Vandalismo,Alta,18201
+2689,08/09/2021,Caída,Media,17485
+2690,03/04/2020,Accidente,Crítica,17135
+2691,2022/05/26,Daño estructural,Alta,17078
+2692,2022-06-30,Accidente,Baja,52165
+2693,2021-07-14,Vandalismo,Alta,18340
+2694,2021-11-05,Dáñó éstrúctúrál,Crítica,7882656
+2695,2021/03/12,Accidente,Media,52106
+2696,20-10-2022,Róbó,Baja,5219933
+2697,05-07-2021,Robo,Media,16904
+2698,13-10-2023,Vandalismo,Media,8799942
+2699,25/10/2021,Caída,Crítica,17020
+2700,2022-12-20,Accídénté,Baja,18005
+2701,26-10-2019,Caída,Media,17699
+2702,14-11-2021,Robo,Alta,5237128
+2703,2020-05-29,Accidente,Alta,18147
+2704,2020-01-26,Accidente,Alta,17058
+2705,23-01-2021,Caída,Alta,52149
+2706,01-09-2022,Vandalismo,Crítica,17591
+2707,22-03-2021,Accídénté,Media,5237130
+2708,09-04-2022,Daño estructural,Baja,18053
+2709,2021/07/31,Robo,Media,17980
+2710,23/02/2020,Vandalismo,Crítica,18264
+2711,19/02/2021,Daño estructural,Media,17954
+2712,2020/08/24,Vandalismo,Alta,16792
+2713,14/08/2021,Caída,Alta,17162
+2714,2020/06/11,Robo,Alta,5209024
+2715,27/02/2022,Dáñó éstrúctúrál,Crítica,17505
+2716,01-13-2020,Caída,Media,17196
+2717,07-17-2020,Caída,Baja,7862164
+2718,2023-07-15,Róbó,Alta,16784
+2719,12-25-2023,Robo,Media,17072
+2720,06-29-2024,Vandalismo,Alta,8799540
+2721,2020/01/26,Accidente,Baja,5195568
+2722,2020/08/17,Accidente,Baja,52126
+2723,2024-05-01,Caída,Alta,17337
+2724,15-09-2020,Vandalismo,Crítica,17032
+2725,16/10/2022,Accidente,Crítica,17724
+2726,2021/04/20,Daño estructural,Baja,17309
+2727,2024-03-25,Accidente,Crítica,7889423
+2728,14-01-2024,Daño estructural,Crítica,16664
+2729,17-06-2022,Daño estructural,Alta,5178801
+2730,29/10/2021,Robo,Alta,16665
+2731,23/07/2022,Daño estructural,Media,17574
+2732,08-21-2024,Daño estructural,Media,18447
+2733,2023-04-09,Vandalismo,Crítica,17866
+2734,02-26-2020,Caída,Alta,16953
+2735,11/09/2020,Accídénté,Alta,52084
+2736,2021/04/18,Caída,Media,5219924
+2737,2020-02-06,Robo,Alta,52170
+2738,2020-03-18,Vandalismo,Baja,52216
+2739,20-07-2021,Accidente,Alta,17035
+2740,11-21-2021,Caída,Alta,17396
+2741,12-15-2021,Robo,Baja,17676
+2742,16/01/2024,Vandalismo,Baja,17664
+2743,2021/09/15,Robo,Media,18090
+2744,26/05/2020,Vándálísmó,Crítica,52223
+2745,24-05-2023,Daño estructural,Alta,461183
+2746,06-15-2020,Cáídá,Alta,17039
+2747,2020-06-21,Robo,Alta,4794404
+2748,03-27-2023,Robo,Crítica,7180264
+2749,02-01-2023,Vandalismo,Baja,7403980
+2750,2023-12-12,Accidente,Baja,17593
+2751,2020-06-28,Caída,Media,18092
+2752,2020-04-24,Accidente,Baja,8799531
+2753,10-26-2022,Caída,Alta,16815
+2754,04-14-2020,Daño estructural,Crítica,5075332
+2755,27/08/2024,Daño estructural,Crítica,4749889
+2756,2024/01/14,Vandalismo,Alta,3573208
+2757,23/02/2020,Caída,Baja,17529
+2758,29/05/2022,Accidente,Crítica,16970
+2759,08-06-2021,Caída,Baja,17813
+2760,14-03-2022,Robo,Crítica,18139
+2761,2023-12-12,Dáñó éstrúctúrál,Alta,52058
+2762,08/12/2020,Robo,Crítica,9177985
+2763,27-11-2019,Vandalismo,Media,17434
+2764,06/08/2021,Robo,Media,8785504
+2765,12/09/2020,Daño estructural,Crítica,17033
+2766,09-17-2022,Caída,Crítica,16711
+2767,01-02-2021,Caída,Crítica,17875
+2768,21/12/2023,Dáñó éstrúctúrál,Media,52075
+2769,2021/09/26,Daño estructural,Media,17042
+2770,20-08-2023,Robo,Alta,18000
+2771,2022-08-30,Dáñó éstrúctúrál,Media,52197
+2772,2022-09-02,Daño estructural,Baja,3573053
+2773,06/06/2023,Accidente,Baja,17774
+2774,02-16-2020,Caída,Media,5219930
+2775,2021-03-11,Vandalismo,Media,16855
+2776,08-05-2022,Accidente,Crítica,16836
+2777,10/01/2020,Vandalismo,Crítica,17552
+2778,2022/06/01,Caída,Crítica,7280401
+2779,2022-01-17,Accidente,Alta,18151
+2780,2024-07-14,Accidente,Media,3531284
+2781,08-10-2024,Accidente,Media,18143
+2782,06-04-2024,Accidente,Baja,17623
+2783,2020-08-29,Robo,Baja,5219515
+2784,2023/09/07,Daño estructural,Crítica,18530
+2785,06-27-2023,Cáídá,Alta,52119
+2786,2022-01-24,Vandalismo,Crítica,5237137
+2787,2020/05/02,Caída,Crítica,16822
+2788,2024-01-17,Vandalismo,Crítica,17278
+2789,2022/12/28,Vandalismo,Crítica,18080
+2790,20/03/2024,Daño estructural,Alta,17386
+2791,2022-04-25,Robo,Media,8907322
+2792,2022/03/18,Accídénté,Media,18534
+2793,03/12/2023,Accidente,Alta,18284
+2794,25/01/2024,Accídénté,Media,17956
+2795,06-05-2024,Vandalismo,Media,5241171
+2796,2024/06/04,Accidente,Crítica,52226
+2797,2022/04/23,Accidente,Media,18130
+2798,01-08-2020,Caída,Alta,52120
+2799,01/05/2022,Vandalismo,Crítica,17217
+2800,2023-12-12,Caída,Crítica,17731
+2801,2023/08/08,Daño estructural,Crítica,18556
+2802,11-05-2023,Daño estructural,Media,17130
+2803,13-10-2022,Robo,Alta,18239
+2804,2023/07/08,Robo,Alta,18179
+2805,2023-01-25,Cáídá,Crítica,4730886
+2806,2019-11-22,Accidente,Crítica,17025
+2807,2024/09/16,Dáñó éstrúctúrál,Crítica,18242
+2808,24-11-2023,Caída,Media,6819626
+2809,2023/08/18,Robo,Baja,5213821
+2810,2024-07-05,Vándálísmó,Baja,18508
+2811,2023/04/09,Accidente,Baja,8799601
+2812,2022/12/26,Accidente,Baja,18048
+2813,2023/10/14,Vandalismo,Alta,16774
+2814,2023/10/25,Accidente,Baja,17163
+2815,2022-06-11,Accidente,Media,17038
+2816,13/05/2021,Accidente,Baja,16792
+2817,24/06/2020,Vandalismo,Media,52177
+2818,2023-07-01,Caída,Media,16978
+2819,03-11-2021,Accidente,Crítica,7908048
+2820,2020-09-29,Accidente,Crítica,17955
+2821,2024-06-15,Daño estructural,Media,6819617
+2822,08-29-2020,Róbó,Alta,18450
+2823,09-15-2022,Accídénté,Media,9049653
+2824,22/01/2024,Daño estructural,Alta,5219933
+2825,03-28-2023,Dáñó éstrúctúrál,Media,16882
+2826,2024/06/20,Dáñó éstrúctúrál,Crítica,17925
+2827,2022/04/26,Vandalismo,Crítica,16843
+2828,2024/08/25,Accidente,Crítica,17491
+2829,2020-11-18,Daño estructural,Crítica,18210
+2830,18/02/2021,Vandalismo,Alta,3573016
+2831,2023/04/06,Cáídá,Alta,52148
+2832,2023-04-26,Robo,Baja,9293991
+2833,15-03-2021,Róbó,Media,3740788
+2834,04-20-2022,Daño estructural,Baja,17340
+2835,05-06-2021,Róbó,Crítica,18280
+2836,2020-02-23,Vandalismo,Crítica,18572
+2837,30/06/2024,Accidente,Alta,16892
+2838,26/08/2022,Caída,Baja,5237124
+2839,2023-10-04,Vándálísmó,Crítica,52170
+2840,11/01/2024,Vandalismo,Baja,8907322
+2841,2022-06-06,Accidente,Baja,17330
+2842,01-20-2021,Caída,Media,16923
+2843,27/03/2021,Róbó,Baja,17544
+2844,30/03/2020,Caída,Baja,18007
+2845,05-31-2022,Accidente,Media,17536
+2846,01-06-2024,Vandalismo,Media,17547
+2847,01-06-2022,Daño estructural,Alta,18444
+2848,12-06-2024,Vandalismo,Alta,18325
+2849,04-01-2023,Vandalismo,Crítica,7247843
+2850,2024/07/05,Caída,Baja,17892
+2851,16-04-2024,Accidente,Alta,17507
+2852,2024/07/10,Accidente,Baja,52169
+2853,2020/04/10,Accidente,Crítica,17484
+2854,17/07/2024,Daño estructural,Media,16886
+2855,25-10-2022,Daño estructural,Baja,16882
+2856,2023/02/14,Vándálísmó,Baja,7247843
+2857,2023-12-28,Accidente,Baja,17090
+2858,07/06/2021,Accidente,Crítica,7595815
+2859,2022/02/19,Daño estructural,Crítica,17473
+2860,2021-05-20,Róbó,Alta,4749895
+2861,2021/10/30,Vándálísmó,Crítica,17366
+2862,2022/05/12,Cáídá,Baja,52185
+2863,2020-12-09,Accidente,Crítica,16975
+2864,25-02-2022,Accidente,Crítica,7895078
+2865,2022/05/24,Accidente,Baja,17547
+2866,2022-06-01,Vandalismo,Crítica,5237138
+2867,2020-08-27,Vandalismo,Crítica,3740788
+2868,2024-01-17,Accidente,Media,18073
+2869,09-07-2022,Accídénté,Baja,18422
+2870,2021/08/04,Accidente,Alta,52074
+2871,06/11/2021,Accidente,Alta,5237134
+2872,13-06-2020,Vándálísmó,Baja,16841
+2873,2020/08/15,Robo,Alta,7802522
+2874,11-02-2023,Daño estructural,Alta,18590
+2875,02/09/2023,Accidente,Media,18135
+2876,23-08-2020,Dáñó éstrúctúrál,Crítica,18093
+2877,20/09/2020,Accidente,Media,18526
+2878,02-02-2020,Dáñó éstrúctúrál,Crítica,18116
+2879,2022/09/13,Dáñó éstrúctúrál,Crítica,18398
+2880,07-12-2023,Dáñó éstrúctúrál,Media,17802
+2881,09-10-2020,Accidente,Crítica,18569
+2882,08-10-2020,Accidente,Crítica,18604
+2883,2020/07/16,Dáñó éstrúctúrál,Crítica,5241177
+2884,10-11-2020,Vandalismo,Crítica,7356676
+2885,2020/07/15,Daño estructural,Crítica,17503
+2886,04-20-2021,Accidente,Baja,17033
+2887,03-08-2023,Robo,Media,17746
+2888,2020/03/05,Daño estructural,Baja,18598
+2889,21-11-2019,Accídénté,Crítica,18146
+2890,2020/12/29,Vandalismo,Media,18321
+2891,2023-01-30,Vandalismo,Alta,18175
+2892,13/07/2024,Accidente,Alta,4749896
+2893,2020-06-22,Caída,Alta,18044
+2894,17-10-2022,Daño estructural,Baja,18372
+2895,2021-09-16,Robo,Baja,18131
+2896,05-28-2022,Dáñó éstrúctúrál,Media,18316
+2897,2023-04-25,Vandalismo,Crítica,17707
+2898,2022-10-14,Vándálísmó,Crítica,461179
+2899,10-09-2021,Daño estructural,Crítica,17953
+2900,2024/06/28,Dáñó éstrúctúrál,Media,17874
+2901,2024-01-25,Caída,Alta,461342
+2902,08-02-2023,Daño estructural,Crítica,17809
+2903,02-21-2021,Accidente,Alta,17272
+2904,18/12/2021,Caída,Baja,18255
+2905,27-10-2019,Daño estructural,Crítica,17611
+2906,14-04-2020,Robo,Media,17129
+2907,11-11-2021,Caída,Baja,8775337
+2908,2022-10-21,Vandalismo,Media,3568306
+2909,28/04/2024,Accidente,Media,17756
+2910,2021/04/27,Róbó,Media,7897950
+2911,2022/05/03,Daño estructural,Alta,7144128
+2912,02/02/2024,Accidente,Media,16902
+2913,08-28-2023,Cáídá,Alta,3569222
+2914,28-06-2022,Caída,Media,18140
+2915,20-07-2022,Vandalismo,Baja,18155
+2916,2021/05/26,Vandalismo,Crítica,461341
+2917,07-10-2022,Dáñó éstrúctúrál,Alta,18539
+2918,07-11-2020,Caída,Alta,5213832
+2919,01-02-2023,Robo,Crítica,4749888
+2920,2021/05/25,Accidente,Crítica,52165
+2921,2021-10-27,Robo,Baja,16835
+2922,07-08-2023,Róbó,Alta,18070
+2923,24-08-2024,Robo,Alta,4730835
+2924,21-07-2024,Daño estructural,Alta,17926
+2925,2024-01-08,Vándálísmó,Media,17730
+2926,17/03/2023,Accidente,Media,5209117
+2927,05-19-2024,Róbó,Media,18377
+2928,25/03/2022,Dáñó éstrúctúrál,Crítica,18586
+2929,2023/07/14,Caída,Crítica,451351
+2930,29-10-2022,Vandalismo,Baja,18468
+2931,07-05-2023,Caída,Alta,17371
+2932,22/10/2023,Accidente,Alta,17852
+2933,2022/03/14,Caída,Crítica,18048
+2934,27/09/2023,Accídénté,Alta,18345
+2935,02/12/2023,Robo,Crítica,17586
+2936,24/04/2023,Vandalismo,Alta,9180738
+2937,2023/01/17,Robo,Baja,16728
+2938,01-08-2020,Vandalismo,Media,5178865
+2939,03-14-2021,Accídénté,Alta,18189
+2940,2022-03-23,Róbó,Crítica,461341
+2941,02-05-2022,Daño estructural,Media,9424150
+2942,14/10/2024,Caída,Alta,5218564
+2943,2021-12-05,Caída,Media,17204
+2944,2023-06-06,Dáñó éstrúctúrál,Media,16837
+2945,11-28-2023,Daño estructural,Alta,17957
+2946,10-23-2022,Daño estructural,Crítica,18142
+2947,06/01/2021,Robo,Baja,17653
+2948,06-14-2023,Daño estructural,Crítica,16921
+2949,2021-11-18,Daño estructural,Baja,17736
+2950,23-04-2022,Accidente,Baja,17707
+2951,03-08-2022,Accidente,Alta,52168
+2952,06-09-2022,Robo,Crítica,17489
+2953,11-02-2020,Accidente,Alta,52223
+2954,2021-06-28,Caída,Crítica,52159
+2955,17/05/2023,Robo,Baja,17891
+2956,05-13-2023,Cáídá,Crítica,17446
+2957,12-15-2022,Caída,Media,17507
+2958,22-06-2021,Robo,Crítica,9259976
+2959,10-18-2020,Vandalismo,Crítica,17640
+2960,2019-11-05,Accídénté,Media,18456
+2961,22/03/2022,Vandalismo,Alta,7840614
+2962,04-03-2023,Vandalismo,Baja,17134
+2963,12-02-2021,Accidente,Media,17807
+2964,12/08/2021,Accidente,Baja,5246189
+2965,06/02/2024,Daño estructural,Crítica,16863
+2966,10-26-2022,Robo,Alta,17749
+2967,2021/05/22,Vandalismo,Baja,17049
+2968,2024-09-16,Vandalismo,Media,18031
+2969,10-19-2023,Vandalismo,Alta,17485
+2970,30/09/2020,Vandalismo,Baja,17796
+2971,2022/06/10,Daño estructural,Media,5071674
+2972,27-01-2023,Róbó,Media,17777
+2973,2020-12-30,Accídénté,Alta,8909085
+2974,04/09/2020,Caída,Media,17014
+2975,2023-04-02,Vandalismo,Baja,5241178
+2976,2024-01-22,Robo,Baja,17397
+2977,06-19-2023,Caída,Baja,7538071
+2978,2024-09-13,Vandalismo,Alta,8927341
+2979,10-22-2022,Daño estructural,Alta,451542
+2980,2023-02-14,Daño estructural,Baja,3994618
+2981,25-07-2024,Vandalismo,Media,52203
+2982,21/01/2022,Caída,Alta,17725
+2983,04-17-2022,Vandalismo,Alta,3573056
+2984,25/10/2022,Daño estructural,Baja,17691
+2985,01-13-2021,Accidente,Alta,16924
+2986,07-03-2024,Caída,Crítica,18359
+2987,11/04/2024,Dáñó éstrúctúrál,Crítica,18117
+2988,2023-10-03,Daño estructural,Crítica,18347
+2989,20/01/2024,Caída,Media,16998
+2990,2021-06-08,Accidente,Alta,18373
+2991,18/09/2022,Vandalismo,Crítica,17472
+2992,25/11/2023,Cáídá,Alta,18353
+2993,2022/01/02,Caída,Crítica,17534
+2994,2022/01/08,Daño estructural,Crítica,17483
+2995,2023/02/13,Vandalismo,Alta,7107693
+2996,05-20-2020,Caída,Media,52067
+2997,31/07/2021,Caída,Media,17589
+2998,2020/04/19,Accidente,Media,18336
+2999,19-10-2019,Róbó,Media,17794
+3000,24/05/2024,Caída,Media,18407
+3001,08-14-2024,Accidente,Alta,16757
+3002,03-05-2021,Robo,Media,17950
+3003,2021/03/20,Accidente,Baja,9187536
+3004,08-03-2022,Robo,Media,16917
+3005,15-10-2020,Robo,Crítica,17074
+3006,2020/11/23,Robo,Alta,17633
+3007,2020/08/16,Daño estructural,Alta,17517
+3008,2021/07/19,Vandalismo,Crítica,18086
+3009,03/10/2020,Accidente,Alta,4737820
+3010,12-10-2023,Daño estructural,Baja,18504
+3011,18-05-2022,Vándálísmó,Baja,3569250
+3012,2022-11-07,Accidente,Crítica,18449
+3013,08-07-2023,Daño estructural,Baja,5654051
+3014,2020/07/24,Dáñó éstrúctúrál,Baja,4737820
+3015,31-12-2023,Daño estructural,Crítica,18449
+3016,2022-04-03,Daño estructural,Baja,18634
+3017,11/11/2019,Dáñó éstrúctúrál,Crítica,17710
+3018,03/12/2022,Caída,Crítica,5653901
+3019,03-31-2022,Robo,Baja,18086
+3020,20/05/2024,Dáñó éstrúctúrál,Baja,17143
+3021,2022/06/24,Caída,Crítica,17551
+3022,29/06/2022,Daño estructural,Baja,52102
+3023,03-05-2024,Caída,Alta,16710
+3024,2024-01-18,Róbó,Media,4749900
+3025,10/08/2020,Vandalismo,Crítica,17756
+3026,05-26-2022,Vandalismo,Baja,5240324
+3027,2024-07-11,Cáídá,Crítica,5240327
+3028,2023/10/07,Accídénté,Crítica,16954
+3029,2019-11-07,Vandalismo,Crítica,18461
+3030,02-10-2023,Daño estructural,Media,18261
+3031,03-06-2021,Daño estructural,Alta,5219928
+3032,2021/05/17,Caída,Media,17499
+3033,11-05-2020,Robo,Baja,52155
+3034,09-06-2020,Robo,Alta,17056
+3035,2020-07-27,Vandalismo,Crítica,17681
+3036,31/10/2020,Accídénté,Baja,3573331
+3037,07-01-2024,Caída,Crítica,17684
+3038,21/02/2020,Caída,Media,4749888
+3039,2021/11/15,Caída,Media,3573330
+3040,02-09-2020,Cáídá,Alta,5241181
+3041,2021/12/20,Vandalismo,Baja,18459
+3042,30-03-2020,Vandalismo,Alta,17181
+3043,2020-11-22,Robo,Media,52194
+3044,01/11/2021,Caída,Crítica,17863
+3045,2020-04-12,Daño estructural,Baja,17664
+3046,01-08-2020,Daño estructural,Alta,17029
+3047,08/05/2020,Caída,Alta,52146
+3048,06-02-2021,Róbó,Alta,16888
+3049,2021-09-13,Caída,Crítica,7125612
+3050,04/11/2022,Caída,Crítica,18013
+3051,2022/09/03,Róbó,Alta,17700
+3052,05-17-2020,Daño estructural,Crítica,18595
+3053,02-23-2021,Daño estructural,Crítica,18140
+3054,2024-09-13,Caída,Media,16887
+3055,2020/06/02,Accidente,Alta,3573054
+3056,16-09-2023,Accidente,Alta,8799552
+3057,2021-07-25,Daño estructural,Alta,17979
+3058,07-06-2021,Daño estructural,Crítica,7144040
+3059,10-28-2021,Robo,Media,18229
+3060,12/10/2023,Accídénté,Baja,7180264
+3061,01-03-2022,Caída,Baja,18600
+3062,2022-07-01,Accidente,Baja,18573
+3063,18/02/2024,Daño estructural,Media,16988
+3064,22-06-2024,Caída,Media,16751
+3065,09-23-2021,Robo,Baja,52228
+3066,2020/10/03,Dáñó éstrúctúrál,Crítica,9261936
+3067,20/05/2020,Caída,Baja,18543
+3068,10-20-2021,Accidente,Media,18418
+3069,24/11/2022,Caída,Media,5237110
+3070,2021/07/26,Accidente,Baja,17914
+3071,08-26-2020,Vandalismo,Alta,17656
+3072,2020-07-24,Dáñó éstrúctúrál,Media,17944
+3073,18-02-2020,Róbó,Crítica,5219934
+3074,05-12-2023,Caída,Alta,16730
+3075,2021-12-27,Accidente,Media,5133174
+3076,2022/11/23,Robo,Media,16782
+3077,2022/06/26,Vandalismo,Alta,17009
+3078,2020-02-26,Robo,Crítica,17760
+3079,2023/09/23,Accidente,Crítica,17088
+3080,06-19-2022,Accidente,Alta,16785
+3081,01-31-2023,Cáídá,Alta,17075
+3082,2022-11-21,Caída,Media,52139
+3083,2023/10/09,Robo,Baja,18421
+3084,02-09-2020,Robo,Baja,18100
+3085,2023/08/11,Daño estructural,Baja,18258
+3086,08/02/2022,Robo,Baja,4745667
+3087,2024-04-03,Caída,Crítica,17388
+3088,10/10/2021,Accidente,Alta,18189
+3089,28/12/2021,Daño estructural,Alta,7127772
+3090,2023/06/11,Vándálísmó,Baja,17502
+3091,2023-09-04,Caída,Crítica,18623
+3092,09/12/2022,Robo,Alta,17982
+3093,2024-05-13,Caída,Crítica,18124
+3094,24/06/2022,Daño estructural,Media,17662
+3095,20-03-2022,Caída,Crítica,17623
+3096,22-03-2020,Robo,Media,16722
+3097,07/10/2022,Caída,Media,18307
+3098,10-03-2022,Accídénté,Crítica,18264
+3099,2021/10/14,Robo,Alta,18263
+3100,2020-04-24,Vandalismo,Media,16924
+3101,2024/01/15,Vándálísmó,Baja,17362
+3102,2024/04/12,Accidente,Crítica,17147
+3103,08/09/2020,Vándálísmó,Crítica,17734
+3104,26/05/2024,Vandalismo,Crítica,7886698
+3105,16/03/2022,Daño estructural,Media,9295425
+3106,2023/02/27,Daño estructural,Alta,17835
+3107,20/12/2019,Robo,Alta,52124
+3108,2024-05-10,Caída,Baja,5653903
+3109,10/12/2019,Vandalismo,Alta,17470
+3110,11-09-2020,Cáídá,Baja,17285
+3111,29/05/2020,Accidente,Media,3531286
+3112,04-16-2020,Caída,Crítica,5246183
+3113,2019-12-14,Robo,Crítica,17751
+3114,17/11/2021,Dáñó éstrúctúrál,Crítica,17128
+3115,31-05-2021,Robo,Media,16768
+3116,18-08-2021,Daño estructural,Baja,7853205
+3117,2020/04/13,Robo,Alta,17916
+3118,2022/11/26,Robo,Alta,16835
+3119,2023/06/13,Robo,Media,5237135
+3120,2021/10/19,Robo,Alta,17249
+3121,24/05/2021,Caída,Baja,8914013
+3122,2023-10-13,Vandalismo,Media,18263
+3123,04/12/2019,Dáñó éstrúctúrál,Media,18519
+3124,2023/10/26,Vandalismo,Crítica,18555
+3125,06-06-2021,Cáídá,Alta,17772
+3126,02-17-2021,Vandalismo,Alta,5802272
+3127,13-03-2022,Accidente,Media,7928425
+3128,29/04/2021,Robo,Media,5213820
+3129,2021/06/13,Vandalismo,Media,17580
+3130,12/01/2021,Daño estructural,Alta,17859
+3131,22-10-2023,Caída,Media,52058
+3132,2022/11/19,Daño estructural,Alta,18319
+3133,24-10-2022,Accidente,Baja,17353
+3134,25/07/2021,Accidente,Baja,17793
+3135,2022-06-04,Vandalismo,Media,16977
+3136,30/06/2022,Caída,Media,52046
+3137,2023/05/27,Róbó,Baja,52107
+3138,2021/12/09,Accidente,Crítica,16834
+3139,2022-07-26,Robo,Crítica,18193
+3140,10-07-2024,Caída,Crítica,17217
+3141,2023-09-16,Accidente,Crítica,17314
+3142,09-05-2023,Robo,Crítica,17256
+3143,30/12/2019,Accidente,Crítica,17857
+3144,2022-09-02,Dáñó éstrúctúrál,Media,17979
+3145,2023-02-25,Robo,Baja,18289
+3146,2021/03/28,Vandalismo,Alta,4730800
+3147,2021-09-23,Robo,Alta,17389
+3148,28-02-2024,Robo,Media,18101
+3149,2021/10/29,Caída,Media,17962
+3150,25/03/2022,Caída,Alta,52170
+3151,27/05/2024,Robo,Baja,52121
+3152,2023/07/30,Robo,Alta,52135
+3153,29/08/2023,Accidente,Alta,18397
+3154,27-10-2023,Robo,Baja,17622
+3155,23/04/2020,Daño estructural,Alta,52155
+3156,2023/02/14,Accidente,Media,4988166
+3157,08-06-2024,Accídénté,Media,17061
+3158,08-28-2024,Robo,Media,16941
+3159,07-05-2023,Daño estructural,Alta,18050
+3160,24/03/2020,Cáídá,Crítica,17984
+3161,20-09-2021,Vandalismo,Crítica,17835
+3162,2024/07/05,Vandalismo,Crítica,18340
+3163,05-16-2021,Vandalismo,Media,4997106
+3164,10/11/2019,Robo,Media,7841427
+3165,08-29-2021,Vandalismo,Crítica,17620
+3166,05/04/2023,Caída,Baja,17155
+3167,01-04-2023,Daño estructural,Baja,18396
+3168,21-07-2020,Accídénté,Media,7021646
+3169,18-05-2023,Vandalismo,Media,52174
+3170,18/01/2023,Daño estructural,Baja,5653971
+3171,2021-07-04,Robo,Crítica,17149
+3172,2021/06/11,Caída,Alta,18620
+3173,07/02/2024,Accidente,Crítica,17122
+3174,09-04-2024,Daño estructural,Alta,17505
+3175,2024/07/05,Accídénté,Crítica,7107699
+3176,04/10/2022,Accídénté,Crítica,17624
+3177,02/09/2020,Accidente,Alta,18277
+3178,2023/01/18,Accídénté,Alta,5178801
+3179,22/10/2019,Daño estructural,Baja,52127
+3180,05/10/2022,Vandalismo,Media,7802438
+3181,2019-10-21,Caída,Crítica,7602200
+3182,28-09-2021,Accidente,Baja,18536
+3183,2021-12-18,Vandalismo,Crítica,17831
+3184,10-11-2022,Robo,Alta,18249
+3185,2023-02-10,Daño estructural,Alta,18504
+3186,2021/06/02,Vandalismo,Alta,52205
+3187,03-20-2021,Vándálísmó,Baja,9237483
+3188,03-18-2024,Vandalismo,Alta,17490
+3189,2020-11-15,Daño estructural,Crítica,17568
+3190,19/02/2022,Daño estructural,Alta,7403983
+3191,2019-12-11,Vandalismo,Crítica,16787
+3192,2021/06/25,Caída,Crítica,52130
+3193,13/11/2022,Robo,Alta,17644
+3194,2023-06-23,Cáídá,Baja,17908
+3195,26/12/2019,Caída,Baja,18026
+3196,23/04/2020,Cáídá,Crítica,17971
+3197,02-27-2023,Daño estructural,Baja,17337
+3198,24-12-2020,Vandalismo,Alta,7180264
+3199,2023-06-19,Daño estructural,Alta,17389
+3200,05-13-2024,Vandalismo,Baja,3962563
+3201,2023/01/12,Accidente,Alta,8799632
+3202,27/10/2023,Robo,Baja,18580
+3203,17-04-2022,Róbó,Baja,18242
+3204,2022/10/17,Caída,Alta,5010682
+3205,2021-05-01,Vándálísmó,Alta,17615
+3206,2021/11/20,Daño estructural,Media,17589
+3207,2019/11/07,Robo,Baja,7802464
+3208,2019-11-27,Vandalismo,Media,17203
+3209,24-11-2022,Daño estructural,Crítica,17904
+3210,30-07-2021,Vandalismo,Media,17124
+3211,2021-09-10,Caída,Alta,18023
+3212,12-11-2020,Accidente,Alta,52068
+3213,19-02-2024,Caída,Crítica,17834
+3214,2022/08/28,Caída,Alta,16844
+3215,29-07-2021,Accidente,Alta,4940263
+3216,04/06/2022,Accídénté,Crítica,17495
+3217,08/10/2022,Vándálísmó,Media,7021646
+3218,2021-04-06,Vandalismo,Media,18257
+3219,13-07-2020,Róbó,Media,18255
+3220,2024/08/05,Daño estructural,Crítica,4986445
+3221,2020/04/21,Accidente,Media,8786012
+3222,08/09/2022,Robo,Alta,5240281
+3223,12-08-2021,Vandalismo,Crítica,7882656
+3224,2024/06/12,Caída,Crítica,7853205
+3225,2024/02/05,Caída,Alta,17459
+3226,14/07/2022,Cáídá,Media,52196
+3227,28-08-2020,Vandalismo,Crítica,17739
+3228,2023-06-12,Caída,Alta,17591
+3229,02-08-2022,Cáídá,Crítica,17898
+3230,2019-11-10,Robo,Crítica,17596
+3231,27/02/2022,Accidente,Crítica,18151
+3232,2020/12/11,Vandalismo,Crítica,18015
+3233,2023-09-06,Dáñó éstrúctúrál,Alta,18526
+3234,04-25-2023,Accidente,Media,17405
+3235,2023-05-07,Accidente,Crítica,18425
+3236,23-12-2022,Accídénté,Media,17692
+3237,2021/07/18,Róbó,Alta,16671
+3238,06-30-2023,Vandalismo,Baja,17518
+3239,2022-10-13,Vandalismo,Baja,3971913
+3240,25-02-2021,Robo,Media,5237115
+3241,12-09-2019,Daño estructural,Media,5653877
+3242,01-08-2020,Robo,Alta,17154
+3243,02/11/2021,Daño estructural,Crítica,17046
+3244,22-03-2020,Accidente,Media,18359
+3245,27/01/2020,Daño estructural,Alta,16958
+3246,22/06/2022,Caída,Baja,18134
+3247,24/06/2022,Accídénté,Crítica,5213825
+3248,2024/07/19,Accídénté,Alta,17987
+3249,14/08/2024,Caída,Alta,16966
+3250,04-16-2021,Daño estructural,Media,17753
+3251,09-10-2020,Cáídá,Baja,17995
+3252,2022-08-27,Róbó,Alta,17448
+3253,2020/01/30,Accidente,Baja,7928004
+3254,22/03/2023,Vandalismo,Baja,5237135
+3255,26-01-2022,Vandalismo,Alta,7902175
+3256,25-03-2024,Caída,Baja,17089
+3257,03-13-2021,Caída,Alta,17996
+3258,26-03-2021,Robo,Baja,5237128
+3259,25-10-2022,Accidente,Alta,17383
+3260,2021-01-30,Robo,Media,16660
+3261,2020-05-06,Róbó,Alta,17948
+3262,06-03-2021,Daño estructural,Baja,17271
+3263,16-12-2022,Vándálísmó,Alta,4989404
+3264,2024/06/06,Dáñó éstrúctúrál,Crítica,18556
+3265,2021/01/10,Accidente,Crítica,16898
+3266,08-18-2023,Accidente,Media,17111
+3267,2024-02-03,Cáídá,Baja,17208
+3268,17-11-2023,Róbó,Alta,8775334
+3269,07-10-2020,Róbó,Crítica,17247
+3270,13-11-2022,Vandalismo,Alta,17219
+3271,2022/05/21,Vandalismo,Alta,3568177
+3272,07-08-2022,Accidente,Media,16684
+3273,01-05-2021,Daño estructural,Media,17510
+3274,26-01-2024,Accidente,Crítica,52084
+3275,2023/09/30,Accidente,Alta,18567
+3276,2021/05/04,Vandalismo,Crítica,17865
+3277,2022/11/28,Accidente,Crítica,16753
+3278,2021-10-20,Vandalismo,Crítica,18102
+3279,26-11-2020,Accidente,Media,17169
+3280,2022/11/30,Daño estructural,Baja,17957
+3281,01/03/2022,Caída,Crítica,16697
+3282,04/04/2021,Accidente,Crítica,17991
+3283,2024/02/29,Vándálísmó,Alta,52143
+3284,07-09-2021,Vandalismo,Media,17126
+3285,2022/08/28,Robo,Media,18420
+3286,2020-01-30,Vándálísmó,Baja,17372
+3287,28/08/2024,Accidente,Baja,5237131
+3288,2020-10-16,Cáídá,Crítica,16792
+3289,05/04/2024,Robo,Media,18628
+3290,03-06-2020,Robo,Alta,17056
+3291,2022-08-08,Caída,Alta,17875
+3292,2022/02/15,Cáídá,Crítica,5246197
+3293,2021/12/15,Accidente,Crítica,52108
+3294,06/01/2020,Caída,Alta,18321
+3295,29-12-2022,Accidente,Media,7839105
+3296,28-06-2021,Daño estructural,Baja,17663
+3297,02-09-2021,Daño estructural,Baja,17751
+3298,2019-11-16,Accídénté,Media,7107707
+3299,2023/07/16,Daño estructural,Media,18200
+3300,29/10/2021,Vandalismo,Baja,17204
+3301,06/12/2020,Accidente,Media,18556
+3302,2021/06/22,Vandalismo,Media,17078
+3303,2021/07/16,Vandalismo,Alta,5237120
+3304,2021/08/08,Cáídá,Crítica,18552
+3305,03/05/2020,Accidente,Crítica,17007
+3306,2023/07/22,Caída,Crítica,52047
+3307,2022/02/03,Robo,Baja,17741
+3308,01-06-2020,Accidente,Alta,16756
+3309,2021/01/05,Vándálísmó,Media,18178
+3310,2022-01-12,Accidente,Crítica,17712
+3311,06/05/2024,Daño estructural,Media,18089
+3312,16/01/2021,Accidente,Alta,52159
+3313,06/05/2021,Robo,Crítica,18525
+3314,28/04/2020,Caída,Alta,5213821
+3315,2024-03-31,Accídénté,Crítica,18338
+3316,2021/06/08,Caída,Media,52079
+3317,29/08/2021,Robo,Baja,5240278
+3318,2020/09/22,Vandalismo,Alta,18209
+3319,18/07/2021,Vandalismo,Baja,16762
+3320,03-11-2020,Vandalismo,Alta,18483
+3321,08-12-2023,Caída,Crítica,3568177
+3322,20-05-2023,Accidente,Alta,16830
+3323,2024-07-29,Caída,Crítica,16738
+3324,11-19-2019,Accídénté,Baja,17520
+3325,2024-07-23,Vandalismo,Baja,18187
+3326,03/06/2021,Róbó,Media,17395
+3327,08/04/2020,Caída,Baja,17278
+3328,2022-10-12,Robo,Baja,18316
+3329,09-18-2023,Accidente,Crítica,17484
+3330,2024/05/27,Róbó,Media,17259
+3331,06-20-2024,Accidente,Media,52193
+3332,25/04/2024,Róbó,Crítica,9348753
+3333,2023/02/15,Vandalismo,Crítica,8914015
+3334,2020-03-09,Dáñó éstrúctúrál,Crítica,16913
+3335,2021/10/29,Accídénté,Baja,18512
+3336,2024-09-03,Cáídá,Baja,17301
+3337,21/12/2019,Cáídá,Baja,16719
+3338,2024-07-15,Robo,Baja,17421
+3339,2022/11/04,Caída,Baja,5240276
+3340,07-19-2022,Robo,Crítica,7906811
+3341,16/06/2023,Vandalismo,Media,17557
+3342,2020/01/10,Caída,Alta,18261
+3343,27-08-2024,Accídénté,Baja,17858
+3344,2023-12-08,Caída,Alta,8799554
+3345,2023/07/10,Accidente,Alta,5218470
+3346,2023/06/04,Accidente,Media,17969
+3347,07-25-2023,Daño estructural,Baja,17389
+3348,17/05/2023,Vandalismo,Baja,17662
+3349,01-16-2023,Vándálísmó,Media,17108
+3350,27-03-2022,Daño estructural,Media,17938
+3351,23/09/2021,Vandalismo,Alta,8799532
+3352,10-28-2019,Caída,Baja,16787
+3353,19-08-2020,Cáídá,Baja,18590
+3354,14-04-2021,Accidente,Media,5237118
+3355,2021/03/16,Accidente,Baja,17832
+3356,04-06-2021,Daño estructural,Baja,7247845
+3357,31/01/2022,Daño estructural,Baja,17289
+3358,2022/06/30,Caída,Media,17886
+3359,2022-05-10,Dáñó éstrúctúrál,Alta,17518
+3360,10/12/2023,Accidente,Media,5219515
+3361,2023/02/25,Accidente,Baja,18100
+3362,08-17-2024,Robo,Baja,16718
+3363,2022/03/21,Accidente,Baja,5241186
+3364,26/05/2024,Daño estructural,Crítica,18295
+3365,12-23-2023,Robo,Alta,4737844
+3366,2024-01-12,Accidente,Media,5241187
+3367,19/01/2022,Vandalismo,Baja,7280401
+3368,2022-07-04,Daño estructural,Baja,18236
+3369,2019/12/12,Vandalismo,Baja,3573052
+3370,04-04-2023,Caída,Alta,17837
+3371,12-08-2021,Vándálísmó,Media,17088
+3372,13/01/2022,Caída,Crítica,52136
+3373,2020-09-13,Vandalismo,Alta,9235167
+3374,06-01-2021,Vandalismo,Baja,17569
+3375,28/05/2023,Robo,Alta,16726
+3376,12-04-2022,Caída,Baja,17919
+3377,2024-07-20,Robo,Alta,17758
+3378,25/07/2022,Vandalismo,Alta,18227
+3379,2022-11-02,Robo,Crítica,17047
+3380,2024-10-01,Róbó,Baja,18604
+3381,22-08-2023,Vándálísmó,Alta,17279
+3382,24/02/2022,Cáídá,Media,52160
+3383,2021/04/05,Robo,Media,17710
+3384,09/08/2022,Vandalismo,Baja,17672
+3385,10-17-2021,Daño estructural,Media,4749898
+3386,2021-10-28,Vandalismo,Alta,451351
+3387,12-05-2023,Accidente,Media,18022
+3388,10/01/2021,Vandalismo,Crítica,6819613
+3389,2023/09/06,Cáídá,Baja,8799547
+3390,2020/12/26,Robo,Media,17288
+3391,2022-06-05,Caída,Media,17281
+3392,01-06-2021,Accidente,Crítica,5246197
+3393,10-11-2020,Accidente,Crítica,7129053
+3394,2020/04/28,Vandalismo,Crítica,16914
+3395,08-03-2021,Robo,Media,18630
+3396,10-02-2023,Dáñó éstrúctúrál,Baja,17323
+3397,2021-12-27,Accidente,Alta,18019
+3398,03-19-2020,Vándálísmó,Media,16658
+3399,05/11/2020,Accidente,Crítica,18398
+3400,01-06-2020,Vandalismo,Baja,16905
+3401,13-04-2021,Accidente,Crítica,451442
+3402,2022/08/28,Vandalismo,Baja,18374
+3403,2023-03-04,Daño estructural,Baja,9348753
+3404,30/10/2023,Robo,Crítica,5220259
+3405,2020-05-01,Vandalismo,Alta,17586
+3406,2020/04/13,Cáídá,Crítica,18568
+3407,05-01-2021,Caída,Alta,16757
+3408,29-05-2021,Robo,Media,16750
+3409,10/04/2021,Robo,Alta,5241172
+3410,2020/04/21,Accidente,Baja,17015
+3411,2024-06-16,Accidente,Media,4730835
+3412,10-20-2019,Daño estructural,Crítica,4983958
+3413,2021-01-24,Vandalismo,Baja,17906
+3414,09-08-2024,Robo,Media,17094
+3415,10-10-2022,Accidente,Alta,17300
+3416,2023-11-28,Daño estructural,Media,16811
+3417,18-07-2020,Vándálísmó,Media,17000
+3418,06/07/2024,Vandalismo,Media,52228
+3419,10-24-2023,Caída,Alta,18379
+3420,19/03/2024,Dáñó éstrúctúrál,Crítica,5237123
+3421,2021-10-23,Robo,Media,18582
+3422,2023-11-26,Caída,Media,5209994
+3423,31/08/2020,Vandalismo,Baja,17092
+3424,21-06-2023,Vandalismo,Crítica,17637
+3425,29/10/2023,Robo,Alta,17103
+3426,2020-07-05,Daño estructural,Alta,18578
+3427,09-03-2023,Cáídá,Crítica,17336
+3428,2024/03/24,Accidente,Media,52201
+3429,2023/09/24,Daño estructural,Media,5220679
+3430,07-14-2022,Daño estructural,Crítica,7142118
+3431,11-24-2020,Accidente,Baja,52127
+3432,2021-02-07,Vandalismo,Media,9049658
+3433,2021-09-12,Caída,Baja,18534
+3434,26/06/2021,Daño estructural,Media,17207
+3435,2021/04/29,Róbó,Alta,17580
+3436,2023/06/28,Robo,Crítica,17311
+3437,05-25-2021,Accidente,Media,17521
+3438,30/08/2022,Accidente,Crítica,9181989
+3439,2023-10-06,Robo,Crítica,17988
+3440,19-01-2020,Robo,Alta,9492997
+3441,2024-07-21,Daño estructural,Alta,16984
+3442,2024/06/25,Robo,Media,9237483
+3443,15-12-2021,Dáñó éstrúctúrál,Alta,17834
+3444,2019/10/30,Róbó,Media,16986
+3445,12-25-2019,Vandalismo,Baja,18123
+3446,04-04-2024,Accidente,Alta,18510
+3447,13/11/2019,Caída,Crítica,5214638
+3448,06-08-2020,Accidente,Baja,18101
+3449,2022/06/11,Accídénté,Crítica,17710
+3450,06-03-2024,Caída,Alta,17957
+3451,2023-03-26,Caída,Media,17721
+3452,2020-09-14,Vandalismo,Media,16921
+3453,2022-05-15,Robo,Baja,5197210
+3454,31-03-2022,Robo,Baja,17325
+3455,2022/08/14,Robo,Crítica,17213
+3456,2020-01-02,Robo,Media,18014
+3457,06-18-2020,Robo,Crítica,52197
+3458,2022-04-28,Vandalismo,Alta,18103
+3459,2020/02/14,Daño estructural,Media,17481
+3460,19/03/2022,Caída,Baja,16683
+3461,07/05/2024,Caída,Baja,17945
+3462,2024/08/16,Caída,Media,17484
+3463,2021-05-26,Róbó,Media,17684
+3464,2021/02/16,Caída,Alta,4704508
+3465,2023-02-26,Accídénté,Media,17027
+3466,26-09-2023,Dáñó éstrúctúrál,Alta,6907760
+3467,31-12-2022,Caída,Alta,17923
+3468,2021/09/04,Accidente,Baja,16965
+3469,08-02-2023,Daño estructural,Baja,16940
+3470,2021/12/18,Vándálísmó,Crítica,17850
+3471,09/07/2023,Caída,Alta,17306
+3472,12-19-2021,Accidente,Alta,17118
+3473,2023/08/19,Caída,Alta,17311
+3474,23/07/2020,Robo,Alta,17053
+3475,06-08-2020,Caída,Crítica,8775336
+3476,25-11-2020,Robo,Baja,16696
+3477,2024-03-03,Caída,Media,17251
+3478,09-07-2024,Robo,Media,16751
+3479,02-07-2023,Dáñó éstrúctúrál,Media,17899
+3480,2022-12-24,Daño estructural,Alta,18279
+3481,05-27-2020,Dáñó éstrúctúrál,Crítica,17943
+3482,05-09-2022,Accidente,Crítica,16686
+3483,2023/12/03,Robo,Alta,17531
+3484,2020-09-14,Accidente,Baja,17821
+3485,21/05/2024,Accidente,Media,17173
+3486,03-06-2024,Vandalismo,Crítica,5071645
+3487,07-06-2020,Daño estructural,Crítica,3569222
+3488,2022-04-14,Accidente,Crítica,6819611
+3489,19/12/2021,Daño estructural,Baja,16877
+3490,2020-06-18,Cáídá,Alta,17015
+3491,2022-08-26,Caída,Baja,7595816
+3492,22/05/2020,Cáídá,Baja,17273
+3493,2020-10-29,Daño estructural,Crítica,18322
+3494,2020/06/12,Vandalismo,Alta,17007
+3495,2024/01/27,Accidente,Crítica,7107055
+3496,2023/08/05,Vandalismo,Crítica,17473
+3497,03-19-2020,Accidente,Alta,16768
+3498,2020-03-27,Robo,Baja,16993
+3499,2023/06/21,Accidente,Baja,16727
+3500,19/01/2024,Accídénté,Alta,18016
+3501,07/07/2020,Vandalismo,Media,7125670
+3502,2020/06/07,Vándálísmó,Alta,16954
+3503,2023-07-08,Caída,Crítica,17830
+3504,2022-06-30,Accidente,Alta,18126
+3505,17/09/2020,Robo,Crítica,3573015
+3506,01-30-2024,Robo,Baja,16774
+3507,10-31-2022,Caída,Media,17073
+3508,20/05/2020,Caída,Media,5241168
+3509,27-06-2024,Caída,Media,17511
+3510,2024/06/04,Accidente,Media,7168553
+3511,2024-05-15,Caída,Media,17372
+3512,22-11-2020,Daño estructural,Baja,16761
+3513,20/03/2021,Vándálísmó,Media,18467
+3514,2023/01/28,Vandalismo,Baja,17273
+3515,25-11-2020,Vandalismo,Media,18272
+3516,2023-11-21,Caída,Alta,4985689
+3517,22/03/2023,Róbó,Media,16969
+3518,2020/07/03,Dáñó éstrúctúrál,Crítica,16747
+3519,2019/12/14,Caída,Media,18595
+3520,03-12-2023,Caída,Baja,17784
+3521,15/09/2022,Daño estructural,Alta,7126577
+3522,07-15-2021,Caída,Baja,8776034
+3523,2022/06/29,Caída,Crítica,5241176
+3524,11/11/2021,Daño estructural,Crítica,16981
+3525,2020-12-04,Vandalismo,Crítica,17617
+3526,05-30-2022,Dáñó éstrúctúrál,Alta,17892
+3527,2024-10-01,Vandalismo,Crítica,16766
+3528,04/07/2021,Dáñó éstrúctúrál,Baja,18295
+3529,2024/07/01,Vandalismo,Media,7162545
+3530,2023-10-05,Daño estructural,Crítica,17725
+3531,2022/08/25,Accidente,Crítica,17869
+3532,19-07-2023,Dáñó éstrúctúrál,Baja,16896
+3533,2020/10/22,Robo,Alta,17350
+3534,04-23-2020,Caída,Alta,17411
+3535,24-10-2019,Vandalismo,Crítica,17682
+3536,12-27-2022,Accidente,Baja,17596
+3537,2022/05/22,Cáídá,Media,17092
+3538,15-02-2024,Accidente,Crítica,18431
+3539,2024/05/31,Robo,Media,17291
+3540,2022-08-23,Vandalismo,Crítica,4749896
+3541,2020/02/14,Daño estructural,Crítica,16989
+3542,05/12/2021,Caída,Crítica,52166
+3543,2022-11-01,Robo,Media,17024
+3544,01-20-2020,Caída,Baja,17798
+3545,09-23-2020,Daño estructural,Media,18081
+3546,13-01-2023,Vandalismo,Crítica,6819618
+3547,25-05-2021,Accidente,Alta,18288
+3548,2023/12/24,Vandalismo,Media,18437
+3549,29/06/2022,Accidente,Alta,17593
+3550,08-31-2024,Vándálísmó,Baja,7840483
+3551,06/11/2019,Dáñó éstrúctúrál,Alta,18505
+3552,2024/09/03,Daño estructural,Crítica,18018
+3553,17-01-2022,Vandalismo,Alta,3531286
+3554,12-13-2020,Róbó,Baja,52226
+3555,25-08-2024,Accídénté,Media,17934
+3556,09-11-2021,Vándálísmó,Crítica,18639
+3557,2022/06/25,Daño estructural,Media,17075
+3558,2022-06-23,Robo,Media,16723
+3559,27/06/2021,Vandalismo,Crítica,17465
+3560,2024-01-06,Caída,Baja,5653851
+3561,2020-08-27,Caída,Baja,16993
+3562,06-06-2020,Daño estructural,Media,5195695
+3563,24-01-2023,Caída,Crítica,17567
+3564,02-04-2021,Daño estructural,Baja,16880
+3565,26/11/2019,Vandalismo,Crítica,17701
+3566,09-02-2024,Robo,Crítica,17993
+3567,2023/12/21,Vándálísmó,Media,7165658
+3568,27/09/2022,Vandalismo,Baja,52166
+3569,2021/07/18,Dáñó éstrúctúrál,Crítica,17698
+3570,09-08-2021,Dáñó éstrúctúrál,Crítica,18161
+3571,2023-06-13,Accidente,Baja,17286
+3572,2022/06/24,Accidente,Baja,452347
+3573,11-08-2021,Dáñó éstrúctúrál,Alta,17484
+3574,2023/06/25,Vandalismo,Alta,17514
+3575,18-08-2023,Daño estructural,Alta,18272
+3576,03-08-2021,Accidente,Media,17115
+3577,29/03/2024,Robo,Crítica,18124
+3578,2023-11-28,Accidente,Media,4749897
+3579,2023-10-24,Caída,Media,17932
+3580,25-03-2024,Caída,Media,17801
+3581,2023-05-10,Accidente,Crítica,17333
+3582,02-27-2020,Accidente,Alta,4737942
+3583,2022/01/11,Robo,Crítica,7882656
+3584,23-02-2023,Daño estructural,Alta,18568
+3585,20/09/2022,Cáídá,Alta,4737855
+3586,2023/07/05,Vandalismo,Crítica,52088
+3587,2022/01/05,Daño estructural,Alta,18482
+3588,09-12-2022,Robo,Crítica,5654053
+3589,2020/09/10,Accídénté,Crítica,52216
+3590,16-03-2023,Accidente,Crítica,52086
+3591,2023/02/09,Caída,Crítica,18378
+3592,2023-06-26,Cáídá,Baja,18132
+3593,11-27-2022,Caída,Crítica,5010682
+3594,22-10-2020,Cáídá,Alta,17384
+3595,2023/11/25,Daño estructural,Crítica,4730844
+3596,11/01/2022,Caída,Crítica,18237
+3597,18/03/2021,Accidente,Alta,18354
+3598,24/02/2022,Vandalismo,Crítica,17742
+3599,2024-06-14,Accidente,Crítica,17079
+3600,26-12-2022,Robo,Media,18397
+3601,2022-08-21,Accidente,Baja,4987160
+3602,03-05-2023,Dáñó éstrúctúrál,Media,16716
+3603,07/04/2021,Robo,Media,17371
+3604,2023/05/15,Robo,Alta,17839
+3605,2023/11/14,Accidente,Baja,17282
+3606,14/08/2022,Robo,Baja,5237115
+3607,27/12/2019,Robo,Crítica,18562
+3608,09-20-2024,Daño estructural,Alta,52144
+3609,2022/04/05,Accidente,Alta,17617
+3610,2022/04/15,Robo,Media,18296
+3611,10-10-2020,Accidente,Crítica,18599
+3612,2021-02-11,Daño estructural,Alta,17539
+3613,06-06-2023,Accidente,Baja,17861
+3614,2022/07/27,Róbó,Baja,17347
+3615,04-04-2021,Daño estructural,Baja,17294
+3616,2021/10/10,Accidente,Media,7902706
+3617,2023-06-18,Daño estructural,Alta,17967
+3618,2021-05-07,Caída,Alta,17890
+3619,07-09-2023,Caída,Alta,18560
+3620,02/11/2019,Daño estructural,Baja,9391954
+3621,2020/04/21,Caída,Media,3566353
+3622,04-04-2022,Vandalismo,Media,6819625
+3623,24/01/2021,Robo,Media,17586
+3624,19/08/2024,Vandalismo,Baja,5213818
+3625,01-14-2023,Robo,Media,5213825
+3626,2023/05/05,Vandalismo,Crítica,18263
+3627,11-06-2021,Vandalismo,Crítica,7143517
+3628,16/06/2020,Vandalismo,Crítica,16756
+3629,2021-07-01,Daño estructural,Crítica,52196
+3630,2023-03-17,Accidente,Media,17537
+3631,2020-12-10,Daño estructural,Alta,17056
+3632,22/02/2020,Caída,Crítica,17515
+3633,05-06-2023,Daño estructural,Alta,17990
+3634,01-14-2023,Caída,Media,8800259
+3635,01-06-2024,Caída,Baja,17400
+3636,2023-04-07,Robo,Media,17174
+3637,03-03-2024,Vandalismo,Baja,17302
+3638,2022/06/15,Accidente,Media,52056
+3639,01-05-2024,Accídénté,Crítica,18013
+3640,2023-07-10,Robo,Alta,18194
+3641,24/07/2020,Accidente,Crítica,18101
+3642,18-02-2022,Accidente,Alta,16687
+3643,2020/08/24,Vándálísmó,Baja,8799532
+3644,2020-03-07,Accídénté,Alta,16954
+3645,2021/01/18,Robo,Crítica,7802522
+3646,25/06/2021,Daño estructural,Alta,17752
+3647,2020-11-21,Accidente,Baja,4996971
+3648,11-29-2019,Daño estructural,Crítica,18230
+3649,30/09/2020,Daño estructural,Crítica,17826
+3650,2022-06-10,Caída,Crítica,18625
+3651,06-12-2024,Accídénté,Baja,17591
+3652,2023/01/25,Daño estructural,Media,4985689
+3653,01/03/2020,Vandalismo,Alta,16662
+3654,12-16-2019,Accidente,Baja,17622
+3655,2021-10-12,Róbó,Baja,6779455
+3656,2023/04/26,Vandalismo,Crítica,18411
+3657,04/09/2023,Daño estructural,Alta,17178
+3658,09-10-2021,Caída,Baja,18451
+3659,23-06-2021,Daño estructural,Alta,16880
+3660,2023-02-12,Daño estructural,Crítica,17791
+3661,05/05/2021,Daño estructural,Media,7107055
+3662,04-14-2022,Daño estructural,Alta,18519
+3663,2020-01-20,Vandalismo,Crítica,17262
+3664,2023-04-06,Robo,Baja,18178
+3665,2022/06/04,Cáídá,Baja,16986
+3666,2024/01/15,Accídénté,Alta,17313
+3667,13/06/2021,Accidente,Alta,16916
+3668,2022/05/11,Daño estructural,Alta,17718
+3669,03/02/2021,Accidente,Media,5197210
+3670,2019/12/17,Accidente,Alta,18170
+3671,2021/05/25,Caída,Baja,16770
+3672,11/11/2022,Róbó,Alta,17812
+3673,2022-05-18,Daño estructural,Media,3530623
+3674,2023-07-28,Daño estructural,Crítica,18115
+3675,04/08/2021,Daño estructural,Baja,17961
+3676,2021-09-03,Vandalismo,Media,17080
+3677,06-15-2023,Accidente,Baja,18139
+3678,22/10/2019,Dáñó éstrúctúrál,Alta,5174720
+3679,2019-10-17,Accidente,Crítica,17162
+3680,2022/06/18,Accidente,Crítica,16904
+3681,2022-08-02,Vandalismo,Crítica,8941726
+3682,10-19-2019,Caída,Baja,18260
+3683,08-02-2020,Caída,Baja,9536964
+3684,2023/04/14,Caída,Crítica,6819625
+3685,2022-03-04,Vandalismo,Alta,18637
+3686,03-05-2023,Accídénté,Crítica,3990761
+3687,04-03-2024,Caída,Media,17880
+3688,12-01-2020,Robo,Alta,17426
+3689,05-04-2022,Cáídá,Crítica,16943
+3690,2024-10-05,Daño estructural,Baja,9187543
+3691,2019/11/20,Cáídá,Media,17666
+3692,13/09/2024,Accidente,Alta,17401
+3693,08/05/2024,Vandalismo,Media,17364
+3694,2023/08/15,Robo,Crítica,17546
+3695,15/11/2022,Vándálísmó,Alta,17772
+3696,07-12-2020,Dáñó éstrúctúrál,Alta,17766
+3697,05/08/2020,Robo,Media,8775149
+3698,2022-01-20,Accidente,Alta,17541
+3699,06-05-2022,Accídénté,Alta,52073
+3700,06-14-2023,Accidente,Crítica,16971
+3701,12/04/2021,Cáídá,Media,7603212
+3702,2024-04-09,Robo,Crítica,17519
+3703,11-27-2021,Daño estructural,Crítica,18095
+3704,02-15-2024,Robo,Alta,5237122
+3705,21/06/2022,Vandalismo,Alta,18389
+3706,12/10/2020,Robo,Alta,17866
+3707,2020/10/16,Vandalismo,Alta,6819614
+3708,21/11/2021,Robo,Crítica,17610
+3709,2022/07/27,Vandalismo,Crítica,17793
+3710,2021/06/07,Vándálísmó,Media,17043
+3711,26-03-2023,Daño estructural,Crítica,18534
+3712,2020/04/05,Robo,Baja,17845
+3713,01-10-2023,Vandalismo,Crítica,17873
+3714,2023/03/28,Caída,Baja,17551
+3715,12-11-2020,Caída,Media,5213832
+3716,17/11/2020,Accidente,Media,52225
+3717,2024/06/02,Accídénté,Baja,18110
+3718,11-08-2022,Daño estructural,Crítica,17685
+3719,2023-08-22,Vandalismo,Crítica,18091
+3720,2020/06/07,Daño estructural,Baja,3568959
+3721,21-06-2024,Accidente,Alta,52202
+3722,2021-02-03,Daño estructural,Crítica,17132
+3723,28/10/2020,Robo,Media,17774
+3724,2022/04/02,Caída,Alta,18432
+3725,06-19-2022,Robo,Crítica,16793
+3726,09/04/2023,Daño estructural,Media,17820
+3727,2022-03-20,Caída,Media,17377
+3728,2024/04/29,Dáñó éstrúctúrál,Alta,18328
+3729,12/08/2021,Vándálísmó,Crítica,7126577
+3730,09-04-2023,Caída,Alta,3568300
+3731,03-06-2024,Vandalismo,Media,4749896
+3732,05-03-2020,Accidente,Baja,5199521
+3733,2024/01/19,Accidente,Baja,5213834
+3734,10-09-2022,Robo,Alta,461179
+3735,30-08-2022,Accídénté,Crítica,18071
+3736,2023/09/18,Vandalismo,Crítica,9294501
+3737,25-06-2020,Accídénté,Crítica,17203
+3738,2020-01-17,Accidente,Media,16762
+3739,02-02-2024,Dáñó éstrúctúrál,Alta,17080
+3740,2023-10-10,Vandalismo,Media,18183
+3741,01-29-2022,Vandalismo,Crítica,8780092
+3742,2023/07/14,Vandalismo,Crítica,17351
+3743,03-30-2024,Robo,Crítica,3573057
+3744,2020/04/01,Accidente,Media,18615
+3745,2023/12/05,Vandalismo,Alta,16778
+3746,12-06-2024,Accidente,Crítica,5219515
+3747,15-03-2024,Vándálísmó,Media,17111
+3748,2022-04-25,Caída,Crítica,4737835
+3749,10-25-2020,Accidente,Media,3960929
+3750,04-14-2024,Vandalismo,Media,4795654
+3751,20/03/2023,Vandalismo,Baja,9294001
+3752,2022/01/01,Accidente,Alta,17583
+3753,22/04/2024,Robo,Baja,17314
+3754,03-18-2022,Caída,Alta,5246196
+3755,25-04-2021,Cáídá,Alta,18117
+3756,2023-07-18,Daño estructural,Alta,16836
+3757,2023/08/14,Robo,Alta,17114
+3758,11-12-2022,Daño estructural,Baja,18257
+3759,02-25-2024,Vandalismo,Alta,17766
+3760,07-07-2023,Daño estructural,Baja,5240281
+3761,15-11-2021,Robo,Media,17243
+3762,11-21-2019,Caída,Alta,451569
+3763,03/12/2020,Caída,Alta,17687
+3764,04/10/2022,Daño estructural,Baja,18030
+3765,2024/07/26,Cáídá,Baja,17321
+3766,09-02-2024,Daño estructural,Media,18590
+3767,2020/12/18,Vándálísmó,Crítica,17861
+3768,2022-12-31,Robo,Alta,17661
+3769,05-11-2022,Accidente,Media,17177
+3770,13-07-2023,Accidente,Media,17356
+3771,12-16-2022,Daño estructural,Alta,17425
+3772,2022-01-13,Vandalismo,Alta,17674
+3773,2022-11-29,Caída,Crítica,18312
+3774,10-11-2021,Accidente,Alta,18094
+3775,2024-06-03,Vandalismo,Crítica,16961
+3776,30/07/2023,Accidente,Crítica,16888
+3777,12-17-2020,Robo,Crítica,18378
+3778,2024/03/03,Robo,Media,5237114
+3779,07-10-2022,Robo,Media,16862
+3780,2021-04-24,Vandalismo,Crítica,18313
+3781,2021-02-12,Robo,Alta,7024214
+3782,2021-11-23,Accidente,Media,16969
+3783,2024/03/18,Daño estructural,Crítica,17832
+3784,2022/01/09,Vandalismo,Media,52159
+3785,02-27-2022,Vandalismo,Alta,17630
+3786,01-07-2024,Dáñó éstrúctúrál,Alta,5653896
+3787,27/07/2020,Caída,Baja,18518
+3788,23-03-2022,Accidente,Media,17274
+3789,13-11-2022,Caída,Crítica,8799554
+3790,2022/10/24,Vándálísmó,Baja,18434
+3791,02-11-2023,Vandalismo,Alta,17872
+3792,2020/10/30,Vándálísmó,Media,18510
+3793,2024/01/12,Vandalismo,Crítica,7861595
+3794,20-04-2020,Dáñó éstrúctúrál,Alta,17568
+3795,13/06/2020,Caída,Alta,17835
+3796,11-05-2020,Caída,Crítica,17080
+3797,04-09-2022,Accidente,Alta,17248
+3798,28/06/2022,Accidente,Crítica,7802522
+3799,08/05/2024,Daño estructural,Crítica,18144
+3800,2023/12/15,Caída,Crítica,7074478
+3801,15-02-2022,Vandalismo,Crítica,18041
+3802,03/09/2023,Daño estructural,Media,18101
+3803,03/01/2021,Accidente,Baja,18605
+3804,2019/12/04,Cáídá,Crítica,17410
+3805,2020/04/02,Accidente,Baja,18239
+3806,02/06/2022,Daño estructural,Alta,17255
+3807,16-02-2020,Daño estructural,Media,17493
+3808,08-04-2020,Accidente,Crítica,18243
+3809,04-02-2024,Caída,Baja,3740686
+3810,2022-11-22,Robo,Crítica,17147
+3811,08/05/2021,Vandalismo,Baja,7403980
+3812,04/07/2023,Robo,Alta,52110
+3813,24/12/2019,Daño estructural,Baja,18061
+3814,11-27-2023,Vandalismo,Media,5241176
+3815,17/02/2022,Robo,Crítica,18376
+3816,2021/05/10,Vandalismo,Alta,17846
+3817,16/05/2024,Accídénté,Alta,18129
+3818,06-08-2022,Dáñó éstrúctúrál,Alta,18128
+3819,03-09-2024,Caída,Alta,4730844
+3820,12-01-2019,Vandalismo,Baja,5653881
+3821,10-02-2024,Daño estructural,Baja,17750
+3822,08/04/2023,Robo,Media,3568708
+3823,2020/06/18,Accidente,Alta,16937
+3824,2023-05-04,Róbó,Media,17552
+3825,2024/09/23,Dáñó éstrúctúrál,Media,18444
+3826,2024-06-09,Robo,Baja,18360
+3827,2022-06-07,Dáñó éstrúctúrál,Alta,16733
+3828,2024-04-29,Daño estructural,Crítica,52167
+3829,18-09-2021,Caída,Alta,16667
+3830,2024/04/16,Dáñó éstrúctúrál,Crítica,17245
+3831,13-12-2019,Vandalismo,Baja,5240107
+3832,12-30-2022,Caída,Alta,5653806
+3833,28-01-2024,Cáídá,Alta,7107695
+3834,10-29-2020,Daño estructural,Crítica,52229
+3835,12-07-2021,Accidente,Alta,17776
+3836,2023-07-06,Robo,Crítica,18485
+3837,01-20-2020,Vandalismo,Media,16697
+3838,04-22-2024,Vandalismo,Baja,4731656
+3839,2022/12/21,Accidente,Alta,17526
+3840,09-01-2021,Cáídá,Crítica,18399
+3841,2020-11-29,Vándálísmó,Media,5237112
+3842,07-25-2020,Dáñó éstrúctúrál,Media,17852
+3843,11/08/2022,Robo,Crítica,17277
+3844,16/11/2019,Cáídá,Baja,17022
+3845,16/02/2022,Robo,Crítica,17513
+3846,2022/04/02,Accídénté,Baja,52218
+3847,12-06-2024,Robo,Alta,8799549
+3848,09-08-2021,Accídénté,Baja,17075
+3849,06-19-2021,Accidente,Media,17737
+3850,04-01-2024,Daño estructural,Baja,17943
+3851,15/08/2022,Daño estructural,Media,18196
+3852,2021-09-02,Vándálísmó,Crítica,6779455
+3853,2024-08-27,Robo,Media,16847
+3854,2023/08/16,Vandalismo,Alta,3573054
+3855,2021/08/02,Caída,Alta,52208
+3856,2022/06/26,Daño estructural,Alta,17381
+3857,29-03-2020,Vándálísmó,Crítica,18123
+3858,25/06/2022,Daño estructural,Baja,9049658
+3859,2023-03-15,Robo,Media,52045
+3860,30-05-2022,Caída,Baja,451353
+3861,06-12-2020,Accidente,Crítica,16725
+3862,2022-05-11,Accidente,Crítica,5178801
+3863,2024/08/31,Caída,Crítica,3990960
+3864,2019-12-16,Accidente,Crítica,18461
+3865,07-01-2021,Dáñó éstrúctúrál,Crítica,5240112
+3866,09-01-2020,Vandalismo,Crítica,17815
+3867,2023/12/22,Caída,Baja,18635
+3868,12-09-2021,Dáñó éstrúctúrál,Baja,3990960
+3869,2024-06-13,Vandalismo,Baja,17782
+3870,2020/09/13,Daño estructural,Alta,17821
+3871,04-09-2022,Accídénté,Media,17877
+3872,11/11/2021,Accidente,Crítica,6819612
+3873,2022/09/22,Vandalismo,Baja,5240288
+3874,08-12-2021,Robo,Crítica,18083
+3875,30-06-2023,Dáñó éstrúctúrál,Alta,17820
+3876,2021/11/14,Robo,Media,17090
+3877,01-02-2021,Daño estructural,Media,5158861
+3878,10-25-2023,Cáídá,Baja,17399
+3879,05-09-2020,Vandalismo,Baja,18494
+3880,05/07/2021,Vandalismo,Crítica,17545
+3881,20-09-2024,Vandalismo,Baja,16933
+3882,03-28-2021,Caída,Baja,17475
+3883,22-11-2020,Daño estructural,Crítica,52902
+3884,22/11/2023,Caída,Alta,5237132
+3885,03-30-2020,Róbó,Media,452347
+3886,01-25-2020,Robo,Media,17564
+3887,2021-05-22,Caída,Alta,16831
+3888,21-08-2023,Daño estructural,Crítica,17522
+3889,26-08-2022,Accidente,Crítica,17708
+3890,15/09/2020,Róbó,Media,17522
+3891,08-27-2022,Accídénté,Crítica,17082
+3892,10-28-2021,Vandalismo,Baja,18170
+3893,01-16-2023,Vandalismo,Media,17151
+3894,01/10/2022,Daño estructural,Baja,17347
+3895,2024-05-14,Caída,Crítica,8775334
+3896,2020-01-18,Robo,Crítica,17851
+3897,01-24-2024,Robo,Crítica,8914015
+3898,02-18-2020,Caída,Baja,17317
+3899,12-29-2020,Daño estructural,Baja,17074
+3900,13-05-2024,Accídénté,Alta,17105
+3901,04-03-2021,Robo,Baja,17017
+3902,03-19-2020,Vándálísmó,Media,18083
+3903,2022/08/11,Daño estructural,Crítica,18485
+3904,07-27-2023,Caída,Alta,18551
+3905,29/05/2021,Daño estructural,Alta,16977
+3906,06-08-2023,Accidente,Alta,18454
+3907,28/03/2021,Vandalismo,Alta,16692
+3908,2022/07/12,Dáñó éstrúctúrál,Alta,17564
+3909,07-28-2023,Robo,Media,7862164
+3910,2023/12/23,Vandalismo,Media,3573332
+3911,2021/07/03,Vandalismo,Baja,5892353
+3912,06-04-2022,Dáñó éstrúctúrál,Media,4731667
+3913,2023/01/16,Accidente,Media,17582
+3914,26-03-2022,Róbó,Media,17575
+3915,12-01-2023,Caída,Crítica,18326
+3916,14-10-2022,Caída,Media,17533
+3917,2024/01/22,Dáñó éstrúctúrál,Alta,17571
+3918,2023/07/18,Vandalismo,Baja,16741
+3919,05/12/2023,Róbó,Baja,52060
+3920,10-14-2023,Vandalismo,Crítica,17477
+3921,2023-10-20,Daño estructural,Alta,18512
+3922,17-04-2023,Caída,Media,16911
+3923,20-01-2024,Vándálísmó,Alta,16712
+3924,23/06/2021,Vándálísmó,Media,16660
+3925,2019/12/31,Accídénté,Media,9046724
+3926,15/05/2020,Vandalismo,Media,16854
+3927,2021/02/07,Caída,Media,16707
+3928,15/12/2020,Vándálísmó,Media,18094
+3929,09-05-2021,Vándálísmó,Alta,5068873
+3930,24/02/2021,Caída,Crítica,18477
+3931,20-07-2024,Robo,Crítica,5201907
+3932,12-24-2023,Dáñó éstrúctúrál,Media,17829
+3933,03-10-2024,Accidente,Alta,16839
+3934,08-31-2021,Cáídá,Alta,18517
+3935,2023-02-25,Robo,Media,8909088
+3936,2024-10-05,Robo,Baja,16665
+3937,09/05/2024,Robo,Crítica,17124
+3938,2022/10/17,Robo,Crítica,17435
+3939,2024-02-02,Caída,Baja,18071
+3940,2024-08-22,Daño estructural,Alta,8775334
+3941,2024/01/31,Accidente,Baja,18423
+3942,2023-12-24,Vandalismo,Alta,18236
+3943,2023-01-30,Vándálísmó,Crítica,17186
+3944,2022-07-20,Vandalismo,Baja,3573350
+3945,2020/07/04,Accidente,Media,18468
+3946,01-30-2024,Caída,Alta,18130
+3947,10-25-2023,Vandalismo,Crítica,17049
+3948,21/12/2020,Robo,Crítica,9293991
+3949,06-07-2022,Vándálísmó,Crítica,52190
+3950,2021-01-17,Caída,Alta,17808
+3951,04-15-2023,Robo,Media,17848
+3952,2020/01/19,Accidente,Crítica,18282
+3953,2024/07/12,Robo,Crítica,17138
+3954,2022-08-27,Robo,Crítica,18294
+3955,03-13-2023,Vándálísmó,Baja,17459
+3956,2023-08-04,Cáídá,Media,17462
+3957,30/10/2021,Caída,Alta,461341
+3958,16/03/2020,Caída,Baja,18567
+3959,2020/08/13,Caída,Crítica,17668
+3960,05-04-2020,Robo,Alta,18225
+3961,04-04-2021,Vandalismo,Alta,17852
+3962,10-20-2023,Accidente,Baja,5174650
+3963,30/04/2021,Robo,Baja,17095
+3964,07-02-2022,Robo,Baja,52154
+3965,09/10/2020,Vándálísmó,Crítica,8799547
+3966,12-09-2024,Robo,Media,52107
+3967,2024-02-08,Vandalismo,Baja,17218
+3968,21/04/2024,Daño estructural,Alta,7126154
+3969,12/02/2024,Caída,Baja,5071674
+3970,12-14-2022,Caída,Baja,17114
+3971,21-11-2019,Vandalismo,Crítica,17343
+3972,03-09-2023,Vándálísmó,Crítica,17457
+3973,16/04/2021,Daño estructural,Media,16777
+3974,2019/11/22,Robo,Crítica,52191
+3975,2021/01/28,Accídénté,Alta,7889423
+3976,09-25-2023,Daño estructural,Crítica,18094
+3977,25/09/2022,Caída,Media,52041
+3978,2020/11/27,Vándálísmó,Baja,18039
+3979,16-07-2023,Vándálísmó,Baja,16899
+3980,04/02/2024,Vandalismo,Baja,16961
+3981,10-08-2023,Daño estructural,Crítica,5241176
+3982,10-23-2021,Róbó,Baja,52127
+3983,30-09-2023,Accidente,Crítica,18115
+3984,2022/05/28,Vandalismo,Crítica,18011
+3985,19-08-2022,Vándálísmó,Crítica,52042
+3986,29-08-2020,Robo,Crítica,6843085
+3987,09/01/2023,Robo,Baja,17715
+3988,19/04/2023,Daño estructural,Crítica,17428
+3989,2022-05-21,Vandalismo,Media,18275
+3990,15-05-2024,Vandalismo,Crítica,3576117
+3991,2019/10/23,Daño estructural,Crítica,18148
+3992,18/02/2022,Accidente,Alta,16907
+3993,2020-05-22,Robo,Media,16918
+3994,19/01/2022,Vandalismo,Alta,5010682
+3995,2024-08-14,Accidente,Baja,17871
+3996,03-07-2022,Caída,Alta,16917
+3997,2022/08/22,Accidente,Alta,7144369
+3998,25-06-2023,Robo,Media,18473
+3999,2023-06-17,Robo,Baja,4985689
+4000,18-08-2024,Vandalismo,Media,16837
+4001,2022-04-04,Cáídá,Alta,17931
+4002,27/12/2020,Cáídá,Alta,18146
+4003,2024/02/06,Daño estructural,Crítica,17127
+4004,11-03-2021,Robo,Media,18074
+4005,01-13-2023,Dáñó éstrúctúrál,Crítica,18609
+4006,08-20-2020,Vandalismo,Baja,18126
+4007,07-07-2021,Robo,Media,4731656
+4008,10-06-2024,Daño estructural,Crítica,52136
+4009,10-01-2022,Robo,Crítica,18467
+4010,16/09/2021,Robo,Alta,18500
+4011,07-25-2023,Vandalismo,Crítica,9180738
+4012,10-11-2023,Accidente,Alta,17158
+4013,2024/08/23,Robo,Media,17857
+4014,12-12-2020,Accídénté,Crítica,17010
+4015,04-10-2020,Robo,Alta,9269361
+4016,12-10-2021,Caída,Media,5220259
+4017,31/03/2022,Robo,Baja,52212
+4018,01-03-2022,Vandalismo,Media,3573049
+4019,05-20-2021,Accidente,Baja,17312
+4020,2020-03-18,Robo,Alta,4986142
+4021,29/01/2020,Vandalismo,Baja,16723
+4022,2023-03-03,Róbó,Baja,18056
+4023,11-24-2021,Robo,Baja,5654018
+4024,10-01-2023,Caída,Baja,17143
+4025,22/03/2020,Robo,Crítica,16686
+4026,2023-05-15,Robo,Crítica,17745
+4027,11-03-2020,Robo,Media,16816
+4028,14-01-2024,Caída,Alta,18055
+4029,07-05-2024,Daño estructural,Media,18051
+4030,05/04/2023,Accidente,Alta,18373
+4031,2024/04/09,Róbó,Media,17133
+4032,03/03/2024,Vandalismo,Crítica,17029
+4033,01-01-2023,Robo,Baja,5241170
+4034,2019/11/08,Accídénté,Baja,17007
+4035,17-01-2023,Accídénté,Crítica,8927341
+4036,19/02/2021,Robo,Baja,17679
+4037,04-16-2021,Daño estructural,Alta,17707
+4038,07-22-2022,Daño estructural,Baja,5272342
+4039,13-05-2023,Róbó,Crítica,18186
+4040,11-07-2022,Vandalismo,Baja,18273
+4041,27-05-2021,Daño estructural,Alta,3991153
+4042,02-20-2021,Caída,Media,17973
+4043,25/10/2022,Daño estructural,Media,9494172
+4044,08-11-2020,Accidente,Alta,17409
+4045,2021-03-13,Caída,Baja,16978
+4046,04-24-2023,Accidente,Crítica,17431
+4047,31/05/2022,Daño estructural,Crítica,6819621
+4048,23/08/2020,Caída,Media,18300
+4049,21/01/2022,Daño estructural,Crítica,5653825
+4050,2019-11-26,Caída,Alta,18528
+4051,2019-11-08,Róbó,Baja,18428
+4052,2022/08/17,Daño estructural,Baja,17514
+4053,20/07/2024,Robo,Media,7928105
+4054,03/06/2022,Vandalismo,Crítica,16958
+4055,2022-05-24,Accidente,Baja,16892
+4056,26-02-2022,Vandalismo,Crítica,52057
+4057,12-11-2022,Cáídá,Crítica,16787
+4058,25-01-2020,Róbó,Alta,17953
+4059,20-05-2024,Cáídá,Media,52199
+4060,2021/10/21,Accídénté,Media,6907760
+4061,2020/02/14,Daño estructural,Media,16854
+4062,2022-08-14,Robo,Crítica,17329
+4063,09-12-2021,Caída,Alta,18563
+4064,2022/01/27,Accidente,Crítica,18580
+4065,22/11/2021,Robo,Alta,16678
+4066,16-12-2021,Accídénté,Crítica,16870
+4067,2021-10-15,Daño estructural,Crítica,18444
+4068,26-01-2022,Vándálísmó,Media,18529
+4069,04-19-2020,Dáñó éstrúctúrál,Media,9294501
+4070,12-07-2022,Vandalismo,Baja,18275
+4071,08-16-2024,Vándálísmó,Crítica,5109124
+4072,2023-04-27,Vandalismo,Crítica,5237110
+4073,10-09-2020,Vandalismo,Crítica,16983
+4074,19/10/2020,Accidente,Media,18220
+4075,14-04-2021,Caída,Baja,18334
+4076,10-28-2020,Vándálísmó,Crítica,52061
+4077,05-23-2024,Caída,Media,18494
+4078,27/07/2021,Robo,Alta,17860
+4079,2024/02/03,Vandalismo,Alta,18204
+4080,11-09-2022,Accidente,Alta,18575
+4081,18-07-2020,Robo,Crítica,6819611
+4082,06-12-2021,Vandalismo,Crítica,17498
+4083,2024/06/30,Accídénté,Baja,52191
+4084,10-19-2022,Accidente,Media,18179
+4085,2024-02-14,Caída,Media,17338
+4086,06-06-2022,Caída,Baja,17994
+4087,2024/09/13,Róbó,Crítica,18480
+4088,08-28-2024,Cáídá,Media,17755
+4089,2023/12/04,Vandalismo,Baja,5237139
+4090,2020-06-27,Caída,Alta,9179375
+4091,25-09-2020,Daño estructural,Baja,9180738
+4092,28-10-2023,Accidente,Media,16895
+4093,2021-09-16,Daño estructural,Crítica,5201907
+4094,12-29-2021,Caída,Media,6819618
+4095,04-21-2021,Accidente,Baja,7182466
+4096,2019/11/12,Caída,Alta,3531285
+4097,2021/08/18,Caída,Baja,52132
+4098,02-03-2023,Robo,Media,52180
+4099,2021/09/16,Accidente,Baja,17330
+4100,2022/03/04,Accidente,Alta,8799532
+4101,22-09-2023,Daño estructural,Baja,3568959
+4102,03-01-2020,Daño estructural,Baja,18118
+4103,09-12-2020,Caída,Media,17027
+4104,28-07-2020,Caída,Crítica,16869
+4105,2020-01-12,Caída,Alta,7840483
+4106,15/12/2021,Daño estructural,Baja,8776081
+4107,07-17-2022,Accidente,Baja,17097
+4108,24/04/2021,Accidente,Baja,18224
+4109,31-08-2022,Accidente,Media,18176
+4110,2023/04/23,Accidente,Crítica,17494
+4111,09-03-2021,Vandalismo,Media,17602
+4112,2022-04-01,Vandalismo,Alta,16711
+4113,2023/11/16,Caída,Baja,17341
+4114,2021/07/02,Caída,Baja,7802438
+4115,19-12-2020,Robo,Media,5241170
+4116,2022/12/07,Caída,Crítica,5174681
+4117,2024/01/30,Daño estructural,Baja,16687
+4118,15-02-2023,Robo,Baja,16697
+4119,2023-07-12,Vandalismo,Crítica,52109
+4120,08-12-2022,Vandalismo,Alta,17206
+4121,27/01/2020,Vandalismo,Baja,17245
+4122,07-06-2024,Daño estructural,Baja,5653971
+4123,2024-03-23,Vandalismo,Alta,16876
+4124,2022-01-14,Accidente,Media,18017
+4125,10/07/2020,Robo,Baja,17760
+4126,25/12/2019,Vándálísmó,Baja,5220798
+4127,10-17-2022,Robo,Alta,17855
+4128,2023-07-30,Caída,Media,4730886
+4129,21-01-2023,Accidente,Alta,17328
+4130,14/06/2023,Daño estructural,Media,17057
+4131,01-30-2021,Daño estructural,Media,16841
+4132,2023/12/08,Vandalismo,Baja,7933003
+4133,02-10-2023,Vandalismo,Crítica,18378
+4134,12/12/2023,Vandalismo,Media,16726
+4135,10-29-2022,Vandalismo,Alta,18117
+4136,2019-12-21,Vandalismo,Alta,6819625
+4137,2024-05-18,Robo,Alta,18481
+4138,20/02/2020,Robo,Crítica,17402
+4139,23-08-2021,Dáñó éstrúctúrál,Media,52167
+4140,17/03/2023,Daño estructural,Crítica,17057
+4141,2023-07-12,Robo,Baja,17757
+4142,2024/04/26,Robo,Alta,17746
+4143,2024/09/07,Daño estructural,Media,17922
+4144,12/04/2020,Accidente,Media,9235167
+4145,2020/10/21,Accídénté,Media,7861574
+4146,21-10-2020,Róbó,Alta,16851
+4147,02-15-2024,Accídénté,Media,18112
+4148,01-02-2023,Accidente,Alta,8927341
+4149,17/06/2021,Vándálísmó,Media,17596
+4150,19-12-2023,Daño estructural,Alta,18465
+4151,08-29-2020,Caída,Alta,18007
+4152,2022-12-07,Dáñó éstrúctúrál,Media,18009
+4153,2020-11-26,Vandalismo,Crítica,18546
+4154,2021-06-24,Robo,Baja,18413
+4155,07-24-2022,Vándálísmó,Baja,16870
+4156,2021-09-12,Caída,Baja,18375
+4157,12-22-2021,Vandalismo,Alta,17986
+4158,10-02-2022,Dáñó éstrúctúrál,Media,5653881
+4159,11-14-2020,Accídénté,Crítica,5240277
+4160,09-12-2021,Vandalismo,Baja,5219935
+4161,17/10/2019,Caída,Baja,6819625
+4162,2022-05-12,Róbó,Media,17097
+4163,15/02/2020,Caída,Baja,5241184
+4164,2022/03/28,Daño estructural,Baja,9294001
+4165,10-21-2023,Accídénté,Alta,52195
+4166,2020/04/17,Accídénté,Baja,17298
+4167,21-02-2024,Vandalismo,Baja,17987
+4168,2020-01-01,Vandalismo,Baja,18588
+4169,2024/02/07,Robo,Baja,16889
+4170,01/07/2023,Caída,Crítica,17386
+4171,2020/02/29,Daño estructural,Alta,7839105
+4172,2023/08/10,Dáñó éstrúctúrál,Crítica,18452
+4173,11-10-2024,Vandalismo,Alta,17784
+4174,08-04-2023,Caída,Crítica,17370
+4175,2022/02/01,Cáídá,Crítica,18550
+4176,24/09/2022,Daño estructural,Media,17380
+4177,2021/01/29,Vandalismo,Media,4749899
+4178,30/12/2020,Vandalismo,Alta,451351
+4179,24/09/2020,Accidente,Baja,3740132
+4180,18/11/2023,Dáñó éstrúctúrál,Baja,17108
+4181,26/12/2019,Accidente,Media,18153
+4182,19-08-2020,Vandalismo,Alta,17798
+4183,2020/04/30,Robo,Baja,5237120
+4184,05-10-2024,Accidente,Crítica,16812
+4185,15-12-2020,Caída,Alta,18284
+4186,2021/12/05,Accidente,Crítica,17152
+4187,10-25-2020,Daño estructural,Crítica,7928031
+4188,2022/04/09,Caída,Alta,17034
+4189,2024/06/18,Róbó,Alta,18446
+4190,2023/08/18,Caída,Baja,52200
+4191,2022/06/08,Robo,Media,18138
+4192,02-28-2022,Accidente,Crítica,18138
+4193,2024-07-27,Vandalismo,Crítica,17256
+4194,2019-12-17,Robo,Crítica,3568959
+4195,2021/09/05,Accidente,Media,17084
+4196,2023/10/31,Accidente,Crítica,17484
+4197,12-05-2024,Caída,Baja,16713
+4198,2021/03/22,Accidente,Media,16785
+4199,08-30-2021,Daño estructural,Media,18157
+4200,2020-07-25,Robo,Media,17547
+4201,06/07/2020,Vandalismo,Media,9046352
+4202,21/12/2019,Accidente,Alta,7928053
+4203,02-03-2022,Daño estructural,Alta,18277
+4204,02-24-2024,Robo,Alta,18259
+4205,2019/11/15,Robo,Crítica,16868
+4206,10-12-2022,Caída,Baja,17096
+4207,30-01-2020,Daño estructural,Baja,18526
+4208,07-28-2024,Caída,Media,17049
+4209,06-09-2023,Accidente,Media,7862436
+4210,22/06/2024,Caída,Baja,17126
+4211,2019/11/29,Robo,Alta,17551
+4212,13/01/2022,Róbó,Alta,17266
+4213,2023-04-24,Vándálísmó,Baja,16693
+4214,2019/12/05,Vandalismo,Alta,17017
+4215,26/12/2021,Caída,Crítica,17998
+4216,2020/11/19,Accidente,Crítica,18524
+4217,05/06/2024,Vandalismo,Crítica,17261
+4218,09/04/2022,Vandalismo,Media,17349
+4219,06/04/2021,Daño estructural,Media,18403
+4220,2024-06-06,Vándálísmó,Media,18096
+4221,2022-04-07,Accidente,Crítica,16684
+4222,2023-10-08,Accidente,Media,7595816
+4223,03-29-2020,Accidente,Alta,18461
+4224,2022-08-23,Caída,Media,18271
+4225,22/08/2021,Robo,Baja,17204
+4226,2024/07/23,Caída,Baja,18228
+4227,2023-01-12,Vandalismo,Alta,18213
+4228,06-25-2021,Róbó,Crítica,17326
+4229,08-12-2019,Caída,Crítica,17644
+4230,23-10-2021,Vandalismo,Alta,17445
+4231,2021/11/07,Róbó,Media,5802688
+4232,04/11/2022,Accidente,Alta,52119
+4233,17/09/2024,Caída,Alta,17082
+4234,07-18-2022,Robo,Baja,7125612
+4235,2022/01/31,Accidente,Baja,4730835
+4236,06-02-2021,Caída,Alta,52125
+4237,27-06-2021,Róbó,Alta,17107
+4238,2022/01/11,Caída,Media,17043
+4239,20-12-2020,Accidente,Crítica,17065
+4240,03-27-2022,Robo,Alta,18077
+4241,2023/05/16,Robo,Crítica,5237139
+4242,2020-07-31,Accidente,Alta,16834
+4243,2023-09-23,Cáídá,Media,52139
+4244,03/06/2021,Caída,Crítica,17821
+4245,07-01-2022,Róbó,Alta,17043
+4246,01-09-2024,Vándálísmó,Media,17586
+4247,2024-01-27,Daño estructural,Alta,5240297
+4248,2023/05/09,Caída,Baja,18336
+4249,2020/12/20,Vandalismo,Media,16910
+4250,13-07-2022,Accídénté,Crítica,18365
+4251,27/10/2019,Robo,Media,8907324
+4252,11-29-2019,Róbó,Media,4983958
+4253,2019-10-17,Accidente,Crítica,17655
+4254,06/12/2023,Róbó,Baja,7928105
+4255,2020-09-15,Daño estructural,Alta,5653933
+4256,05-25-2022,Robo,Baja,18022
+4257,01-20-2024,Róbó,Baja,8799600
+4258,08-06-2023,Daño estructural,Media,17977
+4259,28-10-2023,Robo,Media,5240105
+4260,25-03-2024,Róbó,Media,18634
+4261,2023/06/02,Dáñó éstrúctúrál,Media,17101
+4262,2021/10/22,Caída,Crítica,5241178
+4263,18/04/2020,Vandalismo,Crítica,16830
+4264,10-15-2020,Vandalismo,Baja,3531283
+4265,2022/08/05,Dáñó éstrúctúrál,Alta,17670
+4266,17-10-2020,Caída,Media,9187536
+4267,06/09/2021,Vandalismo,Crítica,17763
+4268,06-05-2020,Caída,Media,16712
+4269,07-04-2024,Vandalismo,Crítica,18547
+4270,2024/02/18,Vandalismo,Crítica,17552
+4271,2020-03-29,Daño estructural,Crítica,52088
+4272,2022-08-26,Robo,Media,5241184
+4273,2022/09/23,Accidente,Baja,17611
+4274,23/07/2020,Daño estructural,Baja,17699
+4275,03-03-2023,Accidente,Crítica,18410
+4276,2021/10/04,Daño estructural,Media,3573018
+4277,30-05-2023,Vandalismo,Crítica,17331
+4278,2021/02/10,Daño estructural,Media,17924
+4279,17-12-2019,Accidente,Alta,18519
+4280,08-20-2020,Daño estructural,Baja,17515
+4281,18/12/2022,Caída,Crítica,18412
+4282,2020-03-22,Vandalismo,Alta,17352
+4283,03/02/2021,Dáñó éstrúctúrál,Crítica,17322
+4284,31-08-2023,Accidente,Media,5219920
+4285,08-24-2021,Vandalismo,Crítica,5209024
+4286,12-16-2022,Daño estructural,Media,18146
+4287,05-04-2021,Accidente,Crítica,52146
+4288,09-14-2024,Robo,Crítica,4987144
+4289,2022/04/16,Daño estructural,Media,18313
+4290,11-08-2020,Vandalismo,Baja,7143517
+4291,2023-07-20,Vandalismo,Alta,17454
+4292,09-09-2023,Daño estructural,Baja,52089
+4293,08-24-2020,Robo,Baja,16984
+4294,03-23-2023,Daño estructural,Media,17476
+4295,18-10-2023,Vandalismo,Crítica,18211
+4296,2023/01/06,Vandalismo,Media,9046351
+4297,29-12-2019,Caída,Crítica,18460
+4298,2024-06-14,Accídénté,Crítica,5241175
+4299,04-01-2024,Accidente,Alta,17077
+4300,2020/08/02,Daño estructural,Media,4983958
+4301,03-14-2022,Accidente,Crítica,17422
+4302,08/06/2023,Vandalismo,Alta,18250
+4303,2023/10/06,Accidente,Alta,17289
+4304,2020/01/04,Daño estructural,Media,16776
+4305,08-04-2020,Robo,Crítica,5654053
+4306,29/01/2021,Vandalismo,Media,6819623
+4307,30-03-2023,Vandalismo,Media,5199521
+4308,2023/07/13,Daño estructural,Alta,17070
+4309,04/08/2020,Vandalismo,Baja,17502
+4310,2022-10-13,Vandalismo,Crítica,8914012
+4311,2020-08-31,Robo,Alta,17260
+4312,2021/05/09,Accidente,Crítica,17896
+4313,02-27-2020,Daño estructural,Baja,16866
+4314,07-01-2023,Robo,Media,4737941
+4315,11/06/2024,Caída,Media,17431
+4316,2023-05-05,Daño estructural,Baja,17487
+4317,11-12-2022,Daño estructural,Alta,7165942
+4318,20/09/2022,Daño estructural,Alta,5208757
+4319,2021-04-06,Caída,Baja,17920
+4320,2021/03/21,Robo,Crítica,17866
+4321,20-05-2023,Vandalismo,Alta,7591686
+4322,08-11-2023,Vandalismo,Media,17919
+4323,01/12/2022,Daño estructural,Alta,17475
+4324,2020-12-09,Vándálísmó,Media,5241174
+4325,2021-11-18,Vandalismo,Crítica,17904
+4326,27/06/2022,Daño estructural,Alta,18395
+4327,2021-06-30,Cáídá,Crítica,52167
+4328,2019-11-27,Caída,Alta,4749890
+4329,2022/08/01,Caída,Crítica,18531
+4330,04-11-2023,Robo,Crítica,3568173
+4331,2021-01-20,Accidente,Alta,17802
+4332,2022-09-06,Róbó,Media,52154
+4333,12/03/2023,Vandalismo,Baja,52121
+4334,22/10/2019,Accidente,Baja,7802522
+4335,30-04-2021,Robo,Baja,18445
+4336,07-21-2024,Accídénté,Crítica,18404
+4337,09-25-2023,Robo,Crítica,17110
+4338,18-07-2020,Vándálísmó,Alta,451593
+4339,10-10-2022,Accidente,Crítica,4704499
+4340,04/11/2023,Róbó,Alta,52153
+4341,2020/05/14,Dáñó éstrúctúrál,Baja,5654025
+4342,23-09-2024,Caída,Media,16754
+4343,12-10-2021,Caída,Alta,17151
+4344,11-14-2020,Accidente,Baja,7126590
+4345,27-03-2024,Vandalismo,Media,18384
+4346,27/08/2020,Vándálísmó,Baja,17297
+4347,2022-01-23,Caída,Baja,16983
+4348,05-04-2023,Daño estructural,Media,5219935
+4349,05/05/2020,Caída,Media,3567539
+4350,12-19-2020,Daño estructural,Alta,17453
+4351,2024-10-10,Dáñó éstrúctúrál,Media,52156
+4352,16/07/2023,Robo,Alta,17744
+4353,2022/03/14,Daño estructural,Baja,17303
+4354,2021-07-21,Daño estructural,Crítica,16743
+4355,2024/02/01,Vandalismo,Crítica,17811
+4356,2021/05/21,Vándálísmó,Crítica,17062
+4357,2023-08-30,Daño estructural,Baja,17342
+4358,2021/07/09,Daño estructural,Alta,16943
+4359,2024/10/04,Vandalismo,Baja,9492616
+4360,10/11/2020,Vandalismo,Baja,17062
+4361,04/07/2022,Accidente,Crítica,18020
+4362,12-14-2022,Robo,Media,7595815
+4363,2024/10/08,Robo,Baja,18275
+4364,02-11-2020,Accidente,Media,3569210
+4365,23/05/2023,Vandalismo,Crítica,18139
+4366,08-12-2019,Accidente,Media,18036
+4367,2022/11/28,Robo,Crítica,17104
+4368,11-12-2020,Accidente,Alta,18552
+4369,2020-05-08,Daño estructural,Media,17425
+4370,2020-06-01,Caída,Media,5237129
+4371,20-08-2023,Robo,Crítica,18405
+4372,18-01-2021,Daño estructural,Media,16743
+4373,2024/03/21,Accidente,Baja,9277882
+4374,05-11-2021,Caída,Crítica,8799648
+4375,30/12/2021,Accidente,Media,16929
+4376,07-08-2021,Daño estructural,Crítica,18118
+4377,2023/01/21,Robo,Crítica,18095
+4378,2024/08/16,Daño estructural,Crítica,17614
+4379,2020/11/22,Accídénté,Media,18188
+4380,18-11-2019,Robo,Media,4730886
+4381,2021/11/17,Accídénté,Baja,17261
+4382,28-05-2024,Caída,Media,17180
+4383,01-06-2023,Daño estructural,Crítica,5654057
+4384,01-12-2022,Caída,Alta,17641
+4385,01/08/2023,Robo,Baja,5653903
+4386,2021/07/22,Robo,Baja,17620
+4387,2024-09-11,Robo,Baja,17625
+4388,17/01/2020,Accidente,Alta,52065
+4389,07/06/2021,Caída,Baja,17519
+4390,2023/04/09,Vandalismo,Alta,17899
+4391,08-22-2024,Caída,Crítica,17548
+4392,2021-10-23,Vándálísmó,Crítica,18394
+4393,2021-12-08,Cáídá,Media,16983
+4394,25/09/2022,Accídénté,Baja,18250
+4395,04-20-2022,Róbó,Baja,5240280
+4396,12-17-2021,Accidente,Baja,16850
+4397,17/09/2024,Daño estructural,Media,5219920
+4398,23/11/2022,Daño estructural,Crítica,5653924
+4399,2023/11/10,Accidente,Crítica,4988217
+4400,16-02-2023,Vándálísmó,Crítica,17901
+4401,05-12-2024,Vándálísmó,Media,16665
+4402,2023/06/17,Robo,Alta,52095
+4403,25/10/2019,Vandalismo,Media,17076
+4404,02-08-2024,Róbó,Media,17996
+4405,29/07/2022,Caída,Baja,17589
+4406,2021-10-11,Caída,Alta,18444
+4407,2023/10/27,Vándálísmó,Media,18053
+4408,2023-01-24,Accidente,Media,18630
+4409,28-08-2020,Caída,Baja,6819620
+4410,28/10/2020,Accidente,Baja,18510
+4411,2024-10-10,Vandalismo,Media,18284
+4412,2021-06-05,Accidente,Media,17681
+4413,2022/06/14,Accidente,Media,17606
+4414,2021/06/04,Accidente,Media,18472
+4415,2021/11/27,Accidente,Alta,16697
+4416,2021/08/21,Caída,Baja,17218
+4417,04-12-2019,Daño estructural,Crítica,18610
+4418,05-01-2023,Daño estructural,Baja,17960
+4419,02-28-2023,Róbó,Baja,451593
+4420,02-17-2020,Vandalismo,Baja,17821
+4421,02-26-2020,Accidente,Crítica,17473
+4422,26/08/2021,Accidente,Alta,16938
+4423,01-26-2022,Vandalismo,Crítica,17040
+4424,2021/08/04,Vandalismo,Baja,17131
+4425,2023/05/01,Vándálísmó,Alta,17353
+4426,02-01-2023,Vandalismo,Media,16975
+4427,17-02-2020,Vándálísmó,Media,18113
+4428,25/07/2022,Robo,Baja,18198
+4429,07-05-2023,Daño estructural,Crítica,17697
+4430,2023/05/12,Vandalismo,Baja,17156
+4431,31-03-2021,Robo,Alta,7903120
+4432,02-06-2023,Robo,Alta,17486
+4433,12-11-2022,Vandalismo,Baja,5241170
+4434,26/02/2021,Vandalismo,Media,17302
+4435,2023-07-19,Vandalismo,Alta,17431
+4436,21-05-2021,Caída,Media,4737855
+4437,28/01/2021,Róbó,Alta,7168553
+4438,2022-04-24,Cáídá,Baja,18586
+4439,14-11-2022,Accidente,Media,5654016
+4440,17/06/2024,Dáñó éstrúctúrál,Media,17107
+4441,06/09/2022,Vándálísmó,Media,5178801
+4442,2021-07-02,Vandalismo,Baja,52105
+4443,2022/06/25,Vandalismo,Alta,5240280
+4444,06-04-2020,Daño estructural,Crítica,17995
+4445,28-03-2022,Vándálísmó,Alta,9263613
+4446,2021-02-03,Accídénté,Alta,16907
+4447,17/06/2020,Daño estructural,Crítica,17991
+4448,2022-01-14,Vandalismo,Baja,18369
+4449,2020/01/26,Cáídá,Crítica,18617
+4450,28/07/2024,Robo,Baja,18230
+4451,09/05/2024,Accídénté,Crítica,17531
+4452,01-05-2020,Vandalismo,Baja,16921
+4453,06-10-2022,Caída,Crítica,3573050
+4454,10-06-2021,Accidente,Crítica,4749895
+4455,11/01/2023,Daño estructural,Alta,18450
+4456,01-19-2021,Caída,Alta,18072
+4457,20-12-2022,Daño estructural,Baja,17416
+4458,17-07-2024,Robo,Media,17434
+4459,03-27-2023,Accidente,Media,7126585
+4460,23/10/2020,Robo,Alta,16942
+4461,06-06-2022,Daño estructural,Baja,5237109
+4462,12/05/2020,Accidente,Crítica,4737941
+4463,15/05/2024,Vandalismo,Alta,16842
+4464,2023/05/04,Vandalismo,Baja,17322
+4465,12/08/2022,Robo,Alta,5240280
+4466,14-10-2024,Daño estructural,Crítica,18009
+4467,02-17-2024,Caída,Crítica,6819612
+4468,2020/01/23,Robo,Crítica,18427
+4469,11-10-2022,Daño estructural,Crítica,7933004
+4470,16-02-2022,Robo,Alta,17146
+4471,2019/12/02,Caída,Crítica,17210
+4472,2020/03/26,Daño estructural,Alta,16913
+4473,08-29-2023,Daño estructural,Baja,16700
+4474,15-09-2024,Caída,Alta,8800261
+4475,18-06-2024,Daño estructural,Crítica,17135
+4476,2024-09-04,Accídénté,Alta,5653909
+4477,05-02-2024,Daño estructural,Baja,52040
+4478,2023-03-23,Accidente,Baja,17023
+4479,19/09/2021,Accidente,Alta,16753
+4480,08-29-2021,Accídénté,Baja,18515
+4481,2023/04/23,Vandalismo,Baja,7144275
+4482,2020/08/25,Accidente,Crítica,17462
+4483,2021-07-11,Daño estructural,Alta,17381
+4484,02-09-2020,Accidente,Baja,17800
+4485,05-06-2020,Robo,Baja,7595816
+4486,2020/09/02,Vandalismo,Alta,5213824
+4487,2020-06-24,Accidente,Alta,5241186
+4488,2020-10-08,Accidente,Media,5241183
+4489,30-11-2019,Caída,Alta,18211
+4490,23/02/2021,Caída,Crítica,17807
+4491,11-11-2020,Accidente,Crítica,5654012
+4492,12-26-2023,Caída,Baja,17464
+4493,2024-09-18,Caída,Media,3573330
+4494,2021-09-06,Daño estructural,Baja,18187
+4495,30-04-2024,Accídénté,Media,7356676
+4496,2021-10-24,Cáídá,Baja,5174650
+4497,18/07/2024,Vándálísmó,Alta,17701
+4498,14/10/2023,Robo,Crítica,6819622
+4499,10-09-2023,Daño estructural,Baja,16867
+4500,2024-04-09,Vandalismo,Media,52181
+4501,03-22-2021,Accídénté,Media,7403980
+4502,24/06/2024,Daño estructural,Crítica,16976
+4503,17/05/2023,Robo,Alta,5237119
+4504,2021/11/19,Daño estructural,Media,18547
+4505,06-05-2022,Caída,Media,17651
+4506,01/02/2023,Accídénté,Alta,16931
+4507,2021-03-22,Dáñó éstrúctúrál,Crítica,5195385
+4508,07-29-2023,Accidente,Baja,16753
+4509,2022-09-12,Accidente,Alta,18017
+4510,16/03/2024,Caída,Media,17814
+4511,07/05/2020,Accídénté,Crítica,5246189
+4512,2022-12-15,Daño estructural,Media,18594
+4513,22/01/2020,Robo,Baja,9503906
+4514,31/05/2023,Dáñó éstrúctúrál,Media,17824
+4515,2021-11-23,Accidente,Crítica,17957
+4516,19/07/2020,Dáñó éstrúctúrál,Crítica,17049
+4517,15-01-2023,Daño estructural,Baja,17870
+4518,28/01/2022,Robo,Alta,17339
+4519,15/10/2020,Robo,Media,17637
+4520,2023-07-18,Daño estructural,Baja,17854
+4521,2021/08/02,Robo,Alta,17274
+4522,2024-02-08,Vandalismo,Media,18262
+4523,30/06/2022,Robo,Crítica,17295
+4524,2021/05/01,Daño estructural,Media,52121
+4525,21-02-2023,Accidente,Crítica,17747
+4526,09-15-2022,Vandalismo,Alta,18121
+4527,21/05/2022,Dáñó éstrúctúrál,Crítica,17714
+4528,14/11/2023,Daño estructural,Media,8218587
+4529,16-01-2020,Daño estructural,Media,18236
+4530,2021-03-07,Daño estructural,Alta,16898
+4531,2019/12/07,Robo,Crítica,3573056
+4532,16/05/2020,Daño estructural,Alta,18606
+4533,29-08-2024,Accídénté,Crítica,17535
+4534,2021-02-07,Vandalismo,Crítica,17738
+4535,12-02-2020,Róbó,Crítica,18495
+4536,2019/11/21,Vandalismo,Baja,18077
+4537,2023/07/17,Accidente,Baja,5241182
+4538,03-10-2020,Daño estructural,Baja,52205
+4539,2021-09-17,Vandalismo,Crítica,5237120
+4540,04-17-2024,Cáídá,Alta,16752
+4541,07-25-2023,Róbó,Crítica,18026
+4542,2020-07-15,Vandalismo,Crítica,17378
+4543,2022/01/30,Caída,Baja,17395
+4544,2022/10/25,Caída,Crítica,18343
+4545,02/02/2024,Róbó,Baja,7928053
+4546,04-22-2021,Dáñó éstrúctúrál,Baja,18483
+4547,27/01/2024,Caída,Baja,16869
+4548,2021/03/12,Vándálísmó,Media,7245849
+4549,2024/04/19,Caída,Crítica,17450
+4550,08/08/2021,Robo,Alta,18451
+4551,2021/01/17,Daño estructural,Baja,16931
+4552,13/11/2021,Robo,Baja,52224
+4553,07-08-2020,Caída,Alta,17667
+4554,2023/04/20,Vandalismo,Baja,18471
+4555,2023/09/21,Vándálísmó,Crítica,4730835
+4556,22-08-2021,Daño estructural,Crítica,7126517
+4557,2024/04/11,Daño estructural,Crítica,18517
+4558,2019/12/02,Caída,Alta,52194
+4559,2024-04-27,Cáídá,Crítica,52148
+4560,24/12/2021,Vandalismo,Alta,16822
+4561,2020/03/14,Vandalismo,Alta,17300
+4562,2021/07/30,Accidente,Media,7248182
+4563,03-18-2024,Robo,Crítica,18027
+4564,13/02/2023,Caída,Media,16990
+4565,20/10/2019,Daño estructural,Baja,17921
+4566,10-04-2021,Daño estructural,Crítica,52143
+4567,2021-10-08,Accidente,Media,17856
+4568,18-06-2024,Robo,Alta,16835
+4569,26/02/2023,Caída,Baja,52102
+4570,01-07-2021,Robo,Crítica,17916
+4571,29/05/2021,Robo,Crítica,5220679
+4572,04-09-2021,Vandalismo,Media,7162545
+4573,03-09-2022,Vandalismo,Alta,18389
+4574,11-30-2020,Daño estructural,Media,16701
+4575,02-05-2021,Vandalismo,Media,17808
+4576,2023-03-07,Vándálísmó,Crítica,5213833
+4577,05/07/2020,Vandalismo,Crítica,16748
+4578,2021/03/13,Accidente,Alta,18311
+4579,17-09-2021,Vandalismo,Media,7903120
+4580,2020-12-14,Caída,Baja,17955
+4581,2021/08/15,Accídénté,Alta,17043
+4582,2023-08-06,Daño estructural,Media,52068
+4583,03/04/2024,Accidente,Media,18178
+4584,12-04-2020,Caída,Alta,16839
+4585,02-08-2020,Cáídá,Media,5220798
+4586,2021-01-25,Daño estructural,Media,17493
+4587,16/06/2021,Caída,Crítica,7943797
+4588,2021/12/11,Accidente,Alta,52208
+4589,2021-01-31,Róbó,Media,7125619
+4590,12-27-2021,Accídénté,Media,52163
+4591,27/08/2024,Accidente,Alta,17940
+4592,2023-08-03,Accidente,Baja,17315
+4593,28-11-2023,Dáñó éstrúctúrál,Alta,3573331
+4594,2023/04/28,Caída,Media,16659
+4595,20/09/2024,Daño estructural,Media,52213
+4596,2021-10-26,Dáñó éstrúctúrál,Baja,4730869
+4597,27/11/2022,Róbó,Media,18551
+4598,2023-04-17,Caída,Media,3569191
+4599,2020-12-11,Accidente,Crítica,8799942
+4600,12-02-2019,Vandalismo,Baja,7943813
+4601,2022-05-10,Accídénté,Alta,5158912
+4602,10-04-2022,Vandalismo,Media,5241180
+4603,08/05/2021,Vandalismo,Alta,17523
+4604,2023/09/10,Vandalismo,Alta,17445
+4605,01/02/2021,Caída,Alta,17876
+4606,2022/01/20,Caída,Baja,16687
+4607,19-04-2023,Caída,Alta,52227
+4608,30/01/2022,Cáídá,Alta,17511
+4609,2023/07/10,Caída,Crítica,17164
+4610,2023-09-19,Robo,Crítica,16946
+4611,2024/07/17,Accidente,Crítica,7862164
+4612,05-23-2023,Caída,Alta,17695
+4613,19/10/2020,Accidente,Crítica,17564
+4614,14/06/2021,Caída,Baja,5654025
+4615,2021-05-09,Daño estructural,Baja,7248199
+4616,10-10-2024,Caída,Media,17494
+4617,08-19-2024,Vandalismo,Alta,5240282
+4618,24/10/2022,Dáñó éstrúctúrál,Alta,17864
+4619,12/11/2023,Vandalismo,Alta,18189
+4620,12-09-2024,Robo,Baja,9049653
+4621,2023/07/13,Dáñó éstrúctúrál,Media,17152
+4622,04-26-2023,Daño estructural,Alta,17446
+4623,2021/01/21,Accidente,Media,17453
+4624,2022/08/15,Caída,Alta,5653901
+4625,11/12/2023,Vandalismo,Media,7928105
+4626,2021-08-28,Cáídá,Crítica,17552
+4627,17-09-2020,Caída,Media,18630
+4628,2019-11-24,Cáídá,Crítica,17579
+4629,03-01-2021,Dáñó éstrúctúrál,Media,18610
+4630,2021-10-27,Accidente,Baja,18035
+4631,2022/03/23,Róbó,Crítica,18198
+4632,2020/08/09,Daño estructural,Media,17300
+4633,17/12/2022,Róbó,Baja,3530623
+4634,16-02-2023,Caída,Crítica,17892
+4635,04/04/2024,Daño estructural,Alta,17727
+4636,2021-05-23,Daño estructural,Media,18487
+4637,09-04-2020,Daño estructural,Media,7927289
+4638,2023-02-04,Vandalismo,Crítica,17133
+4639,2022/04/03,Vandalismo,Baja,7248199
+4640,16-03-2024,Vandalismo,Baja,8799632
+4641,2022/02/15,Robo,Crítica,16750
+4642,05-01-2021,Cáídá,Media,3568306
+4643,07-03-2021,Dáñó éstrúctúrál,Baja,17763
+4644,2024-05-19,Robo,Media,3991194
+4645,01-10-2024,Caída,Alta,18140
+4646,04-11-2022,Robo,Baja,5220798
+4647,01-04-2023,Robo,Crítica,18229
+4648,2023/10/30,Vandalismo,Crítica,17965
+4649,2020/06/22,Vandalismo,Alta,18375
+4650,01-03-2022,Daño estructural,Crítica,52070
+4651,19-06-2020,Robo,Alta,18325
+4652,2020/07/11,Accidente,Baja,18134
+4653,05-10-2020,Vandalismo,Media,18284
+4654,14-02-2023,Accidente,Media,17892
+4655,13/04/2021,Caída,Crítica,17459
+4656,2022-12-24,Robo,Baja,52065
+4657,2022-03-07,Vandalismo,Alta,17308
+4658,2020/12/17,Daño estructural,Baja,5241179
+4659,2022/01/07,Accidente,Baja,18381
+4660,09-02-2020,Accidente,Media,52085
+4661,2021/03/19,Vandalismo,Crítica,16960
+4662,2020-10-29,Daño estructural,Crítica,17682
+4663,31-08-2023,Robo,Media,5237112
+4664,16-02-2024,Vandalismo,Alta,16843
+4665,2024-02-12,Robo,Alta,16832
+4666,2023/08/16,Cáídá,Baja,18140
+4667,2024/08/27,Robo,Baja,18034
+4668,23-07-2023,Cáídá,Baja,17610
+4669,12/02/2022,Vandalismo,Baja,17610
+4670,10-16-2021,Daño estructural,Media,7943797
+4671,01-03-2022,Robo,Crítica,9438309
+4672,2019/12/25,Vandalismo,Crítica,18137
+4673,14-05-2020,Caída,Baja,52216
+4674,2023-12-15,Vandalismo,Alta,52078
+4675,2021/02/03,Vandalismo,Media,17103
+4676,2022/06/23,Vandalismo,Alta,52061
+4677,03-03-2024,Dáñó éstrúctúrál,Media,17842
+4678,2022/01/20,Róbó,Crítica,8909085
+4679,09-04-2021,Róbó,Alta,3991213
+4680,2024-09-01,Vandalismo,Media,16946
+4681,07/12/2020,Caída,Media,9187536
+4682,2020-04-02,Vándálísmó,Alta,18139
+4683,18-12-2022,Vándálísmó,Crítica,17879
+4684,03-13-2023,Róbó,Alta,17143
+4685,2020/01/30,Vandalismo,Baja,17176
+4686,2022-04-11,Caída,Media,16701
+4687,2023-07-11,Robo,Baja,17315
+4688,2021-01-06,Vándálísmó,Alta,17372
+4689,06-03-2021,Accidente,Media,5219515
+4690,2024/08/24,Accidente,Baja,18617
+4691,29-09-2022,Accidente,Baja,8914012
+4692,2020-01-11,Accidente,Media,17853
+4693,2021-05-04,Daño estructural,Baja,18003
+4694,2024/01/07,Robo,Crítica,18253
+4695,11-25-2022,Daño estructural,Baja,17199
+4696,04-25-2022,Róbó,Media,17596
+4697,31-03-2022,Robo,Alta,451584
+4698,25-12-2020,Daño estructural,Crítica,52144
+4699,20/06/2022,Dáñó éstrúctúrál,Media,17015
+4700,2020/07/31,Daño estructural,Alta,7591499
+4701,01-23-2021,Cáídá,Alta,17578
+4702,2023-07-27,Vandalismo,Crítica,18515
+4703,2020/12/28,Robo,Baja,18105
+4704,2020/02/06,Accidente,Baja,3573052
+4705,2019-12-11,Accidente,Crítica,18082
+4706,15-05-2024,Róbó,Crítica,8907324
+4707,2020/02/16,Vándálísmó,Media,7764194
+4708,2019-10-20,Róbó,Alta,18631
+4709,19/09/2023,Accídénté,Crítica,18061
+4710,02-25-2021,Accídénté,Alta,17009
+4711,06/09/2020,Vandalismo,Media,17490
+4712,28-03-2020,Daño estructural,Crítica,17130
+4713,27/04/2024,Vandalismo,Baja,18551
+4714,03-07-2021,Robo,Alta,17090
+4715,23/07/2020,Daño estructural,Crítica,4985689
+4716,21/03/2022,Accidente,Baja,16854
+4717,06-26-2024,Accidente,Alta,18396
+4718,27/10/2022,Vandalismo,Crítica,52184
+4719,2020/02/23,Accidente,Media,9046351
+4720,2021/09/06,Vandalismo,Baja,52168
+4721,2024-01-20,Daño estructural,Media,17667
+4722,20-04-2023,Robo,Crítica,18017
+4723,2021-07-26,Daño estructural,Baja,18487
+4724,01-30-2022,Robo,Crítica,17429
+4725,03/05/2024,Daño estructural,Crítica,5240327
+4726,07-01-2021,Robo,Media,7943813
+4727,2024-03-19,Accidente,Baja,8799638
+4728,03/07/2023,Robo,Crítica,17377
+4729,08-19-2021,Daño estructural,Alta,18557
+4730,16/11/2019,Cáídá,Baja,17814
+4731,13/08/2022,Accídénté,Baja,18518
+4732,05-10-2024,Vandalismo,Crítica,5173859
+4733,2024-06-04,Caída,Crítica,18599
+4734,2023-04-30,Vándálísmó,Alta,17441
+4735,2022/03/19,Daño estructural,Crítica,17019
+4736,21/08/2021,Róbó,Crítica,18002
+4737,13-04-2021,Accidente,Media,17040
+4738,2020/08/31,Accidente,Baja,17565
+4739,08/09/2022,Robo,Crítica,17154
+4740,2023-08-22,Caída,Alta,17093
+4741,2023-12-21,Dáñó éstrúctúrál,Media,52157
+4742,11-30-2023,Dáñó éstrúctúrál,Alta,18430
+4743,10/04/2024,Robo,Media,16899
+4744,05/02/2021,Vándálísmó,Alta,18560
+4745,2021/10/21,Daño estructural,Crítica,17065
+4746,18/10/2019,Daño estructural,Media,16811
+4747,17/06/2022,Caída,Baja,17646
+4748,21/05/2023,Accidente,Alta,8799552
+4749,04/04/2024,Accídénté,Crítica,17926
+4750,2020/01/22,Robo,Media,17553
+4751,08-10-2022,Daño estructural,Baja,18286
+4752,07-16-2023,Róbó,Alta,5220866
+4753,22/03/2022,Vandalismo,Media,17363
+4754,2022/08/02,Cáídá,Alta,17841
+4755,2021-06-26,Vandalismo,Crítica,17871
+4756,28-11-2023,Daño estructural,Baja,17326
+4757,16-09-2022,Accidente,Media,17142
+4758,03-08-2022,Robo,Media,17687
+4759,2021-11-26,Cáídá,Alta,17921
+4760,11-17-2020,Robo,Crítica,17806
+4761,02-01-2024,Vandalismo,Media,17195
+4762,06-09-2024,Caída,Media,6779455
+4763,24-07-2022,Vandalismo,Media,18334
+4764,2019/11/23,Vandalismo,Alta,18019
+4765,2024/02/03,Caída,Baja,17803
+4766,2021-03-11,Robo,Media,18331
+4767,11-10-2021,Caída,Media,17761
+4768,18-07-2022,Róbó,Alta,17207
+4769,23-03-2020,Caída,Crítica,7613585
+4770,03/05/2022,Accidente,Alta,17514
+4771,08-17-2021,Robo,Alta,4749898
+4772,19/10/2019,Caída,Baja,17491
+4773,20/08/2023,Accidente,Crítica,7074605
+4774,14-11-2021,Robo,Baja,16884
+4775,21-04-2023,Dáñó éstrúctúrál,Crítica,17148
+4776,2020-02-13,Robo,Baja,16668
+4777,12-04-2019,Caída,Baja,18133
+4778,01-02-2022,Vandalismo,Crítica,9348753
+4779,28/01/2023,Accidente,Media,17627
+4780,03-17-2023,Vandalismo,Baja,18179
+4781,22-06-2024,Robo,Crítica,18433
+4782,04-07-2023,Vandalismo,Alta,4795654
+4783,2022/11/29,Daño estructural,Crítica,17858
+4784,10/07/2021,Daño estructural,Baja,17830
+4785,07-10-2022,Caída,Crítica,5240287
+4786,07-16-2023,Caída,Media,16931
+4787,2023/03/22,Daño estructural,Media,17743
+4788,07-09-2023,Accidente,Crítica,16672
+4789,29-12-2023,Accídénté,Media,18025
+4790,2021-01-07,Daño estructural,Baja,4730844
+4791,18/12/2021,Caída,Alta,52194
+4792,11-27-2021,Daño estructural,Baja,18432
+4793,2023/04/06,Vandalismo,Crítica,16769
+4794,21-10-2019,Accidente,Baja,17140
+4795,2021-04-08,Daño estructural,Crítica,17043
+4796,2023/08/05,Robo,Crítica,18593
+4797,2020-05-16,Accidente,Crítica,5240107
+4798,03/08/2023,Robo,Media,16680
+4799,2023/05/16,Daño estructural,Baja,16736
+4800,22-11-2021,Caída,Baja,16820
+4801,2021-09-10,Vandalismo,Alta,9494172
+4802,10-11-2022,Daño estructural,Media,3573015
+4803,2021/01/07,Accidente,Media,18318
+4804,2024/06/12,Caída,Alta,16910
+4805,03-17-2020,Robo,Alta,5654012
+4806,28/02/2022,Vandalismo,Alta,52213
+4807,04/05/2020,Robo,Crítica,17405
+4808,05-15-2021,Cáídá,Baja,9049658
+4809,2024/08/08,Daño estructural,Crítica,52185
+4810,2019-12-15,Vandalismo,Media,17158
+4811,2020/11/12,Vandalismo,Media,9049652
+4812,15/01/2021,Daño estructural,Baja,18228
+4813,2024-09-30,Caída,Media,8799638
+4814,10-03-2024,Robo,Baja,7168553
+4815,18-02-2022,Vándálísmó,Media,16929
+4816,03-21-2024,Róbó,Baja,18205
+4817,19/10/2019,Vándálísmó,Baja,16748
+4818,2024/07/19,Robo,Alta,18552
+4819,11-10-2020,Caída,Crítica,7838818
+4820,2022/10/01,Accidente,Alta,17723
+4821,04/01/2020,Accídénté,Alta,16964
+4822,2023-03-05,Robo,Baja,17473
+4823,10/07/2023,Accidente,Alta,16846
+4824,2021/07/01,Accidente,Alta,8775331
+4825,2023/04/13,Robo,Baja,5107830
+4826,05-11-2024,Vandalismo,Alta,17281
+4827,2024/01/11,Daño estructural,Media,17927
+4828,2022-09-16,Caída,Media,17699
+4829,2021-09-13,Vandalismo,Crítica,52231
+4830,24-02-2023,Vandalismo,Alta,17970
+4831,17-12-2021,Daño estructural,Media,17555
+4832,05-09-2024,Caída,Crítica,18548
+4833,08-31-2023,Robo,Media,17976
+4834,29-04-2023,Accidente,Baja,3990963
+4835,2021-11-20,Caída,Media,17626
+4836,2023-05-09,Vandalismo,Baja,5241176
+4837,2023/03/19,Cáídá,Media,4745667
+4838,17/01/2024,Accidente,Crítica,17052
+4839,2020/12/21,Daño estructural,Crítica,17785
+4840,10-10-2021,Vandalismo,Baja,17178
+4841,06-01-2022,Cáídá,Baja,52111
+4842,11/10/2022,Daño estructural,Alta,17756
+4843,2023-01-10,Daño estructural,Alta,16856
+4844,2022/11/08,Accidente,Crítica,17791
+4845,2023-07-28,Robo,Media,16761
+4846,2023-06-09,Robo,Baja,52131
+4847,2020/03/22,Accidente,Alta,17242
+4848,2024-07-02,Robo,Baja,3576089
+4849,2024/08/13,Accidente,Crítica,17668
+4850,22-03-2021,Daño estructural,Crítica,5653965
+4851,2021-08-12,Dáñó éstrúctúrál,Media,4704508
+4852,2021/07/18,Cáídá,Crítica,17554
+4853,16-04-2022,Accidente,Alta,5241169
+4854,2024-07-08,Robo,Media,18250
+4855,2024/09/27,Vandalismo,Alta,17423
+4856,2020-08-17,Róbó,Baja,18533
+4857,2023-05-16,Vandalismo,Crítica,8799551
+4858,01-08-2022,Robo,Crítica,5653960
+4859,03-12-2024,Vandalismo,Crítica,16966
+4860,03/07/2023,Accidente,Alta,17448
+4861,07-04-2021,Caída,Baja,7903107
+4862,25-07-2021,Daño estructural,Media,18275
+4863,2021/03/03,Vandalismo,Crítica,18287
+4864,2022/10/08,Dáñó éstrúctúrál,Media,18197
+4865,2020/10/13,Caída,Alta,17690
+4866,2022/03/13,Accidente,Media,17764
+4867,2020-03-29,Caída,Crítica,7861611
+4868,01-03-2021,Daño estructural,Crítica,8799532
+4869,12-22-2022,Accidente,Baja,17549
+4870,2023-06-16,Vandalismo,Baja,16998
+4871,01-18-2024,Accidente,Baja,8799532
+4872,04-13-2023,Robo,Media,17360
+4873,2023-04-20,Vandalismo,Media,4730886
+4874,02-14-2020,Robo,Baja,17815
+4875,20/03/2021,Caída,Crítica,6905562
+4876,15/05/2024,Accidente,Baja,16956
+4877,01/10/2021,Daño estructural,Crítica,17727
+4878,2023/09/21,Daño estructural,Crítica,18529
+4879,12-04-2019,Vandalismo,Crítica,17276
+4880,02/10/2024,Vandalismo,Crítica,17484
+4881,10/08/2020,Cáídá,Alta,17791
+4882,2020/02/17,Caída,Baja,52160
+4883,09/05/2022,Caída,Alta,18462
+4884,2020/11/25,Caída,Media,18605
+4885,2021-03-03,Caída,Baja,17362
+4886,12-30-2021,Róbó,Media,7165658
+4887,2024/07/07,Robo,Alta,18324
+4888,27/10/2022,Caída,Baja,18145
+4889,07-25-2021,Accidente,Baja,18229
+4890,2021/05/25,Caída,Media,52210
+4891,20/06/2024,Robo,Alta,18108
+4892,2022/02/05,Accidente,Media,461341
+4893,2020/10/09,Robo,Alta,18083
+4894,2020-01-28,Accidente,Alta,17776
+4895,2020-11-09,Daño estructural,Media,4737855
+4896,12-05-2020,Accidente,Baja,9049654
+4897,19/10/2021,Daño estructural,Crítica,18157
+4898,04/02/2023,Vandalismo,Media,17144
+4899,2023/04/18,Daño estructural,Crítica,17862
+4900,09-24-2020,Daño estructural,Crítica,17200
+4901,2024/10/14,Daño estructural,Baja,18587
+4902,03/07/2022,Vandalismo,Alta,17548
+4903,2024/08/22,Cáídá,Alta,16664
+4904,2024/09/10,Caída,Crítica,17412
+4905,05/07/2021,Róbó,Baja,6819620
+4906,07/03/2024,Caída,Baja,18087
+4907,2022-05-19,Vandalismo,Alta,18569
+4908,2020/06/11,Robo,Baja,16842
+4909,15-11-2022,Accídénté,Crítica,17652
+4910,2023/12/22,Accidente,Alta,16976
+4911,2020-10-16,Accídénté,Baja,7613890
+4912,2023-11-25,Caída,Baja,17159
+4913,09-08-2021,Róbó,Alta,17159
+4914,2022-07-05,Vandalismo,Alta,17903
+4915,2021-11-10,Daño estructural,Media,17788
+4916,08-03-2023,Robo,Media,17812
+4917,17-12-2019,Accidente,Alta,17826
+4918,2021-02-28,Daño estructural,Alta,17735
+4919,23-03-2020,Caída,Crítica,17808
+4920,21-03-2024,Daño estructural,Crítica,17578
+4921,14/08/2023,Accidente,Media,17217
+4922,2020-02-01,Robo,Crítica,17051
+4923,07-02-2021,Caída,Crítica,17722
+4924,19-07-2024,Daño estructural,Crítica,9049643
+4925,2022/02/06,Vándálísmó,Crítica,18470
+4926,2022/01/01,Accídénté,Media,17203
+4927,25-04-2021,Accidente,Alta,52086
+4928,2023/07/26,Accídénté,Alta,17159
+4929,27-10-2021,Daño estructural,Media,7356654
+4930,10/04/2023,Robo,Alta,17376
+4931,13-02-2022,Daño estructural,Crítica,18549
+4932,2020-03-16,Caída,Alta,17017
+4933,03-19-2022,Vandalismo,Baja,17899
+4934,2019/11/05,Robo,Crítica,17346
+4935,2022/12/30,Vandalismo,Baja,17584
+4936,2022/11/15,Caída,Crítica,9049653
+4937,2021/06/05,Vándálísmó,Media,52204
+4938,2020-12-24,Caída,Baja,18214
+4939,04-11-2019,Robo,Baja,5220679
+4940,07-19-2023,Accidente,Alta,17383
+4941,2022-06-22,Vandalismo,Alta,18027
+4942,25/05/2021,Róbó,Alta,18163
+4943,2020/11/15,Accidente,Baja,17347
+4944,13/05/2024,Vandalismo,Crítica,18197
+4945,01-04-2022,Accidente,Baja,17051
+4946,27/12/2022,Accidente,Crítica,52185
+4947,2023-04-15,Robo,Alta,5653950
+4948,2024/02/19,Accídénté,Baja,18062
+4949,06-04-2022,Accidente,Alta,17771
+4950,2020/10/13,Dáñó éstrúctúrál,Baja,18474
+4951,23-01-2023,Caída,Crítica,7902706
+4952,2024/03/27,Dáñó éstrúctúrál,Alta,3567539
+4953,2020-08-24,Accidente,Media,17797
+4954,2024-01-15,Caída,Crítica,17397
+4955,2023-07-16,Robo,Baja,17170
+4956,2024-03-17,Caída,Crítica,17714
+4957,19-02-2024,Robo,Media,17833
+4958,13/10/2023,Cáídá,Crítica,17457
+4959,30/11/2021,Cáídá,Alta,16721
+4960,2023-12-12,Daño estructural,Crítica,52046
+4961,09/10/2024,Accidente,Alta,16899
+4962,20-03-2021,Caída,Baja,18019
+4963,21-05-2023,Accidente,Baja,17433
+4964,2022/07/11,Daño estructural,Baja,7933003
+4965,2024/07/11,Vandalismo,Baja,17199
+4966,23/04/2022,Accidente,Crítica,18055
+4967,2021/11/27,Vandalismo,Alta,16849
+4968,2023-05-11,Daño estructural,Baja,17860
+4969,05-05-2023,Accidente,Baja,17838
+4970,04-30-2020,Vandalismo,Crítica,17433
+4971,2023-01-02,Robo,Crítica,4731641
+4972,2023-06-11,Accidente,Crítica,17216
+4973,2019/11/17,Daño estructural,Baja,17964
+4974,24/03/2024,Vandalismo,Crítica,18016
+4975,12-08-2023,Accidente,Media,18338
+4976,07/10/2020,Robo,Media,17829
+4977,2020-11-20,Vandalismo,Baja,17085
+4978,2023-12-08,Vandalismo,Baja,17728
+4979,2024-09-11,Caída,Alta,52216
+4980,03/04/2024,Accidente,Baja,52223
+4981,2023-06-25,Accidente,Crítica,16897
+4982,2020-04-16,Robo,Baja,17801
+4983,04/08/2023,Daño estructural,Media,5109124
+4984,07-31-2021,Cáídá,Media,7903107
+4985,05/11/2020,Daño estructural,Alta,17521
+4986,01-02-2022,Cáídá,Baja,5237132
+4987,16-02-2020,Daño estructural,Crítica,5237122
+4988,15/09/2024,Accidente,Crítica,7928004
+4989,08-08-2024,Cáídá,Crítica,3960929
+4990,11/10/2020,Caída,Alta,17458
+4991,2021/04/08,Vandalismo,Crítica,9046350
+4992,06/09/2023,Vándálísmó,Media,18545
+4993,2021-11-03,Daño estructural,Baja,16770
+4994,11/04/2024,Daño estructural,Media,17786
+4995,29/06/2020,Daño estructural,Alta,18072
+4996,2024-01-22,Caída,Baja,3573018
+4997,2020/03/01,Accidente,Media,16844
+4998,2023/04/30,Accidente,Crítica,18207
+4999,12-09-2022,Accidente,Crítica,17335
+5000,06-03-2021,Dáñó éstrúctúrál,Media,16937
+3501,07/07/2020,Vandalismo,Media,7125670
+4346,27/08/2020,Vándálísmó,Baja,17297
+3958,16/03/2020,Caída,Baja,18567
+3353,19-08-2020,Cáídá,Baja,18590
+1321,2023/12/31,Accidente,Baja,17931
