@@ -1,4 +1,4 @@
-<h1 align="center"> ✨ ETL con Python </h1>
+<h1 align="center"> ✨ Preprocesado de datos con Python </h1>
 <p align="center">
   <h2 align="left"> ● Antes: </h2>
   <img src="./Imagenes/Captura2.JPG" width="1000"/>
